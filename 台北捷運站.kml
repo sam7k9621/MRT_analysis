@@ -1,0 +1,1955 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="台北捷運站" id="台北捷運站">
+	<SimpleField name="StationUID" type="string"></SimpleField>
+	<SimpleField name="StationID" type="string"></SimpleField>
+	<SimpleField name="Zh_tw" type="string"></SimpleField>
+	<SimpleField name="En" type="string"></SimpleField>
+	<SimpleField name="PositionLa" type="float"></SimpleField>
+	<SimpleField name="PositionLo" type="float"></SimpleField>
+	<SimpleField name="StationAdd" type="string"></SimpleField>
+	<SimpleField name="BikeAllowO" type="int"></SimpleField>
+	<SimpleField name="SrcUpdateT" type="string"></SimpleField>
+	<SimpleField name="UpdateTime" type="string"></SimpleField>
+	<SimpleField name="UniqueID" type="string"></SimpleField>
+</Schema>
+<Folder><name>台北捷運站</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR01</SimpleData>
+		<SimpleData name="StationID">BR01</SimpleData>
+		<SimpleData name="Zh_tw">動物園</SimpleData>
+		<SimpleData name="En">Taipei Zoo</SimpleData>
+		<SimpleData name="PositionLa">24.99820500000</SimpleData>
+		<SimpleData name="PositionLo">121.57950100000</SimpleData>
+		<SimpleData name="StationAdd">11656臺北市文山區新光路2段32號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.579501,24.998205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR02</SimpleData>
+		<SimpleData name="StationID">BR02</SimpleData>
+		<SimpleData name="Zh_tw">木柵</SimpleData>
+		<SimpleData name="En">Muzha</SimpleData>
+		<SimpleData name="PositionLa">24.99824000000</SimpleData>
+		<SimpleData name="PositionLo">121.57312700000</SimpleData>
+		<SimpleData name="StationAdd">11656臺北市文山區木柵路4段135號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.573127,24.99824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR03</SimpleData>
+		<SimpleData name="StationID">BR03</SimpleData>
+		<SimpleData name="Zh_tw">萬芳社區</SimpleData>
+		<SimpleData name="En">Wanfang Community</SimpleData>
+		<SimpleData name="PositionLa">24.99857000000</SimpleData>
+		<SimpleData name="PositionLo">121.56808800000</SimpleData>
+		<SimpleData name="StationAdd">11653臺北市文山區萬芳路60號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.568088,24.99857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR04</SimpleData>
+		<SimpleData name="StationID">BR04</SimpleData>
+		<SimpleData name="Zh_tw">萬芳醫院</SimpleData>
+		<SimpleData name="En">Wanfang Hospital</SimpleData>
+		<SimpleData name="PositionLa">24.99932000000</SimpleData>
+		<SimpleData name="PositionLo">121.55809200000</SimpleData>
+		<SimpleData name="StationAdd">11696臺北市文山區興隆路3段113號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.558092,24.99932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR05</SimpleData>
+		<SimpleData name="StationID">BR05</SimpleData>
+		<SimpleData name="Zh_tw">辛亥</SimpleData>
+		<SimpleData name="En">Xinhai</SimpleData>
+		<SimpleData name="PositionLa">25.00545500000</SimpleData>
+		<SimpleData name="PositionLo">121.55704600000</SimpleData>
+		<SimpleData name="StationAdd">11694臺北市文山區辛亥路4段128號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.557046,25.005455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR06</SimpleData>
+		<SimpleData name="StationID">BR06</SimpleData>
+		<SimpleData name="Zh_tw">麟光</SimpleData>
+		<SimpleData name="En">Linguang</SimpleData>
+		<SimpleData name="PositionLa">25.01849500000</SimpleData>
+		<SimpleData name="PositionLo">121.55883400000</SimpleData>
+		<SimpleData name="StationAdd">10676臺北市大安區和平東路3段410號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.558834,25.018495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR07</SimpleData>
+		<SimpleData name="StationID">BR07</SimpleData>
+		<SimpleData name="Zh_tw">六張犁</SimpleData>
+		<SimpleData name="En">Liuzhangli</SimpleData>
+		<SimpleData name="PositionLa">25.02381000000</SimpleData>
+		<SimpleData name="PositionLo">121.55302000000</SimpleData>
+		<SimpleData name="StationAdd">10674臺北市大安區和平東路3段168號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.55302,25.02381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR08</SimpleData>
+		<SimpleData name="StationID">BR08</SimpleData>
+		<SimpleData name="Zh_tw">科技大樓</SimpleData>
+		<SimpleData name="En">Technology Building</SimpleData>
+		<SimpleData name="PositionLa">25.02612000000</SimpleData>
+		<SimpleData name="PositionLo">121.54346200000</SimpleData>
+		<SimpleData name="StationAdd">10667臺北市大安區復興南路2段235號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.543462,25.02612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR09</SimpleData>
+		<SimpleData name="StationID">BR09</SimpleData>
+		<SimpleData name="Zh_tw">大安</SimpleData>
+		<SimpleData name="En">Daan</SimpleData>
+		<SimpleData name="PositionLa">25.03331100000</SimpleData>
+		<SimpleData name="PositionLo">121.54237000000</SimpleData>
+		<SimpleData name="StationAdd">10683臺北市大安區信義路4段2號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.54237,25.033311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR10</SimpleData>
+		<SimpleData name="StationID">BR10</SimpleData>
+		<SimpleData name="Zh_tw">忠孝復興</SimpleData>
+		<SimpleData name="En">Zhongxiao Fuxing</SimpleData>
+		<SimpleData name="PositionLa">25.04174900000</SimpleData>
+		<SimpleData name="PositionLo">121.54502600000</SimpleData>
+		<SimpleData name="StationAdd">10654臺北市大安區忠孝東路3段302號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.545026,25.041749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR11</SimpleData>
+		<SimpleData name="StationID">BR11</SimpleData>
+		<SimpleData name="Zh_tw">南京復興</SimpleData>
+		<SimpleData name="En">Nanjing Fuxing</SimpleData>
+		<SimpleData name="PositionLa">25.05204400000</SimpleData>
+		<SimpleData name="PositionLo">121.54430300000</SimpleData>
+		<SimpleData name="StationAdd">10550臺北市松山區南京東路3段253號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.544303,25.052044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR12</SimpleData>
+		<SimpleData name="StationID">BR12</SimpleData>
+		<SimpleData name="Zh_tw">中山國中</SimpleData>
+		<SimpleData name="En">Zhongshan Junior High School</SimpleData>
+		<SimpleData name="PositionLa">25.06085000000</SimpleData>
+		<SimpleData name="PositionLo">121.54421500000</SimpleData>
+		<SimpleData name="StationAdd">10476臺北市中山區復興北路376號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.544215,25.06085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR13</SimpleData>
+		<SimpleData name="StationID">BR13</SimpleData>
+		<SimpleData name="Zh_tw">松山機場</SimpleData>
+		<SimpleData name="En">Songshan Airport</SimpleData>
+		<SimpleData name="PositionLa">25.06290800000</SimpleData>
+		<SimpleData name="PositionLo">121.55201000000</SimpleData>
+		<SimpleData name="StationAdd">10576臺北市松山區敦化北路338號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.55201,25.062908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR14</SimpleData>
+		<SimpleData name="StationID">BR14</SimpleData>
+		<SimpleData name="Zh_tw">大直</SimpleData>
+		<SimpleData name="En">Dazhi</SimpleData>
+		<SimpleData name="PositionLa">25.07943000000</SimpleData>
+		<SimpleData name="PositionLo">121.54679000000</SimpleData>
+		<SimpleData name="StationAdd">10465臺北市中山區北安路534之1號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.54679,25.07943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR15</SimpleData>
+		<SimpleData name="StationID">BR15</SimpleData>
+		<SimpleData name="Zh_tw">劍南路</SimpleData>
+		<SimpleData name="En">Jiannan Rd.</SimpleData>
+		<SimpleData name="PositionLa">25.08483000000</SimpleData>
+		<SimpleData name="PositionLo">121.55558200000</SimpleData>
+		<SimpleData name="StationAdd">10464臺北市中山區北安路798號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.555582,25.08483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR16</SimpleData>
+		<SimpleData name="StationID">BR16</SimpleData>
+		<SimpleData name="Zh_tw">西湖</SimpleData>
+		<SimpleData name="En">Xihu</SimpleData>
+		<SimpleData name="PositionLa">25.08216000000</SimpleData>
+		<SimpleData name="PositionLo">121.56722700000</SimpleData>
+		<SimpleData name="StationAdd">11493臺北市內湖區內湖路1段256號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.567227,25.08216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR17</SimpleData>
+		<SimpleData name="StationID">BR17</SimpleData>
+		<SimpleData name="Zh_tw">港墘</SimpleData>
+		<SimpleData name="En">Gangqian</SimpleData>
+		<SimpleData name="PositionLa">25.08007000000</SimpleData>
+		<SimpleData name="PositionLo">121.57516000000</SimpleData>
+		<SimpleData name="StationAdd">11446臺北市內湖區內湖路1段663號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.57516,25.08007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR18</SimpleData>
+		<SimpleData name="StationID">BR18</SimpleData>
+		<SimpleData name="Zh_tw">文德</SimpleData>
+		<SimpleData name="En">Wende</SimpleData>
+		<SimpleData name="PositionLa">25.07845500000</SimpleData>
+		<SimpleData name="PositionLo">121.58499900000</SimpleData>
+		<SimpleData name="StationAdd">11475臺北市內湖區文德路214號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.584999,25.078455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR19</SimpleData>
+		<SimpleData name="StationID">BR19</SimpleData>
+		<SimpleData name="Zh_tw">內湖</SimpleData>
+		<SimpleData name="En">Neihu</SimpleData>
+		<SimpleData name="PositionLa">25.08367500000</SimpleData>
+		<SimpleData name="PositionLo">121.59436300000</SimpleData>
+		<SimpleData name="StationAdd">11489臺北市內湖區成功路4段186號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.594363,25.083675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR20</SimpleData>
+		<SimpleData name="StationID">BR20</SimpleData>
+		<SimpleData name="Zh_tw">大湖公園</SimpleData>
+		<SimpleData name="En">Dahu Park</SimpleData>
+		<SimpleData name="PositionLa">25.08380500000</SimpleData>
+		<SimpleData name="PositionLo">121.60221400000</SimpleData>
+		<SimpleData name="StationAdd">11477臺北市內湖區成功路5段11號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.602214,25.083805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR21</SimpleData>
+		<SimpleData name="StationID">BR21</SimpleData>
+		<SimpleData name="Zh_tw">葫洲</SimpleData>
+		<SimpleData name="En">Huzhou</SimpleData>
+		<SimpleData name="PositionLa">25.07271000000</SimpleData>
+		<SimpleData name="PositionLo">121.60714600000</SimpleData>
+		<SimpleData name="StationAdd">11486臺北市內湖區康寧路3段16號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.607146,25.07271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR22</SimpleData>
+		<SimpleData name="StationID">BR22</SimpleData>
+		<SimpleData name="Zh_tw">東湖</SimpleData>
+		<SimpleData name="En">Donghu</SimpleData>
+		<SimpleData name="PositionLa">25.06745500000</SimpleData>
+		<SimpleData name="PositionLo">121.61153500000</SimpleData>
+		<SimpleData name="StationAdd">11486臺北市內湖區康寧路3段235號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.611535,25.067455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR23</SimpleData>
+		<SimpleData name="StationID">BR23</SimpleData>
+		<SimpleData name="Zh_tw">南港軟體園區</SimpleData>
+		<SimpleData name="En">Nangang Software Park</SimpleData>
+		<SimpleData name="PositionLa">25.05992000000</SimpleData>
+		<SimpleData name="PositionLo">121.61500000000</SimpleData>
+		<SimpleData name="StationAdd">11568臺北市南港區經貿二路183號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.615,25.05992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BR24</SimpleData>
+		<SimpleData name="StationID">BR24</SimpleData>
+		<SimpleData name="Zh_tw">南港展覽館</SimpleData>
+		<SimpleData name="En">Taipei Nangang Exhibition Center</SimpleData>
+		<SimpleData name="PositionLa">25.05491900000</SimpleData>
+		<SimpleData name="PositionLo">121.61686100000</SimpleData>
+		<SimpleData name="StationAdd">11568臺北市南港區南港路1段32號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.616861,25.054919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R02</SimpleData>
+		<SimpleData name="StationID">R02</SimpleData>
+		<SimpleData name="Zh_tw">象山</SimpleData>
+		<SimpleData name="En">Xiangshan</SimpleData>
+		<SimpleData name="PositionLa">25.03239500000</SimpleData>
+		<SimpleData name="PositionLo">121.57011600000</SimpleData>
+		<SimpleData name="StationAdd">11080臺北市信義區信義路5段152號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.570116,25.032395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R03</SimpleData>
+		<SimpleData name="StationID">R03</SimpleData>
+		<SimpleData name="Zh_tw">台北101/世貿</SimpleData>
+		<SimpleData name="En">Taipei 101/World Trade Center</SimpleData>
+		<SimpleData name="PositionLa">25.03286500000</SimpleData>
+		<SimpleData name="PositionLo">121.56366700000</SimpleData>
+		<SimpleData name="StationAdd">11049臺北市信義區信義路5段20號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.563667,25.032865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R04</SimpleData>
+		<SimpleData name="StationID">R04</SimpleData>
+		<SimpleData name="Zh_tw">信義安和</SimpleData>
+		<SimpleData name="En">Xinyi Anhe</SimpleData>
+		<SimpleData name="PositionLa">25.03301500000</SimpleData>
+		<SimpleData name="PositionLo">121.55232600000</SimpleData>
+		<SimpleData name="StationAdd">10681臺北市大安區信義路4段212之1號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.552326,25.033015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R05</SimpleData>
+		<SimpleData name="StationID">R05</SimpleData>
+		<SimpleData name="Zh_tw">大安</SimpleData>
+		<SimpleData name="En">Daan</SimpleData>
+		<SimpleData name="PositionLa">25.03331100000</SimpleData>
+		<SimpleData name="PositionLo">121.54237000000</SimpleData>
+		<SimpleData name="StationAdd">10658臺北市大安區信義路3段180號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.54237,25.033311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R06</SimpleData>
+		<SimpleData name="StationID">R06</SimpleData>
+		<SimpleData name="Zh_tw">大安森林公園</SimpleData>
+		<SimpleData name="En">Daan Park</SimpleData>
+		<SimpleData name="PositionLa">25.03322500000</SimpleData>
+		<SimpleData name="PositionLo">121.53615100000</SimpleData>
+		<SimpleData name="StationAdd">10656臺北市大安區信義路3段100號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.536151,25.033225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R07</SimpleData>
+		<SimpleData name="StationID">R07</SimpleData>
+		<SimpleData name="Zh_tw">東門</SimpleData>
+		<SimpleData name="En">Dongmen</SimpleData>
+		<SimpleData name="PositionLa">25.03389400000</SimpleData>
+		<SimpleData name="PositionLo">121.52876600000</SimpleData>
+		<SimpleData name="StationAdd">10650臺北市大安區信義路2段166號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.528766,25.033894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R08</SimpleData>
+		<SimpleData name="StationID">R08</SimpleData>
+		<SimpleData name="Zh_tw">中正紀念堂</SimpleData>
+		<SimpleData name="En">Chiang Kai-Shek Memorial Hall</SimpleData>
+		<SimpleData name="PositionLa">25.03276700000</SimpleData>
+		<SimpleData name="PositionLo">121.51827300000</SimpleData>
+		<SimpleData name="StationAdd">10074臺北市中正區羅斯福路1段8之1號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.518273,25.032767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R09</SimpleData>
+		<SimpleData name="StationID">R09</SimpleData>
+		<SimpleData name="Zh_tw">台大醫院</SimpleData>
+		<SimpleData name="En">NTU Hospital</SimpleData>
+		<SimpleData name="PositionLa">25.04139900000</SimpleData>
+		<SimpleData name="PositionLo">121.51602000000</SimpleData>
+		<SimpleData name="StationAdd">10048臺北市中正區公園路52號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.51602,25.041399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R10</SimpleData>
+		<SimpleData name="StationID">R10</SimpleData>
+		<SimpleData name="Zh_tw">台北車站</SimpleData>
+		<SimpleData name="En">Taipei Main Station</SimpleData>
+		<SimpleData name="PositionLa">25.04631000000</SimpleData>
+		<SimpleData name="PositionLo">121.51741500000</SimpleData>
+		<SimpleData name="StationAdd">10041臺北市中正區忠孝西路1段49號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.517415,25.04631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R11</SimpleData>
+		<SimpleData name="StationID">R11</SimpleData>
+		<SimpleData name="Zh_tw">中山</SimpleData>
+		<SimpleData name="En">Zhongshan</SimpleData>
+		<SimpleData name="PositionLa">25.05262100000</SimpleData>
+		<SimpleData name="PositionLo">121.52036400000</SimpleData>
+		<SimpleData name="StationAdd">10444臺北市中山區南京西路16號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.520364,25.052621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R12</SimpleData>
+		<SimpleData name="StationID">R12</SimpleData>
+		<SimpleData name="Zh_tw">雙連</SimpleData>
+		<SimpleData name="En">Shuanglian</SimpleData>
+		<SimpleData name="PositionLa">25.05757500000</SimpleData>
+		<SimpleData name="PositionLo">121.52068500000</SimpleData>
+		<SimpleData name="StationAdd">10354臺北市大同區民生西路47號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.520685,25.057575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R13</SimpleData>
+		<SimpleData name="StationID">R13</SimpleData>
+		<SimpleData name="Zh_tw">民權西路</SimpleData>
+		<SimpleData name="En">Minzuan W. Rd.</SimpleData>
+		<SimpleData name="PositionLa">25.06235000000</SimpleData>
+		<SimpleData name="PositionLo">121.51958500000</SimpleData>
+		<SimpleData name="StationAdd">10365臺北市大同區民權西路72號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.519585,25.06235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R14</SimpleData>
+		<SimpleData name="StationID">R14</SimpleData>
+		<SimpleData name="Zh_tw">圓山</SimpleData>
+		<SimpleData name="En">Yuanshan</SimpleData>
+		<SimpleData name="PositionLa">25.07140900000</SimpleData>
+		<SimpleData name="PositionLo">121.52007400000</SimpleData>
+		<SimpleData name="StationAdd">10367臺北市大同區酒泉街9之1號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.520074,25.071409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R15</SimpleData>
+		<SimpleData name="StationID">R15</SimpleData>
+		<SimpleData name="Zh_tw">劍潭</SimpleData>
+		<SimpleData name="En">Jiantan</SimpleData>
+		<SimpleData name="PositionLa">25.08420100000</SimpleData>
+		<SimpleData name="PositionLo">121.52495500000</SimpleData>
+		<SimpleData name="StationAdd">11163臺北市士林區中山北路5段65號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.524955,25.084201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R16</SimpleData>
+		<SimpleData name="StationID">R16</SimpleData>
+		<SimpleData name="Zh_tw">士林</SimpleData>
+		<SimpleData name="En">Shilin</SimpleData>
+		<SimpleData name="PositionLa">25.09349200000</SimpleData>
+		<SimpleData name="PositionLo">121.52623000000</SimpleData>
+		<SimpleData name="StationAdd">11163臺北市士林區福德路1號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52623,25.093492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R17</SimpleData>
+		<SimpleData name="StationID">R17</SimpleData>
+		<SimpleData name="Zh_tw">芝山</SimpleData>
+		<SimpleData name="En">Zhishan</SimpleData>
+		<SimpleData name="PositionLa">25.10271800000</SimpleData>
+		<SimpleData name="PositionLo">121.52254600000</SimpleData>
+		<SimpleData name="StationAdd">11158臺北市士林區福國路70號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.522546,25.102718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R18</SimpleData>
+		<SimpleData name="StationID">R18</SimpleData>
+		<SimpleData name="Zh_tw">明德</SimpleData>
+		<SimpleData name="En">Mingde</SimpleData>
+		<SimpleData name="PositionLa">25.10981500000</SimpleData>
+		<SimpleData name="PositionLo">121.51878500000</SimpleData>
+		<SimpleData name="StationAdd">11280臺北市北投區明德路95號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.518785,25.109815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R19</SimpleData>
+		<SimpleData name="StationID">R19</SimpleData>
+		<SimpleData name="Zh_tw">石牌</SimpleData>
+		<SimpleData name="En">Shipai</SimpleData>
+		<SimpleData name="PositionLa">25.11445500000</SimpleData>
+		<SimpleData name="PositionLo">121.51557200000</SimpleData>
+		<SimpleData name="StationAdd">11271臺北市北投區石牌路1段200號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.515572,25.114455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R20</SimpleData>
+		<SimpleData name="StationID">R20</SimpleData>
+		<SimpleData name="Zh_tw">唭哩岸</SimpleData>
+		<SimpleData name="En">Qilian</SimpleData>
+		<SimpleData name="PositionLa">25.12085200000</SimpleData>
+		<SimpleData name="PositionLo">121.50623400000</SimpleData>
+		<SimpleData name="StationAdd">11265臺北市北投區東華街2段301號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.506234,25.120852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R21</SimpleData>
+		<SimpleData name="StationID">R21</SimpleData>
+		<SimpleData name="Zh_tw">奇岩</SimpleData>
+		<SimpleData name="En">Qiyan</SimpleData>
+		<SimpleData name="PositionLa">25.12547000000</SimpleData>
+		<SimpleData name="PositionLo">121.50114000000</SimpleData>
+		<SimpleData name="StationAdd">11270臺北市北投區三合街2段489號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.50114,25.12547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R22</SimpleData>
+		<SimpleData name="StationID">R22</SimpleData>
+		<SimpleData name="Zh_tw">北投</SimpleData>
+		<SimpleData name="En">Beitou</SimpleData>
+		<SimpleData name="PositionLa">25.13181900000</SimpleData>
+		<SimpleData name="PositionLo">121.49864800000</SimpleData>
+		<SimpleData name="StationAdd">11246臺北市北投區光明路1號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.498648,25.131819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R22A</SimpleData>
+		<SimpleData name="StationID">R22A</SimpleData>
+		<SimpleData name="Zh_tw">新北投</SimpleData>
+		<SimpleData name="En">Xinbeitou</SimpleData>
+		<SimpleData name="PositionLa">25.13693100000</SimpleData>
+		<SimpleData name="PositionLo">121.50259500000</SimpleData>
+		<SimpleData name="StationAdd">11268臺北市北投區大業路700號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.502595,25.136931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R23</SimpleData>
+		<SimpleData name="StationID">R23</SimpleData>
+		<SimpleData name="Zh_tw">復興崗</SimpleData>
+		<SimpleData name="En">Fuxinggang</SimpleData>
+		<SimpleData name="PositionLa">25.13749700000</SimpleData>
+		<SimpleData name="PositionLo">121.48545600000</SimpleData>
+		<SimpleData name="StationAdd">11257臺北市北投區中央北路3段53巷10號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.485456,25.137497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R24</SimpleData>
+		<SimpleData name="StationID">R24</SimpleData>
+		<SimpleData name="Zh_tw">忠義</SimpleData>
+		<SimpleData name="En">Zhongyi</SimpleData>
+		<SimpleData name="PositionLa">25.13092300000</SimpleData>
+		<SimpleData name="PositionLo">121.47329800000</SimpleData>
+		<SimpleData name="StationAdd">11257臺北市北投區中央北路4段301號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.473298,25.130923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R25</SimpleData>
+		<SimpleData name="StationID">R25</SimpleData>
+		<SimpleData name="Zh_tw">關渡</SimpleData>
+		<SimpleData name="En">Guandu</SimpleData>
+		<SimpleData name="PositionLa">25.12551000000</SimpleData>
+		<SimpleData name="PositionLo">121.46700000000</SimpleData>
+		<SimpleData name="StationAdd">11259臺北市北投區大度路3段296巷51號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.467,25.12551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R26</SimpleData>
+		<SimpleData name="StationID">R26</SimpleData>
+		<SimpleData name="Zh_tw">竹圍</SimpleData>
+		<SimpleData name="En">Zhuwei</SimpleData>
+		<SimpleData name="PositionLa">25.13690000000</SimpleData>
+		<SimpleData name="PositionLo">121.45955000000</SimpleData>
+		<SimpleData name="StationAdd">25173新北市淡水區民權路50號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.45955,25.1369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R27</SimpleData>
+		<SimpleData name="StationID">R27</SimpleData>
+		<SimpleData name="Zh_tw">紅樹林</SimpleData>
+		<SimpleData name="En">Hongshulin</SimpleData>
+		<SimpleData name="PositionLa">25.15399000000</SimpleData>
+		<SimpleData name="PositionLo">121.45880000000</SimpleData>
+		<SimpleData name="StationAdd">25173新北市淡水區中正東路2段68號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.4588,25.15399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-R28</SimpleData>
+		<SimpleData name="StationID">R28</SimpleData>
+		<SimpleData name="Zh_tw">淡水</SimpleData>
+		<SimpleData name="En">Tamsui</SimpleData>
+		<SimpleData name="PositionLa">25.16774500000</SimpleData>
+		<SimpleData name="PositionLo">121.44580500000</SimpleData>
+		<SimpleData name="StationAdd">25158新北市淡水區中正路1號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.445805,25.167745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G01</SimpleData>
+		<SimpleData name="StationID">G01</SimpleData>
+		<SimpleData name="Zh_tw">新店</SimpleData>
+		<SimpleData name="En">Xindian</SimpleData>
+		<SimpleData name="PositionLa">24.95761000000</SimpleData>
+		<SimpleData name="PositionLo">121.53746000000</SimpleData>
+		<SimpleData name="StationAdd">23152新北市新店區北宜路1段2號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.53746,24.95761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G02</SimpleData>
+		<SimpleData name="StationID">G02</SimpleData>
+		<SimpleData name="Zh_tw">新店區公所</SimpleData>
+		<SimpleData name="En">Xindian District Office</SimpleData>
+		<SimpleData name="PositionLa">24.96744000000</SimpleData>
+		<SimpleData name="PositionLo">121.54130000000</SimpleData>
+		<SimpleData name="StationAdd">23147新北市新店區北新路1段295號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5413,24.96744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G03</SimpleData>
+		<SimpleData name="StationID">G03</SimpleData>
+		<SimpleData name="Zh_tw">七張</SimpleData>
+		<SimpleData name="En">Qizhang</SimpleData>
+		<SimpleData name="PositionLa">24.97545000000</SimpleData>
+		<SimpleData name="PositionLo">121.54298500000</SimpleData>
+		<SimpleData name="StationAdd">23143新北市新店區北新路2段150號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.542985,24.97545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G03A</SimpleData>
+		<SimpleData name="StationID">G03A</SimpleData>
+		<SimpleData name="Zh_tw">小碧潭</SimpleData>
+		<SimpleData name="En">Xiaobitan</SimpleData>
+		<SimpleData name="PositionLa">24.97188000000</SimpleData>
+		<SimpleData name="PositionLo">121.53058000000</SimpleData>
+		<SimpleData name="StationAdd">23150新北市新店區中央路151號4樓</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.53058,24.97188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G04</SimpleData>
+		<SimpleData name="StationID">G04</SimpleData>
+		<SimpleData name="Zh_tw">大坪林</SimpleData>
+		<SimpleData name="En">Dapinglin</SimpleData>
+		<SimpleData name="PositionLa">24.98272000000</SimpleData>
+		<SimpleData name="PositionLo">121.54134000000</SimpleData>
+		<SimpleData name="StationAdd">23143新北市新店區北新路3段190號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.54134,24.98272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G05</SimpleData>
+		<SimpleData name="StationID">G05</SimpleData>
+		<SimpleData name="Zh_tw">景美</SimpleData>
+		<SimpleData name="En">Jingmei</SimpleData>
+		<SimpleData name="PositionLa">24.99282400000</SimpleData>
+		<SimpleData name="PositionLo">121.54069700000</SimpleData>
+		<SimpleData name="StationAdd">11674臺北市文山區羅斯福路6段393號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.540697,24.992824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G06</SimpleData>
+		<SimpleData name="StationID">G06</SimpleData>
+		<SimpleData name="Zh_tw">萬隆</SimpleData>
+		<SimpleData name="En">Wanlong</SimpleData>
+		<SimpleData name="PositionLa">25.00197800000</SimpleData>
+		<SimpleData name="PositionLo">121.53900800000</SimpleData>
+		<SimpleData name="StationAdd">11678臺北市文山區羅斯福路5段214號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.539008,25.001978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G07</SimpleData>
+		<SimpleData name="StationID">G07</SimpleData>
+		<SimpleData name="Zh_tw">公館</SimpleData>
+		<SimpleData name="En">Gongguan</SimpleData>
+		<SimpleData name="PositionLa">25.01478100000</SimpleData>
+		<SimpleData name="PositionLo">121.53435800000</SimpleData>
+		<SimpleData name="StationAdd">10091臺北市中正區羅斯福路4段74號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.534358,25.014781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G08</SimpleData>
+		<SimpleData name="StationID">G08</SimpleData>
+		<SimpleData name="Zh_tw">台電大樓</SimpleData>
+		<SimpleData name="En">Taipower Building</SimpleData>
+		<SimpleData name="PositionLa">25.02073300000</SimpleData>
+		<SimpleData name="PositionLo">121.52814300000</SimpleData>
+		<SimpleData name="StationAdd">10089臺北市中正區羅斯福路3段126之5號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.528143,25.020733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G09</SimpleData>
+		<SimpleData name="StationID">G09</SimpleData>
+		<SimpleData name="Zh_tw">古亭</SimpleData>
+		<SimpleData name="En">Guting</SimpleData>
+		<SimpleData name="PositionLa">25.02637300000</SimpleData>
+		<SimpleData name="PositionLo">121.52286800000</SimpleData>
+		<SimpleData name="StationAdd">10084臺北市中正區羅斯福路2段164之1號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.522868,25.026373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G10</SimpleData>
+		<SimpleData name="StationID">G10</SimpleData>
+		<SimpleData name="Zh_tw">中正紀念堂</SimpleData>
+		<SimpleData name="En">Chiang Kai-Shek Memorial Hall</SimpleData>
+		<SimpleData name="PositionLa">25.03276700000</SimpleData>
+		<SimpleData name="PositionLo">121.51827300000</SimpleData>
+		<SimpleData name="StationAdd">10074臺北市中正區羅斯福路1段8之1號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.518273,25.032767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G11</SimpleData>
+		<SimpleData name="StationID">G11</SimpleData>
+		<SimpleData name="Zh_tw">小南門</SimpleData>
+		<SimpleData name="En">Xiaonanmen</SimpleData>
+		<SimpleData name="PositionLa">25.03558500000</SimpleData>
+		<SimpleData name="PositionLo">121.51088000000</SimpleData>
+		<SimpleData name="StationAdd">10066臺北市中正區愛國西路22號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.51088,25.035585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G12</SimpleData>
+		<SimpleData name="StationID">G12</SimpleData>
+		<SimpleData name="Zh_tw">西門</SimpleData>
+		<SimpleData name="En">Ximen</SimpleData>
+		<SimpleData name="PositionLa">25.04202500000</SimpleData>
+		<SimpleData name="PositionLo">121.50817500000</SimpleData>
+		<SimpleData name="StationAdd">10042臺北市中正區寶慶路32之1號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.508175,25.042025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G13</SimpleData>
+		<SimpleData name="StationID">G13</SimpleData>
+		<SimpleData name="Zh_tw">北門</SimpleData>
+		<SimpleData name="En">Beimen</SimpleData>
+		<SimpleData name="PositionLa">25.04955400000</SimpleData>
+		<SimpleData name="PositionLo">121.51018400000</SimpleData>
+		<SimpleData name="StationAdd">10341臺北市大同區塔城街10號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.510184,25.049554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G14</SimpleData>
+		<SimpleData name="StationID">G14</SimpleData>
+		<SimpleData name="Zh_tw">中山</SimpleData>
+		<SimpleData name="En">Zhongshan</SimpleData>
+		<SimpleData name="PositionLa">25.05262100000</SimpleData>
+		<SimpleData name="PositionLo">121.52036400000</SimpleData>
+		<SimpleData name="StationAdd">10352臺北市大同區南京西路55號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.520364,25.052621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G15</SimpleData>
+		<SimpleData name="StationID">G15</SimpleData>
+		<SimpleData name="Zh_tw">松江南京</SimpleData>
+		<SimpleData name="En">Songliang Nanjing</SimpleData>
+		<SimpleData name="PositionLa">25.05269300000</SimpleData>
+		<SimpleData name="PositionLo">121.53285000000</SimpleData>
+		<SimpleData name="StationAdd">10457臺北市中山區松江路126號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.53285,25.052693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G16</SimpleData>
+		<SimpleData name="StationID">G16</SimpleData>
+		<SimpleData name="Zh_tw">南京復興</SimpleData>
+		<SimpleData name="En">Nanjing Fuxing</SimpleData>
+		<SimpleData name="PositionLa">25.05204400000</SimpleData>
+		<SimpleData name="PositionLo">121.54430300000</SimpleData>
+		<SimpleData name="StationAdd">10550臺北市松山區南京東路3段253號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.544303,25.052044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G17</SimpleData>
+		<SimpleData name="StationID">G17</SimpleData>
+		<SimpleData name="Zh_tw">台北小巨蛋</SimpleData>
+		<SimpleData name="En">Taipei Arena</SimpleData>
+		<SimpleData name="PositionLa">25.05152000000</SimpleData>
+		<SimpleData name="PositionLo">121.55254900000</SimpleData>
+		<SimpleData name="StationAdd">10553臺北市松山區南京東路4段10-1號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.552549,25.05152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G18</SimpleData>
+		<SimpleData name="StationID">G18</SimpleData>
+		<SimpleData name="Zh_tw">南京三民</SimpleData>
+		<SimpleData name="En">Nanjing Sanmin</SimpleData>
+		<SimpleData name="PositionLa">25.05158800000</SimpleData>
+		<SimpleData name="PositionLo">121.56471000000</SimpleData>
+		<SimpleData name="StationAdd">10569臺北市松山區南京東路5段237號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.56471,25.051588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-G19</SimpleData>
+		<SimpleData name="StationID">G19</SimpleData>
+		<SimpleData name="Zh_tw">松山</SimpleData>
+		<SimpleData name="En">Songshan</SimpleData>
+		<SimpleData name="PositionLa">25.05011800000</SimpleData>
+		<SimpleData name="PositionLo">121.57770600000</SimpleData>
+		<SimpleData name="StationAdd">10567臺北市松山區八德路4段742號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.577706,25.050118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O01</SimpleData>
+		<SimpleData name="StationID">O01</SimpleData>
+		<SimpleData name="Zh_tw">南勢角</SimpleData>
+		<SimpleData name="En">Nanshijiao</SimpleData>
+		<SimpleData name="PositionLa">24.99006500000</SimpleData>
+		<SimpleData name="PositionLo">121.50923700000</SimpleData>
+		<SimpleData name="StationAdd">23566新北市中和區捷運路6號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.509237,24.990065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O02</SimpleData>
+		<SimpleData name="StationID">O02</SimpleData>
+		<SimpleData name="Zh_tw">景安</SimpleData>
+		<SimpleData name="En">Jingan</SimpleData>
+		<SimpleData name="PositionLa">24.99392000000</SimpleData>
+		<SimpleData name="PositionLo">121.50511400000</SimpleData>
+		<SimpleData name="StationAdd">23582新北市中和區景平路486號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.505114,24.99392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O03</SimpleData>
+		<SimpleData name="StationID">O03</SimpleData>
+		<SimpleData name="Zh_tw">永安市場</SimpleData>
+		<SimpleData name="En">Yongan Market</SimpleData>
+		<SimpleData name="PositionLa">25.00289500000</SimpleData>
+		<SimpleData name="PositionLo">121.51122500000</SimpleData>
+		<SimpleData name="StationAdd">23574新北市中和區中和路388號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.511225,25.002895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O04</SimpleData>
+		<SimpleData name="StationID">O04</SimpleData>
+		<SimpleData name="Zh_tw">頂溪</SimpleData>
+		<SimpleData name="En">Dingxi</SimpleData>
+		<SimpleData name="PositionLa">25.01385800000</SimpleData>
+		<SimpleData name="PositionLo">121.51546200000</SimpleData>
+		<SimpleData name="StationAdd">23445新北市永和區永和路2段168號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.515462,25.013858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O05</SimpleData>
+		<SimpleData name="StationID">O05</SimpleData>
+		<SimpleData name="Zh_tw">古亭</SimpleData>
+		<SimpleData name="En">Guting</SimpleData>
+		<SimpleData name="PositionLa">25.02637300000</SimpleData>
+		<SimpleData name="PositionLo">121.52286800000</SimpleData>
+		<SimpleData name="StationAdd">10084臺北市中正區羅斯福路2段164之1號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.522868,25.026373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O06</SimpleData>
+		<SimpleData name="StationID">O06</SimpleData>
+		<SimpleData name="Zh_tw">東門</SimpleData>
+		<SimpleData name="En">Dongmen</SimpleData>
+		<SimpleData name="PositionLa">25.03389400000</SimpleData>
+		<SimpleData name="PositionLo">121.52876600000</SimpleData>
+		<SimpleData name="StationAdd">10650臺北市大安區信義路2段166號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.528766,25.033894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O07</SimpleData>
+		<SimpleData name="StationID">O07</SimpleData>
+		<SimpleData name="Zh_tw">忠孝新生</SimpleData>
+		<SimpleData name="En">Zhongxiao Xinsheng</SimpleData>
+		<SimpleData name="PositionLa">25.04249800000</SimpleData>
+		<SimpleData name="PositionLo">121.53321000000</SimpleData>
+		<SimpleData name="StationAdd">10652臺北市大安區新生南路1段67號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.53321,25.042498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O08</SimpleData>
+		<SimpleData name="StationID">O08</SimpleData>
+		<SimpleData name="Zh_tw">松江南京</SimpleData>
+		<SimpleData name="En">Songliang Nanjing</SimpleData>
+		<SimpleData name="PositionLa">25.05269300000</SimpleData>
+		<SimpleData name="PositionLo">121.53285000000</SimpleData>
+		<SimpleData name="StationAdd">10457臺北市中山區松江路126號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.53285,25.052693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O09</SimpleData>
+		<SimpleData name="StationID">O09</SimpleData>
+		<SimpleData name="Zh_tw">行天宮</SimpleData>
+		<SimpleData name="En">Xingtian Temple</SimpleData>
+		<SimpleData name="PositionLa">25.05924000000</SimpleData>
+		<SimpleData name="PositionLo">121.53315000000</SimpleData>
+		<SimpleData name="StationAdd">10468臺北市中山區松江路316號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.53315,25.05924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O10</SimpleData>
+		<SimpleData name="StationID">O10</SimpleData>
+		<SimpleData name="Zh_tw">中山國小</SimpleData>
+		<SimpleData name="En">Zhongshan Elementary School</SimpleData>
+		<SimpleData name="PositionLa">25.06266500000</SimpleData>
+		<SimpleData name="PositionLo">121.52660900000</SimpleData>
+		<SimpleData name="StationAdd">10452臺北市中山區民權東路1段71號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.526609,25.062665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O11</SimpleData>
+		<SimpleData name="StationID">O11</SimpleData>
+		<SimpleData name="Zh_tw">民權西路</SimpleData>
+		<SimpleData name="En">Minzuan W. Rd.</SimpleData>
+		<SimpleData name="PositionLa">25.06235000000</SimpleData>
+		<SimpleData name="PositionLo">121.51958500000</SimpleData>
+		<SimpleData name="StationAdd">10365臺北市大同區民權西路72號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.519585,25.06235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O12</SimpleData>
+		<SimpleData name="StationID">O12</SimpleData>
+		<SimpleData name="Zh_tw">大橋頭</SimpleData>
+		<SimpleData name="En">Daqiaotou</SimpleData>
+		<SimpleData name="PositionLa">25.06322000000</SimpleData>
+		<SimpleData name="PositionLo">121.51300300000</SimpleData>
+		<SimpleData name="StationAdd">10357臺北市大同區民權西路223號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.513003,25.06322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O13</SimpleData>
+		<SimpleData name="StationID">O13</SimpleData>
+		<SimpleData name="Zh_tw">台北橋</SimpleData>
+		<SimpleData name="En">Taipei Bridge</SimpleData>
+		<SimpleData name="PositionLa">25.06307500000</SimpleData>
+		<SimpleData name="PositionLo">121.50057500000</SimpleData>
+		<SimpleData name="StationAdd">24142新北市三重區重新路1段108號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.500575,25.063075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O14</SimpleData>
+		<SimpleData name="StationID">O14</SimpleData>
+		<SimpleData name="Zh_tw">菜寮</SimpleData>
+		<SimpleData name="En">Cailiao</SimpleData>
+		<SimpleData name="PositionLa">25.05945100000</SimpleData>
+		<SimpleData name="PositionLo">121.49142100000</SimpleData>
+		<SimpleData name="StationAdd">24143新北市三重區重新路3段150號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.491421,25.059451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O15</SimpleData>
+		<SimpleData name="StationID">O15</SimpleData>
+		<SimpleData name="Zh_tw">三重</SimpleData>
+		<SimpleData name="En">Sanchong</SimpleData>
+		<SimpleData name="PositionLa">25.05571000000</SimpleData>
+		<SimpleData name="PositionLo">121.48422000000</SimpleData>
+		<SimpleData name="StationAdd">24161新北市三重區捷運路36號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.48422,25.05571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O16</SimpleData>
+		<SimpleData name="StationID">O16</SimpleData>
+		<SimpleData name="Zh_tw">先嗇宮</SimpleData>
+		<SimpleData name="En">Xianse Temple</SimpleData>
+		<SimpleData name="PositionLa">25.04632000000</SimpleData>
+		<SimpleData name="PositionLo">121.47165000000</SimpleData>
+		<SimpleData name="StationAdd">24158新北市三重區重新路5段515號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.47165,25.04632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O17</SimpleData>
+		<SimpleData name="StationID">O17</SimpleData>
+		<SimpleData name="Zh_tw">頭前庄</SimpleData>
+		<SimpleData name="En">Touqianzhuang</SimpleData>
+		<SimpleData name="PositionLa">25.03973500000</SimpleData>
+		<SimpleData name="PositionLo">121.46165500000</SimpleData>
+		<SimpleData name="StationAdd">24251新北市新莊區思源路18號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.461655,25.039735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O18</SimpleData>
+		<SimpleData name="StationID">O18</SimpleData>
+		<SimpleData name="Zh_tw">新莊</SimpleData>
+		<SimpleData name="En">Xinzhuang</SimpleData>
+		<SimpleData name="PositionLa">25.03608000000</SimpleData>
+		<SimpleData name="PositionLo">121.45218000000</SimpleData>
+		<SimpleData name="StationAdd">24243新北市新莊區中正路138號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.45218,25.03608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O19</SimpleData>
+		<SimpleData name="StationID">O19</SimpleData>
+		<SimpleData name="Zh_tw">輔大</SimpleData>
+		<SimpleData name="En">Fu Jen University</SimpleData>
+		<SimpleData name="PositionLa">25.03279000000</SimpleData>
+		<SimpleData name="PositionLo">121.43573500000</SimpleData>
+		<SimpleData name="StationAdd">24205新北市新莊區中正路510之1號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.435735,25.03279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O20</SimpleData>
+		<SimpleData name="StationID">O20</SimpleData>
+		<SimpleData name="Zh_tw">丹鳳</SimpleData>
+		<SimpleData name="En">Danfeng</SimpleData>
+		<SimpleData name="PositionLa">25.02907300000</SimpleData>
+		<SimpleData name="PositionLo">121.42242200000</SimpleData>
+		<SimpleData name="StationAdd">24256新北市新莊區中正路624之1號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.422422,25.029073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O21</SimpleData>
+		<SimpleData name="StationID">O21</SimpleData>
+		<SimpleData name="Zh_tw">迴龍</SimpleData>
+		<SimpleData name="En">Huilong</SimpleData>
+		<SimpleData name="PositionLa">25.02210700000</SimpleData>
+		<SimpleData name="PositionLo">121.41175700000</SimpleData>
+		<SimpleData name="StationAdd">24257新北市新莊區中正路758號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.411757,25.022107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O50</SimpleData>
+		<SimpleData name="StationID">O50</SimpleData>
+		<SimpleData name="Zh_tw">三重國小</SimpleData>
+		<SimpleData name="En">Sanchong Elementary School</SimpleData>
+		<SimpleData name="PositionLa">25.07027500000</SimpleData>
+		<SimpleData name="PositionLo">121.49701000000</SimpleData>
+		<SimpleData name="StationAdd">24149新北市三重區三和路3段5號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49701,25.070275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O51</SimpleData>
+		<SimpleData name="StationID">O51</SimpleData>
+		<SimpleData name="Zh_tw">三和國中</SimpleData>
+		<SimpleData name="En">Sanhe Junior High School</SimpleData>
+		<SimpleData name="PositionLa">25.07646000000</SimpleData>
+		<SimpleData name="PositionLo">121.48679500000</SimpleData>
+		<SimpleData name="StationAdd">24152新北市三重區三和路4段107號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.486795,25.07646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O52</SimpleData>
+		<SimpleData name="StationID">O52</SimpleData>
+		<SimpleData name="Zh_tw">徐匯中學</SimpleData>
+		<SimpleData name="En">St.lgnatius High School</SimpleData>
+		<SimpleData name="PositionLa">25.08048500000</SimpleData>
+		<SimpleData name="PositionLo">121.47994500000</SimpleData>
+		<SimpleData name="StationAdd">24753新北市蘆洲區中山一路3號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.479945,25.080485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O53</SimpleData>
+		<SimpleData name="StationID">O53</SimpleData>
+		<SimpleData name="Zh_tw">三民高中</SimpleData>
+		<SimpleData name="En">Sanmin Senior High School</SimpleData>
+		<SimpleData name="PositionLa">25.08542500000</SimpleData>
+		<SimpleData name="PositionLo">121.47336500000</SimpleData>
+		<SimpleData name="StationAdd">24760新北市蘆洲區三民路105號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.473365,25.085425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-O54</SimpleData>
+		<SimpleData name="StationID">O54</SimpleData>
+		<SimpleData name="Zh_tw">蘆洲</SimpleData>
+		<SimpleData name="En">Luzhou</SimpleData>
+		<SimpleData name="PositionLa">25.09152000000</SimpleData>
+		<SimpleData name="PositionLo">121.46471000000</SimpleData>
+		<SimpleData name="StationAdd">24760新北市蘆洲區三民路386號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.46471,25.09152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL01</SimpleData>
+		<SimpleData name="StationID">BL01</SimpleData>
+		<SimpleData name="Zh_tw">頂埔</SimpleData>
+		<SimpleData name="En">Dingpu</SimpleData>
+		<SimpleData name="PositionLa">24.96012000000</SimpleData>
+		<SimpleData name="PositionLo">121.42050000000</SimpleData>
+		<SimpleData name="StationAdd">23671新北市土城區中央路4段51-6號B3</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.4205,24.96012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL02</SimpleData>
+		<SimpleData name="StationID">BL02</SimpleData>
+		<SimpleData name="Zh_tw">永寧</SimpleData>
+		<SimpleData name="En">Yongning</SimpleData>
+		<SimpleData name="PositionLa">24.96682000000</SimpleData>
+		<SimpleData name="PositionLo">121.43613000000</SimpleData>
+		<SimpleData name="StationAdd">23671新北市土城區中央路3段105號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.43613,24.96682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL03</SimpleData>
+		<SimpleData name="StationID">BL03</SimpleData>
+		<SimpleData name="Zh_tw">土城</SimpleData>
+		<SimpleData name="En">Tucheng</SimpleData>
+		<SimpleData name="PositionLa">24.97313000000</SimpleData>
+		<SimpleData name="PositionLo">121.44432000000</SimpleData>
+		<SimpleData name="StationAdd">23671新北市土城區金城路1段105號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.44432,24.97313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL04</SimpleData>
+		<SimpleData name="StationID">BL04</SimpleData>
+		<SimpleData name="Zh_tw">海山</SimpleData>
+		<SimpleData name="En">Haishan</SimpleData>
+		<SimpleData name="PositionLa">24.98530500000</SimpleData>
+		<SimpleData name="PositionLo">121.44873000000</SimpleData>
+		<SimpleData name="StationAdd">23660新北市土城區海山路39號B2</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.44873,24.985305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL05</SimpleData>
+		<SimpleData name="StationID">BL05</SimpleData>
+		<SimpleData name="Zh_tw">亞東醫院</SimpleData>
+		<SimpleData name="En">Far Eastern Hospital</SimpleData>
+		<SimpleData name="PositionLa">24.99828000000</SimpleData>
+		<SimpleData name="PositionLo">121.45246500000</SimpleData>
+		<SimpleData name="StationAdd">22060新北市板橋區南雅南路2段17號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.452465,24.99828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL06</SimpleData>
+		<SimpleData name="StationID">BL06</SimpleData>
+		<SimpleData name="Zh_tw">府中</SimpleData>
+		<SimpleData name="En">Fuzhong</SimpleData>
+		<SimpleData name="PositionLa">25.00846500000</SimpleData>
+		<SimpleData name="PositionLo">121.45927600000</SimpleData>
+		<SimpleData name="StationAdd">22055新北市板橋區縣民大道1段193號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.459276,25.008465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL07</SimpleData>
+		<SimpleData name="StationID">BL07</SimpleData>
+		<SimpleData name="Zh_tw">板橋</SimpleData>
+		<SimpleData name="En">Banqiao</SimpleData>
+		<SimpleData name="PositionLa">25.01382500000</SimpleData>
+		<SimpleData name="PositionLo">121.46230500000</SimpleData>
+		<SimpleData name="StationAdd">22041新北市板橋區站前路5號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.462305,25.013825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL08</SimpleData>
+		<SimpleData name="StationID">BL08</SimpleData>
+		<SimpleData name="Zh_tw">新埔</SimpleData>
+		<SimpleData name="En">Xinpu</SimpleData>
+		<SimpleData name="PositionLa">25.02327000000</SimpleData>
+		<SimpleData name="PositionLo">121.46805500000</SimpleData>
+		<SimpleData name="StationAdd">22047新北市板橋區民生路3段2號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.468055,25.02327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL09</SimpleData>
+		<SimpleData name="StationID">BL09</SimpleData>
+		<SimpleData name="Zh_tw">江子翠</SimpleData>
+		<SimpleData name="En">Jiangzicui</SimpleData>
+		<SimpleData name="PositionLa">25.03026500000</SimpleData>
+		<SimpleData name="PositionLo">121.47257000000</SimpleData>
+		<SimpleData name="StationAdd">22044新北市板橋區文化路2段296號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.47257,25.030265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL10</SimpleData>
+		<SimpleData name="StationID">BL10</SimpleData>
+		<SimpleData name="Zh_tw">龍山寺</SimpleData>
+		<SimpleData name="En">Longshan Temple</SimpleData>
+		<SimpleData name="PositionLa">25.03528000000</SimpleData>
+		<SimpleData name="PositionLo">121.50032500000</SimpleData>
+		<SimpleData name="StationAdd">10855臺北市萬華區西園路1段153號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.500325,25.03528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL11</SimpleData>
+		<SimpleData name="StationID">BL11</SimpleData>
+		<SimpleData name="Zh_tw">西門</SimpleData>
+		<SimpleData name="En">Ximen</SimpleData>
+		<SimpleData name="PositionLa">25.04202500000</SimpleData>
+		<SimpleData name="PositionLo">121.50817500000</SimpleData>
+		<SimpleData name="StationAdd">10042臺北市中正區寶慶路32之1號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.508175,25.042025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL12</SimpleData>
+		<SimpleData name="StationID">BL12</SimpleData>
+		<SimpleData name="Zh_tw">台北車站</SimpleData>
+		<SimpleData name="En">Taipei Main Station</SimpleData>
+		<SimpleData name="PositionLa">25.04631000000</SimpleData>
+		<SimpleData name="PositionLo">121.51741500000</SimpleData>
+		<SimpleData name="StationAdd">10041臺北市中正區忠孝西路1段49號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.517415,25.04631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL13</SimpleData>
+		<SimpleData name="StationID">BL13</SimpleData>
+		<SimpleData name="Zh_tw">善導寺</SimpleData>
+		<SimpleData name="En">Shandao Temple</SimpleData>
+		<SimpleData name="PositionLa">25.04468000000</SimpleData>
+		<SimpleData name="PositionLo">121.52388500000</SimpleData>
+		<SimpleData name="StationAdd">10049臺北市中正區忠孝東路1段58號B1</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.523885,25.04468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL14</SimpleData>
+		<SimpleData name="StationID">BL14</SimpleData>
+		<SimpleData name="Zh_tw">忠孝新生</SimpleData>
+		<SimpleData name="En">Zhongxiao Xinsheng</SimpleData>
+		<SimpleData name="PositionLa">25.04249800000</SimpleData>
+		<SimpleData name="PositionLo">121.53321000000</SimpleData>
+		<SimpleData name="StationAdd">10652臺北市大安區新生南路1段67號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.53321,25.042498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL15</SimpleData>
+		<SimpleData name="StationID">BL15</SimpleData>
+		<SimpleData name="Zh_tw">忠孝復興</SimpleData>
+		<SimpleData name="En">Zhongxiao Fuxing</SimpleData>
+		<SimpleData name="PositionLa">25.04174900000</SimpleData>
+		<SimpleData name="PositionLo">121.54502600000</SimpleData>
+		<SimpleData name="StationAdd">10691臺北市大安區忠孝東路4段47號</SimpleData>
+		<SimpleData name="BikeAllowO">0</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.545026,25.041749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL16</SimpleData>
+		<SimpleData name="StationID">BL16</SimpleData>
+		<SimpleData name="Zh_tw">忠孝敦化</SimpleData>
+		<SimpleData name="En">Xhongxiao Dunhua</SimpleData>
+		<SimpleData name="PositionLa">25.04150500000</SimpleData>
+		<SimpleData name="PositionLo">121.55045000000</SimpleData>
+		<SimpleData name="StationAdd">10686臺北市大安區忠孝東路4段182號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.55045,25.041505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL17</SimpleData>
+		<SimpleData name="StationID">BL17</SimpleData>
+		<SimpleData name="Zh_tw">國父紀念館</SimpleData>
+		<SimpleData name="En">Sun Yat-Sen Memorial Hall</SimpleData>
+		<SimpleData name="PositionLa">25.04137000000</SimpleData>
+		<SimpleData name="PositionLo">121.55781500000</SimpleData>
+		<SimpleData name="StationAdd">11072臺北市信義區忠孝東路4段400號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.557815,25.04137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL18</SimpleData>
+		<SimpleData name="StationID">BL18</SimpleData>
+		<SimpleData name="Zh_tw">市政府</SimpleData>
+		<SimpleData name="En">Taipei City Hall</SimpleData>
+		<SimpleData name="PositionLa">25.04113500000</SimpleData>
+		<SimpleData name="PositionLo">121.56568500000</SimpleData>
+		<SimpleData name="StationAdd">11071臺北市信義區忠孝東路5段2號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.565685,25.041135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL19</SimpleData>
+		<SimpleData name="StationID">BL19</SimpleData>
+		<SimpleData name="Zh_tw">永春</SimpleData>
+		<SimpleData name="En">Yongchun</SimpleData>
+		<SimpleData name="PositionLa">25.04085500000</SimpleData>
+		<SimpleData name="PositionLo">121.57620000000</SimpleData>
+		<SimpleData name="StationAdd">11061臺北市信義區忠孝東路5段455號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5762,25.040855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL20</SimpleData>
+		<SimpleData name="StationID">BL20</SimpleData>
+		<SimpleData name="Zh_tw">後山埤</SimpleData>
+		<SimpleData name="En">Houshanpi</SimpleData>
+		<SimpleData name="PositionLa">25.04471500000</SimpleData>
+		<SimpleData name="PositionLo">121.58227000000</SimpleData>
+		<SimpleData name="StationAdd">11575臺北市南港區忠孝東路6段2號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.58227,25.044715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL21</SimpleData>
+		<SimpleData name="StationID">BL21</SimpleData>
+		<SimpleData name="Zh_tw">昆陽</SimpleData>
+		<SimpleData name="En">Kunyang</SimpleData>
+		<SimpleData name="PositionLa">25.05045900000</SimpleData>
+		<SimpleData name="PositionLo">121.59322800000</SimpleData>
+		<SimpleData name="StationAdd">11558臺北市南港區忠孝東路6段451號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.593228,25.050459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL22</SimpleData>
+		<SimpleData name="StationID">BL22</SimpleData>
+		<SimpleData name="Zh_tw">南港</SimpleData>
+		<SimpleData name="En">Nangang</SimpleData>
+		<SimpleData name="PositionLa">25.05203500000</SimpleData>
+		<SimpleData name="PositionLo">121.60697000000</SimpleData>
+		<SimpleData name="StationAdd">11561臺北市南港區忠孝東路7段380號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.60697,25.052035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#台北捷運站">
+		<SimpleData name="StationUID">TRTC-BL23</SimpleData>
+		<SimpleData name="StationID">BL23</SimpleData>
+		<SimpleData name="Zh_tw">南港展覽館</SimpleData>
+		<SimpleData name="En">Taipei Nangang Exhibition Center</SimpleData>
+		<SimpleData name="PositionLa">25.05491900000</SimpleData>
+		<SimpleData name="PositionLo">121.61686100000</SimpleData>
+		<SimpleData name="StationAdd">11568臺北市南港區研究院路1段1號</SimpleData>
+		<SimpleData name="BikeAllowO">1</SimpleData>
+		<SimpleData name="SrcUpdateT">2018-01-10T13:00:00+08:00</SimpleData>
+		<SimpleData name="UpdateTime">2018-07-25T10:00:00+08:00</SimpleData>
+		<SimpleData name="UniqueID">A190010173V002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.616861,25.054919</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
