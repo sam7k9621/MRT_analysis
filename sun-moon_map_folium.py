@@ -9,6 +9,12 @@ import pandas as pd
 import folium
 import json
 import argparse
+import time
+from selenium import webdriver
+from pandas import json_normalize 
+
+def utf2asc(s):
+    return str(str(s).encode('ascii', 'xmlcharrefreplace'))[2:-1]
 
 
 parser = argparse.ArgumentParser()
@@ -19,75 +25,39 @@ args = parser.parse_args()
 
 input_path, output_path = args.input_path, args.output_path
 
-
-# In[2]:
-
-
-df1709 = pd.read_csv(input_path)
+df = pd.read_csv(input_path)
 
 
-# In[3]:
-
-
-def utf2asc(s):
-    return str(str(s).encode('ascii', 'xmlcharrefreplace'))[2:-1]
-
-
-# In[5]:
-
-
-heading3 = """<b>{}</b>""".format
-
-
-# In[20]:
-
-
-n = 0
-fmap = folium.Map(location=[25.09124,121.5344],
-                  zoom_start=12)
-while n <= 106 :
-    name = df1709['Station'].iloc[n]
-    if df1709['label'].iloc[n] == 'A' :
-        m = folium.Marker(location=[df1709['Latitude'].iloc[n],df1709['Longitude'].iloc[n]],
-                          popup= heading3(utf2asc(name)),
-                          icon=folium.Icon(icon = 'train', 
-                                           color='red', 
-                                           prefix='fa')) 
-        fmap.add_child(child=m)
-    elif df1709['label'].iloc[n] == 'B' :
-        m = folium.Marker(location=[df1709['Latitude'].iloc[n],df1709['Longitude'].iloc[n]],
-                          popup= heading3(utf2asc(name)),
-                          icon=folium.Icon(icon = 'train', 
-                                           color='blue', 
-                                           prefix='fa')) 
-        fmap.add_child(child = m)
-    elif df1709['label'].iloc[n] == 'C' :
-        m = folium.Marker(location=[df1709['Latitude'].iloc[n],df1709['Longitude'].iloc[n]],
-                          popup= heading3(utf2asc(name)),
-                          icon=folium.Icon(icon = 'train', 
-                                           color='black', 
-                                           prefix='fa')) 
-        fmap.add_child(child = m)
-    else :
-        m = folium.Marker(location=[df1709['Latitude'].iloc[n],df1709['Longitude'].iloc[n]],
-                          popup= heading3(utf2asc(name)),
-                          icon=folium.Icon(icon = 'train', 
-                                           color='green', 
-                                           prefix='fa')) 
-        fmap.add_child(child = m)
-    n += 1
-
+fmap = folium.Map(location=[25.09124,121.5344], tiles='CartoDB positron', zoom_start=12.5)
+for n in range(107):
     
+    name = df['Station'].iloc[n]
+    if df['label'].iloc[n] == 'A' :
+        icon_url = "https://i.imgur.com/pae0T2U.png"
+    elif df['label'].iloc[n] == 'B' :
+        icon_url = "https://i.imgur.com/w7z8Wcq.png"
+    elif df['label'].iloc[n] == 'C' :
+        icon_url = "https://i.imgur.com/v9LvRvp.png"
+    else:
+        icon_url = "https://i.imgur.com/wnDXlOX.png"
 
+    icon = folium.features.CustomIcon(icon_url,icon_size=(30, 30))  # Creating a custom Icon
+    folium.Marker(
+            location=[df['Latitude'].iloc[n],df['Longitude'].iloc[n]],
+            popup= "<b>{}</b>".format( utf2asc(name) ),
+            icon=icon
+            ).add_to( fmap )
 
-# In[23]:
+with open('MRT_lines.geojson', 'r', encoding='utf-8') as f:
+    output = json.load(f)
 
+df_feature = json_normalize(output['features'])
+
+colorlst = ["#cc8528", "#e34043", "#fb9a99", "#ff9e17", "#ff9e17", "#33a02c", "#a7df72", "#2a54ff" ]
+
+for i in range(8):
+    points = df_feature['geometry.coordinates'][i]
+    [ x.reverse() for x in points[0] ]
+    folium.PolyLine(points, color=colorlst[i], weight=2.5, opacity=1).add_to(fmap)
 
 fmap.save(output_path)
-
-
-# In[ ]:
-
-
-
-
