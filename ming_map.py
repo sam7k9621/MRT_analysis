@@ -1,50 +1,23 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 import folium
 import json
 import pandas as pd
 import json
 from pandas.io.json import json_normalize
 
-
-# In[2]:
-
-
 def utf2asc(s):
     return str(str(s).encode('ascii', 'xmlcharrefreplace'))[2:-1]
 
-
-# In[3]:
-
-
 df = pd.read_csv('Label_201703-201803-201903_ok.csv')
-
-
-# In[4]:
-
 
 df.Label_do_count = df.Label_do_count.astype(str)
 df.Label_no_count = df.Label_no_count.astype(str)
 
-
-# In[5]:
-
-
 df['label'] = df.Label_do_count +df.Label_no_count
 
-
-# In[112]:
-
-
 fmap = folium.Map(location=[25.061, 121.515], zoom_start=13, tiles="CartoDB positron", zoom_control=False)
-
-
-# In[113]:
-
 
 for n in range(108):
     name = df['Station'].iloc[n]
@@ -74,10 +47,7 @@ for n in range(108):
         icon=icon).add_to(fmap) 
 
 
-# In[114]:
-
-
-with open(r'C:\Users\Tommy\Desktop\NTU\109學年\ccClub\project\all_data\all\MRT_lines\MRT_lines.geojson', 'r', encoding='utf-8') as f:
+with open(r'MRT_lines.geojson', 'r', encoding='utf-8') as f:
     output = json.load(f)
 
 df_feature = json_normalize(output['features'])
@@ -89,15 +59,7 @@ for i in range(8):
     [ x.reverse() for x in points[0] ]
     folium.PolyLine(points, color=colorlst[i], weight=3.5, opacity=1).add_to(fmap)
 
-
-# In[115]:
-
-
 df_shop = pd.read_csv(r'晚上藥妝店.csv')
-
-
-# In[116]:
-
 
 icon_url = "https://imgur.com/fjitDvs.png"
 for n in range(df_shop.index.stop):
@@ -106,48 +68,16 @@ for n in range(df_shop.index.stop):
         location=[df_shop['Latitude'].iloc[n],df_shop['Longitude'].iloc[n]],
         icon= icon).add_to(fmap)
 
-
-# In[117]:
-
-
 with open('捷運站環域800公尺_遮罩加大.geojson', 'r', encoding='utf-8') as f:
     output = json.load(f)
 
-
-# In[118]:
-
-
 df_feature = json_normalize(output['features'])
-
-
-# In[119]:
-
 
 points = df_feature['geometry.coordinates'][0][0]
 for i in range(7):
     [ x.reverse() for x in points[i] ]
 
-
-# In[120]:
-
-
 mrt_range800 = folium.vector_layers.Polygon(points,color='#ff7800',fill = True,fill_color='#9D9D9D', opacity= 0,fill_opacity =0.5).add_to(fmap)
 
 
-# In[121]:
-
-
-fmap
-
-
-# In[122]:
-
-
 fmap.save('ming_map03_cosme_p5_l.html')
-
-
-# In[ ]:
-
-
-
-
