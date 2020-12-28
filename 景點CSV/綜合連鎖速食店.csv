@@ -1,0 +1,378 @@
+﻿,Place Name,Place ID,Latitude,Longitude,Rating,Rate_amount,Types,Address
+0,八方雲集 (三重重陽店),ChIJzzMkmOOoQjQRqeVMqTrd53k,25.058487,121.486913,3.6,172,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區重陽路一段59號
+1,McDonald's,ChIJySaRc-OoQjQR7ccWjIot6gs,25.0576391,121.4869519,4,2051,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 5, Section 1, Chongyang Road, Sanchong District"
+4,八方雲集(三重光復店),ChIJm3mfcPWoQjQRbYs3XE3vZBc,25.0491921,121.4708546,3.6,149,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區光復路一段68巷26號
+5,麥當勞-新莊中正店,ChIJz04ygdinQjQRjQQ-WieHsvQ,25.0353893,121.448367,4,1437,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區中正路232號
+6,八方雲集 (新莊公園店),ChIJ9Tuk53aoQjQR-CDE-MlIbHQ,25.0395269,121.4498083,4,396,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區公園路72號
+7,摩斯漢堡 新莊輔大店,ChIJV6VykeinQjQRC171SCJwq_0,25.0324175,121.433172,4,350,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區中正路516-5號
+9,麥當勞,ChIJ74F3KemnQjQRD8eFcCUo-Ys,25.0318028,121.4323126,3.8,1226,"['meal_takeaway', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",新莊區中正路617號
+10,八方雲集輔大店,ChIJR14ESa6nQjQR96d-yZfEyfI,25.0345398,121.434212,2.9,13,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區中正路510號輔仁大學輔園餐廳八方雲集
+11,PIZZA HUT必勝客-新莊富國店,ChIJ0xlzHvOnQjQRsHS8qeYQe3c,25.024679,121.4243459,3.8,210,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 127號, Fuguo Road, Xinzhuang District"
+13,八方雲集,ChIJk7_GcfKnQjQRAvzXmt1gh3w,25.026468,121.4265884,2.9,74,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 2號, Lane 65, Hougangyi Road, Xinzhuang District"
+14,八方雲集鍋貼水餃專賣店,ChIJS2RYwHCoQjQRTNJ4GV7Uz40,25.0258074,121.4198476,3.7,265,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區富國路70號
+16,McDonald's,ChIJgY1bzI2nQjQRYkhKz66H-Po,25.0265038,121.4179442,3.9,1208,"['restaurant', 'food', 'point_of_interest', 'establishment']","B1~3, No. 877-5, Zhongzheng Road, Xinzhuang District"
+17,麥當勞-新莊中山店,ChIJz04ygdinQjQRTCLWNaNc08Q,25.024456,121.413063,4.1,1255,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區新北大道七段792號
+18,八方雲集-新莊新建巷店,ChIJuUVxqImnQjQRh2rIJm5_xbY,25.0215007,121.4149263,3.7,175,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區中正路新建巷15弄40號
+19,八方雲集鍋貼水餃專賣店,ChIJ5Xh0qImnQjQRBQvdYdezXzU,25.0215661,121.4148811,4.1,21,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區中正路新建巷15弄40號
+22,八方雲集 (三重三和夜市店),ChIJBctxgiSpQjQR1d4BHtFLY28,25.0678969,121.5002061,3,178,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區三和路二段63號
+23,MOS BURGER摩斯漢堡,ChIJrwJ_XSGpQjQRpvTOKMQgUKA,25.0675577,121.4964778,4.1,899,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區正義北路177號
+26,PIZZA HUT必勝客-三重正義店,ChIJV7faTSGpQjQRIGZY0m0af9w,25.0686408,121.496186,3.8,270,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",三重區正義北路213號
+28,SUBWAY 三重正義店,ChIJoXAFRCGpQjQRD0TmgaQY4hY,25.068015,121.4960004,4,365,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區正義北路236號
+29,八方雲集 正義北店,ChIJQda76FOpQjQRnIx0T04pd8s,25.0690004,121.4959912,3.2,92,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 227號, Zhengyi North Road, Sanchong District"
+30,麥當勞-三重龍門店,ChIJtW5g7yapQjQRgi6cNGY3TWo,25.0724595,121.4960264,3.9,1080,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區龍門路42號
+31,八方雲集鍋貼水餃專賣店,ChIJ9zWQtN6pQjQRnPW7-hYrgTg,25.0721015,121.4959192,3.7,51,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 37號, Longmen Road, Sanchong District"
+33,PIZZA HUT必勝客-三重三和店,ChIJ1YnJsNeoQjQRoTCFeOegn34,25.077889,121.489511,3.6,305,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",三重區自強路四段48號
+35,達美樂三重自強店,ChIJ7eEZ_eGoQjQR9_sxmcIT6Bc,25.0750456,121.4876127,3.9,78,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",三重區自強路三段97號1樓
+36,八方雲集 (三重大智店),ChIJKbhV9tioQjQRzGFjRvF_s6o,25.0729732,121.4893782,3.1,116,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區大智街240號格致高中附近
+37,肯德基 KFC - 三重三和餐廳,ChIJX8C9W9CoQjQR_A-at7y8yP0,25.0792856,121.4822599,4,1214,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區三和路四段193號
+41,八方雲集 (蘆洲集賢店),ChIJ87kh-NKoQjQRDMR33r-hkN4,25.0842097,121.4809756,3.3,162,"['restaurant', 'food', 'point_of_interest', 'establishment']",蘆洲區集賢路344號
+44,摩斯漢堡徐匯店,ChIJfUAQO9CoQjQRMo0hJJlwKKk,25.0797541,121.4809749,4,612,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區三和路四段408號
+46,麥當勞-三重三和店,ChIJMaoCeiGpQjQRAzeR_OtETBM,25.079245,121.4817555,4,2157,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區三和路四段392-1號
+47,拿坡里披薩 蘆洲店,ChIJX7oI9cioQjQR2PCG0cQTD5I,25.0819551,121.4753951,4,394,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",蘆洲區中山二路12號
+50,PIZZA Hut 必勝客-蘆洲復興店,ChIJEZsB8cyoQjQRtR9-h0GcRTg,25.0873871,121.4761578,3.8,202,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",蘆洲區復興路73號
+51,八方雲集鍋貼水餃專賣店(蘆洲復興店),ChIJJ9VxPEipQjQRAyhNRkQoadU,25.0867456,121.4755442,3.7,135,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 88號, Fuxing Road, Luzhou District"
+55,肯德基KFC-蘆洲三民餐廳,ChIJfW90X7WoQjQRmV-vF0SiFyg,25.0872688,121.4715118,3.8,1833,"['restaurant', 'food', 'point_of_interest', 'establishment']",蘆洲區三民路116號
+60,八方雲集 (蘆洲仁愛店),ChIJwa9TvcqoQjQR5joMQN6WyVw,25.0898593,121.4691773,3.1,183,"['restaurant', 'food', 'point_of_interest', 'establishment']",蘆洲區民族路401號
+61,八方雲集(蘆洲成蘆店),ChIJjc9TykyvQjQRIc8qYKC5HyI,25.0932208,121.4611619,4,238,"['restaurant', 'food', 'point_of_interest', 'establishment']",蘆洲區三民路589號
+62,Pizza Hut Tucheng Zhongyang,ChIJsx_iHyodaDQRufKIYCRqxyc,24.9719042,121.4398921,3.4,118,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",土城區中央路二段350號
+63,麥當勞-土城中央店,ChIJv520FMkCaDQRqm1aqtST7mg,24.9764794,121.4421519,3.9,1012,"['restaurant', 'food', 'point_of_interest', 'establishment']","1樓, No. 159號, 中央路二段, 土城區"
+64,拿坡里披薩 土城店,ChIJZekdbCwdaDQRH2n4-O2yDyM,24.9749929,121.441929,3.7,418,"['restaurant', 'food', 'point_of_interest', 'establishment']",土城區中央路二段240號
+66,肯德基KFC-土城中央餐廳,ChIJ7WGQqZodaDQRnZu3Obpd50Q,24.9763611,121.4417414,3.4,320,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 174號, Section 2, Zhongyang Road, Tucheng District"
+68,八方雲集,ChIJl4xmlSsdaDQRRl4eeV_pvLk,24.9744454,121.441363,3.1,211,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 268號, Section 2, Zhongyang Road, Tucheng District"
+69,達美樂（土城店）,ChIJdQoMp8kCaDQRKUzLdQqTUxM,24.9866667,121.4530556,3.8,111,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",土城區學成路17號
+70,八方雲集 (土城學成店),ChIJAT-O8soCaDQRRFYvzup4BCs,24.9886515,121.4479354,3.5,238,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 179號, Xuecheng Road, Tucheng District"
+72,八方雲集(板橋亞東店),ChIJwStTGLECaDQR5A164JIWmew,24.9955,121.45362,3.1,198,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區四川路二段40號亞東醫院側門附近
+73,肯德基 KFC - 板橋中山二餐廳,ChIJY57uvh2oQjQR_uwMfYcUznQ,25.0097324,121.4610846,3.7,1124,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 65, Section 1, Zhongshan Road, Banqiao District"
+75,摩斯漢堡,ChIJV41jEBaoQjQROpuyGozZ_KE,25.007221,121.461143,4.1,783,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區館前東路60號
+77,McDonald's,ChIJI57DZqcCaDQRa2qb7cmadsw,25.007891,121.4610579,3.9,1876,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 23號, Chongqing Road, Banqiao District"
+78,達美樂板橋華興店,ChIJ0SHSHqYCaDQRGCQG2ZGiiTY,25.0048687,121.4573802,3.8,115,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 65號, Huaxing Street, Banqiao District"
+79,八方雲集 (板橋後菜園店),ChIJjfRkTT6oQjQR9kng0dq-bQ8,25.010226,121.4577529,3.1,54,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區後菜園街1之1號
+80,McDonald's Banqiao Fuzhong,ChIJeWSZUB2oQjQRUgbKi96JrTE,25.0093098,121.4577543,3.8,2057,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 69號, Fuzhong Road, Banqiao District"
+83,摩斯漢堡 板橋車站店,ChIJV41jEBaoQjQRBhZ-ZRutfFE,25.0143985,121.4634922,2.9,140,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區縣民大道二段7號B1
+85,PIZZA HUT必勝客-板橋車站店,ChIJhTGzWTWpQjQRydHo4tLIiYM,25.0141549,121.4636257,1.7,3,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","B1, No. 7號, Section 2, Xianmin Boulevard, Banqiao District"
+87,麥當勞-板橋遠百店,ChIJI57DZqcCaDQRf2rqFibDZr0,25.0109147,121.4644746,3.7,346,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區中山路一段152號12樓
+94,PIZZA HUT必勝客-板橋文化店,ChIJ1XhULz6oQjQRxjuRs3VE0jA,25.024215,121.4689391,3.5,226,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",板橋區文化路二段14號
+96,麥當勞-板橋文化店,ChIJ97PcdkCoQjQRJH2hEzeDwJQ,25.0277549,121.470436,4,2972,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區文化路二段173號
+97,八方雲集 (板橋莊敬店),ChIJ8YzZWz6oQjQR18yARJzBoeo,25.0236105,121.4708971,3.6,189,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區莊敬路132號
+98,摩斯漢堡 板橋新埔店,ChIJV41jEBaoQjQR1amY4Q0Ujnk,25.0217338,121.4676039,4,597,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區文化路一段302號
+100,八方雲集 (板橋光武店),ChIJXSIibhWoQjQR4e3nCyIPY9I,25.0259439,121.4674944,2.9,185,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區光武街34號
+105,八方雲集仁化店,ChIJc_g0OwypQjQR0flECLoahT4,25.0315127,121.4750598,3.7,131,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 32號, Renhua Street, Banqiao District"
+106,摩斯漢堡 雙十店,ChIJV41jEBaoQjQRb2k8EsGzAZc,25.0286722,121.4737417,4.1,728,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區雙十路二段187號
+108,達美樂板橋雙十店,ChIJky_wazioQjQRcGhSBjk67pU,25.0275436,121.4761215,3.7,124,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",板橋區雙十路二段40號
+109,八方雲集(板橋文化店),ChIJ1_f7qFapQjQR4E9PiCCcBhY,25.027081,121.472829,2.9,151,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 38號, Zhuangjing Road, Banqiao District"
+110,八方雲集（板橋大同店）,ChIJrdYGdkeoQjQRUn1L2GFLCfQ,25.0266612,121.4770149,3.5,155,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 6號, Datong Street, Banqiao District"
+112,八方雲集(板橋宏國店),ChIJS5isdAupQjQRwk-6iH1HJ5I,25.03243,121.470006,3.8,35,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區宏國路101號
+114,摩斯漢堡 中華店,ChIJNU5gAwypQjQRk_whxlSPnbI,25.0455398,121.5087662,3.8,1007,"['restaurant', 'food', 'point_of_interest', 'establishment']",萬華區中華路一段80號
+116,八方雲集 (萬華貴陽店),ChIJ1ZI-eKepQjQRvWt3p0Z3jy4,25.0396521,121.5056013,3.1,544,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 27, Section 2, Guiyang Street, Wanhua District"
+117,肯德基KFC-台北峨嵋餐廳,ChIJzxoI9wipQjQRGFeS1blKsFY,25.0433561,121.5071455,3.8,1804,"['restaurant', 'food', 'point_of_interest', 'establishment']",萬華區峨嵋街14-16號
+121,SUBWAY中山捷運店,ChIJHQWbgG6pQjQRzgVSw3_mV74,25.0500732,121.5201035,3.5,274,"['restaurant', 'food', 'point_of_interest', 'establishment']","B1 A15室, No. 52-1號, 長安西路, 大同區"
+122,MOS BURGER QSquare Shop,ChIJx5uydnOpQjQRmuKdIkvxdic,25.0489585,121.5183296,3.2,447,"['restaurant', 'food', 'point_of_interest', 'establishment']","1F, No. 1號, Section 1, Chengde Road, Datong District"
+123,MOS BURGER NTU Children’s Hospital Shop,ChIJaU2WuHOpQjQR92KMN6q1gyM,25.0442304,121.5188189,4.1,77,"['restaurant', 'food', 'point_of_interest', 'establishment']","B1, No. 8號, 中山南路, 中正區"
+124,麥當勞,ChIJ-Y7icHOpQjQRxMCxcRYEGOE,25.0445577,121.5168706,3.8,2532,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區公園路30-1號
+125,摩斯漢堡 公園店,ChIJx5uydnOpQjQR9ML0uuIFZH0,25.0438889,121.5166667,3.9,917,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區公園路38號
+127,McDonald's,ChIJ-Y7icHOpQjQR3yT-dkq4-fE,25.0458908,121.5148544,3.8,3874,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 8號, Guanqian Road, Zhongzheng District"
+128,Subway,ChIJt4agn22pQjQRjYOPJs7xDKE,25.049308,121.5171935,2,166,"['restaurant', 'food', 'point_of_interest', 'establishment']","B2, No. 1號, Section 1, Chengde Road, Datong District"
+131,摩斯漢堡 善導寺店,ChIJx5uydnOpQjQRMNa2pLkN-Gs,25.0438473,121.526491,3.7,561,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區忠孝東路一段178號
+133,SUBWAY,ChIJm9Y6iAmpQjQRh-JGrx_16C0,25.0401596,121.5317959,3.6,248,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區濟南路二段58之2號
+134,PIZZA HUT必勝客-新生外送店,ChIJ18wdZ3ypQjQRAKnVm2zXIWo,25.0413868,121.5324856,3.7,159,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",中正區新生南路一段52-1號
+136,McDonald's,ChIJ-Y7icHOpQjQRsQCAcFtswBE,25.0400268,121.5324778,3.8,1938,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 66, Section 2, Jinan Road, Zhongzheng District"
+137,摩斯漢堡三創園區店,ChIJ6y-Tq2SpQjQRie5fu4lewdo,25.0454897,121.5311294,3.4,51,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區市民大道三段2號
+139,KFC,ChIJK1gPp3ypQjQRdDHuJ1ZgqiQ,25.0438758,121.5314242,3.7,1337,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 64, Section 1, Bade Road, Zhongzheng District"
+140,MOS BURGER Ren’ai Shop,ChIJR4y1_YapQjQRRMg46AuCxV4,25.0382216,121.546462,3.7,364,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 37-11, Section 4, Ren'ai Road, Da’an District"
+141,摩斯漢堡 復興SOGO店,ChIJC_5tr9CrQjQRStx_zdhe1oE,25.0408932,121.5432417,3.4,55,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區忠孝東路三段300號B2
+143,肯德基KFC-台北中崙餐廳,ChIJuYoL7t2rQjQRGX3uE9NjcHU,25.0459117,121.5426824,3.7,340,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區八德路二段306號B1樓
+145,MOS BURGER Mingyao Shop,ChIJUWUmAi2qQjQRnl3JbmIxYcU,25.0405509,121.5519579,4,645,"['restaurant', 'food', 'point_of_interest', 'establishment']","B1, No. 37, Lane 151, Section 4, Ren'ai Road, Da’an District"
+147,McDonald's,ChIJ5Zls-surQjQRuwJq1J8WCts,25.0417681,121.5469743,3.8,1782,"['restaurant', 'food', 'point_of_interest', 'establishment']","之一號, No. 73號, Section 4, Zhongxiao East Road, Da’an District"
+148,麥當勞,ChIJ5Zls-surQjQRvDrz7KyVZRw,25.039521,121.557417,3.8,2636,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區光復南路286號
+149,Subway忠孝延吉店,ChIJ-ZxVhsarQjQRjvVBlYogKHM,25.0421514,121.5546625,3.3,239,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 11, Alley 2, Lane 131, Yanji Street, Da’an District"
+150,八方雲集 (台北聯合店),ChIJO8ktzb6rQjQRozzY_ixQ60w,25.0423921,121.5634874,3.7,298,"['restaurant', 'food', 'point_of_interest', 'establishment']",信義區忠孝東路四段559巷7號
+151,摩斯漢堡 松山店,ChIJ7RVlNLqrQjQRBs2n1Jc18Vk,25.0418708,121.5794579,3.8,436,"['restaurant', 'food', 'point_of_interest', 'establishment']",信義區忠孝東路五段629號
+153,McDonald's,ChIJjfzEsLCrQjQRlvJZ6rhFK2c,25.0412666,121.5791984,3.5,849,"['restaurant', 'food', 'point_of_interest', 'establishment']","1 樓, No. 522, Section 5, Zhongxiao East Road, Xinyi District"
+154,SUBWAY,ChIJQbeYqqarQjQRay6wJlRKglA,25.039216,121.576982,3.7,261,"['restaurant', 'food', 'point_of_interest', 'establishment']",信義區松德路28號
+155,肯德基KFC-台北永春餐廳,ChIJGctoEF-qQjQRDk0R4S8xcdg,25.0411666,121.5738102,3.4,622,"['restaurant', 'food', 'point_of_interest', 'establishment']","B1, No. 297, 忠孝東路五段, 信義區"
+160,Subway忠孝院區店,ChIJz2PIsnWrQjQRiKRQ6Qwz6WM,25.0459775,121.5852857,3.7,256,"['restaurant', 'food', 'point_of_interest', 'establishment']",南港區同德路79號
+161,八方雲集鍋貼水餃專賣店-忠孝店,ChIJIyN7V3SrQjQR-Ha8T0tPtRg,25.0454929,121.585022,3.6,188,"['restaurant', 'food', 'point_of_interest', 'establishment']",南港區同德路62號
+166,八方雲集 (信義五分埔店),ChIJlemmmsmrQjQRRhGi6laMWtc,25.0485315,121.5798604,3.5,302,"['restaurant', 'food', 'point_of_interest', 'establishment']",信義區松隆路341號
+167,麥當勞-松山車站店,ChIJDwL2pJ6rQjQRz7sYkQTsebg,25.0490763,121.5795015,3.5,545,"['restaurant', 'food', 'point_of_interest', 'establishment']",信義區松山路11號
+171,八方雲集,ChIJIyN7V3SrQjQRAg-5y7rjf1c,25.0515522,121.5937694,2.9,287,"['restaurant', 'food', 'point_of_interest', 'establishment']",南港區昆陽街97號
+172,PIZZA HUT必勝客-南港昆陽店,ChIJATkgtr2rQjQR_cEQFot2EgE,25.0495095,121.5907934,3.8,18,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",南港區忠孝東路六段326號
+175,麥當勞-台北南港店,ChIJZ_AZA16rQjQRP1Yb4p2Yy6I,25.0544444,121.6058333,3.7,1165,"['restaurant', 'food', 'point_of_interest', 'establishment']",南港區南港路二段16號
+176,MOS BURGER,ChIJXZm3712rQjQRnzmVXZZQaOc,25.0528062,121.6063011,3.7,310,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 369, 忠孝東路七段, 南港區"
+177,Pizza Hut,ChIJO15ZwF2rQjQRFIxThQ_taOk,25.0524415,121.604529,3.7,941,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","9樓, No. 299號, Section 7, Zhongxiao East Road, Nangang District"
+178,SUBWAY (南港CityLink),ChIJR9KDuGWrQjQRNYcRcl_r--0,25.0528834,121.6059243,3.5,221,"['restaurant', 'food', 'point_of_interest', 'establishment']","忠孝東路七段369號B棟1樓, 南港區"
+179,摩斯漢堡 南港展覽館店,ChIJK1tFeaesQjQRpSi5ikGeTUI,25.0564594,121.6171579,3.6,196,"['restaurant', 'food', 'point_of_interest', 'establishment']",南港區經貿二路1號
+181,麥當勞-台北研究院店,ChIJZ_AZA16rQjQR-g8MzhHK43M,25.0522571,121.6163202,3.7,1560,"['restaurant', 'food', 'point_of_interest', 'establishment']",南港區研究院路一段99號
+182,PIZZA HUT必勝客-南港外送店,ChIJR_2xUFirQjQRFg2ntYBgEcI,25.0548637,121.6143439,3.4,189,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 113號, Section 1, Nangang Road, Nangang District"
+184,SUBWAY,ChIJsWjehVirQjQRrvLWD-Zdt28,25.0568301,121.6133779,3.8,211,"['restaurant', 'food', 'point_of_interest', 'establishment']",南港區三重路19之4號
+185,拿坡里披薩 南港店,ChIJeS-p-VirQjQRPcvc4RRudPI,25.0557719,121.613781,4.1,467,"['restaurant', 'food', 'point_of_interest', 'establishment']",南港區三重路7號
+187,MOS BURGER Nangang Shop,ChIJK1tFeaesQjQR9UR8ZJlpG1E,25.057518,121.6137391,3.7,398,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 19-8號, Sanchong Road, Nangang District"
+188,肯德基KFC-台北南港餐廳,ChIJWSQ4i1irQjQRjj4X3tpkyk4,25.0558183,121.6138087,3.7,784,"['restaurant', 'food', 'point_of_interest', 'establishment']","1-2樓, No. 11號, Sanchong Road, Nangang District"
+0,麥當勞-台北動物園三店,ChIJL-BJs3aqQjQRLgXRc-JrSIk,24.9987704,121.5818518,3.9,883,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區新光路二段30號
+1,MOS BURGER,ChIJ2cIjGZeuQjQRCVbqh4sKl4c,24.9983305,121.5810084,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區新光路二段30號
+2,八方雲集鍋貼水餃專賣店,ChIJEbqDBxOqQjQRe5SF6y2igx0,24.9994339,121.55701,3.3,417,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區興隆路三段98號
+4,麥當勞-台北麟光店,ChIJwednY4mpQjQRUFPwDKmLxXs,25.0183095,121.5580073,3.9,1187,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區和平東路三段406巷8號
+5,麥當勞-復興二店,ChIJ5Zls-surQjQRtT-wtUeIkxo,25.0256551,121.5436463,3.5,1391,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區復興南路二段273號
+6,八方雲集 (師院店),ChIJTUKchS6qQjQRSCFKS6Z_VSI,25.0249649,121.545013,2.8,298,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區和平東路二段311巷2號
+7,Subway,ChIJucZXSSmqQjQRdG4BfMQO3uA,25.025214,121.542348,3.5,200,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 203, Section 2, Heping East Road, Da’an District"
+8,SUBWAY,ChIJDRdBENOrQjQRcphhVzidq4A,25.0328731,121.5446854,3.7,393,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區信義路四段30巷5號
+11,肯德基KFC-台北中山餐廳,ChIJuYoL7t2rQjQRIcmafl9NJj8,25.0516943,121.5436155,3.7,955,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區南京東路三段222號
+13,McDonald's,ChIJcVe4HuirQjQRkg7aiCcAOcY,25.061872,121.5460426,3.8,1470,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 128號, Section 3, Minquan East Road, Songshan District"
+14,SUBWAY 松山機場店,ChIJDZHrcOerQjQRkCP_4WX2Dio,25.0637946,121.5514008,3.3,323,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區敦化北路340之9號
+15,MOS BURGER Songshan Airport Shop,ChIJlxB5dpKrQjQRKtMql-5VVzc,25.0636871,121.5507894,3.4,108,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區敦化北路340-9號
+16,八方雲集 (北安店),ChIJczcVlwWsQjQR45YSUJv9zIE,25.0800037,121.5472546,2.8,292,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區北安路535之2號
+17,PIZZA HUT必勝客-大直外送店,ChIJOQQ0gQWsQjQRMpLTpfamHiM,25.0802438,121.5481817,3.3,110,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",中山區北安路552號
+19,MOS BURGER Dazhi Jiannan Shop,ChIJRea2ThKsQjQR2kTBOJmaA8M,25.0837445,121.5555286,3.7,389,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 11, Jingye 3rd Road, Zhongshan District"
+20,肯德基KFC-台北內湖餐廳,ChIJoYZULmysQjQRc5r_xexAWx8,25.0823489,121.5648372,3.8,1695,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區內湖路一段230號
+22,麥當勞-台北西湖店,ChIJT3LboWOsQjQR3p2bQiG05yk,25.0824181,121.5661213,3.8,1295,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區內湖路一段283號
+23,摩斯漢堡,ChIJQ2Z5mW-sQjQRIUNzgxW3Jxc,25.0803762,121.5747349,3.6,374,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區內湖路一段637號
+25,摩斯漢堡,ChIJJaf17HusQjQRChsykn90CM4,25.078294,121.5841025,3.8,531,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區文德路212號
+27,摩斯漢堡 內湖店,ChIJJaf17HusQjQRiwZu3CfcxVo,25.0844284,121.5954487,3.9,518,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區成功路四段202號
+29,必勝客Pizza Hut 內湖成功店,ChIJ_fE4vIusQjQR_QkxnaNNxQ0,25.0849323,121.5937332,3.5,163,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",內湖區金龍路45號
+31,McDonald's Neihu Jinlong Road,ChIJ7bY8xbCtQjQR7qK_9yEMT5Y,25.0845091,121.5943056,3.8,746,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 6號, Jinlong Road, Neihu District"
+32,MOS BURGER摩斯漢堡,ChIJJaf17HusQjQR_ZmtKiDOgWw,25.0740049,121.6060285,3.9,587,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區成功路五段63號
+35,八方雲集(內湖新麗湖店),ChIJY0vV9kCtQjQRKjOAoxezcpU,25.071912,121.6086085,2.9,24,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 46號, Section 3, Kangning Road, Neihu District"
+36,麥當勞-台北康寧店,ChIJT3LboWOsQjQR3sStcTiZUQo,25.0693762,121.6117996,3.8,1681,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區康寧路三段168號
+39,麥當勞-新台北101店,ChIJjfzEsLCrQjQRULh_qa2QVNQ,25.0334929,121.564101,3.7,311,"['restaurant', 'food', 'point_of_interest', 'establishment']",信義區市府路45號B1
+40,摩斯漢堡 台北101店,ChIJ7RVlNLqrQjQRFXoASxvlvOg,25.0334929,121.564101,3.3,67,"['restaurant', 'food', 'point_of_interest', 'establishment']",信義區市府路45號B1
+42,McDonald's,ChIJ5Zls-surQjQRzxwE_m6-p7E,25.0333281,121.5545596,3.8,1445,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 273號, Section 4, Xinyi Road, Da’an District"
+44,SUBWAY,ChIJoS9qLIWpQjQRM1PZl-uB8N8,25.0337561,121.5343572,4,400,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區信義路三段27號
+45,摩斯漢堡 南昌店,ChIJx5uydnOpQjQRC1ksJXweye8,25.0317025,121.5167256,3.8,733,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區南昌路一段44號
+48,MOS BURGER MRT Shop,ChIJx5uydnOpQjQRH-3B3JqxYNI,25.0465334,121.5178038,3.6,216,"['restaurant', 'food', 'point_of_interest', 'establishment']","B1, No. 49, Section 1, Zhongxiao West Road, Zhongzheng District"
+49,MOS BURGER Zhongshan Store,ChIJVz_R2WipQjQRcuB4O6sXWwk,25.0527048,121.5227966,3.8,648,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 9, Section 2, Zhongshan North Road, Zhongshan District"
+50,拿坡里披薩 民生店,ChIJzTiiA2qpQjQRC3qIAQ_EB50,25.0576459,121.519611,3.9,538,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",大同區民生西路83號
+52,肯德基KFC-台北雙連餐廳,ChIJvTkYdEKpQjQRCCfBw8W2exA,25.0578876,121.5216724,3.7,995,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區民生西路9號
+54,麥當勞-民生三店,ChIJJ-T2AW2pQjQRlO6_vPQbKJE,25.0577491,121.5203481,3.6,1116,"['restaurant', 'food', 'point_of_interest', 'establishment']",大同區民生西路55號
+55,Mos Burger,ChIJgbzvHhOpQjQRNR7gSMh6dWY,25.057665,121.519756,3.6,402,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 77, Minsheng West Road, Datong District"
+56,MOS BURGER Zhongbei Shop II,ChIJ74_y1GmpQjQR4d29bp4G_Dc,25.0571762,121.5225898,3.7,232,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 76, Section 2, Zhongshan North Road, Zhongshan District"
+57,摩斯漢堡MOSBURGER民權西路店,ChIJxXKO1GmpQjQR_KfjXewSTdg,25.063014,121.521502,3.8,1068,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區民權西路25號
+60,麥當勞-民權三店,ChIJzapf0lypQjQRIjUlKnPDot8,25.0626373,121.5199814,3.8,1515,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區民權西路68號
+61,八方雲集 (台北天祥店),ChIJZ0wPjF6pQjQRTu7k7cd0G6w,25.0633069,121.5209029,3.5,254,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區天祥路59號
+62,八方雲集大同圓山店（Bafang Dumpling),ChIJ5dBPxEipQjQRemdbQWhhddg,25.0707187,121.5189416,3.4,211,"['restaurant', 'food', 'point_of_interest', 'establishment']",大同區酒泉街37號
+63,Subway,ChIJ7W_mOkmpQjQRJnMAPnsOjPo,25.0722845,121.5190159,4.1,416,"['restaurant', 'food', 'point_of_interest', 'establishment']",大同區承德路三段263號
+64,拿坡里披薩 士林店,ChIJeyaIr7yuQjQRvzs3ip2sOdw,25.0945619,121.524869,4.1,456,"['restaurant', 'food', 'point_of_interest', 'establishment']",士林區文林路430號
+66,PIZZA HUT必勝客-士林中正店,ChIJG3Yaf8muQjQRS5Vtte3JVNs,25.0951611,121.5258221,3.5,119,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",士林區中正路241號
+68,MOS BURGER MRT Shilin Shop,ChIJyyxdN6OuQjQR86eIGeFF-SA,25.095272,121.5262506,3.7,397,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 225, Zhongzheng Road, Shilin District"
+69,Subway,ChIJe5PVVqKuQjQRzIim-5Ju91M,25.0955052,121.5251504,3,300,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 62, Meide Street, Shilin District"
+70,八方雲集 (北投明德店),ChIJZwaRelquQjQRXmSbvXHBfs8,25.109305,121.519558,3,406,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區明德路86號
+71,摩斯漢堡MOSBURGER 石牌店,ChIJ5RyKyfOuQjQRq1t6TpchVmU,25.1145058,121.513746,3.9,782,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區石牌路一段174號
+74,肯德基 KFC - 台北石牌餐廳,ChIJX3W_4IyuQjQRsKiV_fE2ffw,25.115006,121.515673,3.7,933,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區東華街一段550號
+76,八方雲集 (北投吉利店),ChIJZwaRelquQjQRaHZZQ1xKKIs,25.1191,121.5064449,3.6,167,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區吉利街123巷16號
+77,八方雲集 北投崇仁店,ChIJTYogC2-vQjQRYaT7gwxpWqA,25.1265795,121.5015352,3.6,99,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 71號, Section 1, Chongren Road, Beitou District"
+78,麥當勞-台北大業店,ChIJmaIVx1auQjQR22qvhbHj0uo,25.1311111,121.4986111,4,1235,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區北投路二段15號
+79,摩斯漢堡MOS BURGER-北投捷運店,ChIJneA9UlGuQjQRGSPzDVpVJ8Q,25.1323246,121.4971782,3.7,323,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區北投路二段45號1樓
+82,八方雲集 (北投北投二店),ChIJsWmj51auQjQRFAklt2YRovQ,25.130438,121.499311,3.9,238,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 5, 北投路二段, 北投區"
+83,肯德基 KFC - 北投光明餐廳,ChIJLYFlb22uQjQRt8sVgg0smZ8,25.1365213,121.5041596,3.6,436,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區光明路225號
+85,摩斯漢堡MOSBURGER 北投光明店,ChIJ5RyKyfOuQjQRSg2b2u0bt3s,25.1361198,121.5039749,3.8,543,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區光明路212號
+88,SUBWAY 新北投店,ChIJ7fSMiU-uQjQRtI3rTOGU3iw,25.138069,121.502641,3.3,245,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區中和街41號
+89,McDonald's Beitou,ChIJDbi1NUWuQjQRBvFkgKpHiU8,25.136259,121.5043493,3.8,814,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 218-3, Guangming Road, Beitou District"
+90,摩斯漢堡 竹圍店,ChIJqUiX_p2vQjQRcgNVJzg6xLs,25.1371811,121.4603173,3.7,529,"['restaurant', 'food', 'point_of_interest', 'establishment']",淡水區民族路1號1F
+92,PIZZA HUT必勝客,ChIJtxp6npuvQjQRMWg2asdJoJc,25.1346757,121.4597602,3.8,137,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 179-5, Minquan Road, Tamsui District"
+94,摩斯漢堡 MOSBURGER (淡水萬熹店),ChIJKYdKop2vQjQRiFYWZFcW13k,25.1686096,121.44585,3.7,482,"['restaurant', 'food', 'point_of_interest', 'establishment']",淡水區中正東路35號
+97,必勝客,ChIJyx24vfOvQjQRoy5BH330ZZI,25.1675442,121.447404,3.4,237,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",淡水區中正東路71-8號
+98,Subway 淡水捷運站店,ChIJCbjmzPevQjQROAfQ1eop3QU,25.1681563,121.4464336,4,244,"['restaurant', 'food', 'point_of_interest', 'establishment']",淡水區中正東路45號
+99,McDonald's,ChIJc9ay25KvQjQReN7fMGJTPTA,25.1683094,121.4462349,3.9,1657,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 37號, Zhongzheng East Road, Tamsui District"
+100,八方雲集(新店總站店),ChIJQbeXlIcBaDQRo_2b7DBorUc,24.9568041,121.5382916,3.1,180,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區北宜路一段30號
+101,肯德基KFC-新店光明餐廳,ChIJmb0sq_YBaDQRXZ6Nd6WaVGk,24.9590028,121.538226,3.8,890,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區光明街1-1號
+103,MOS BURGER摩斯漢堡,ChIJc6ERq_ABaDQRW9o-BIXsEKQ,24.9680886,121.5414252,3.8,743,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區北新路一段311號
+106,PIZZA HUT必勝客-新店北新店,ChIJfeTnu_QBaDQRAL8zNu7o4-4,24.9689629,121.541659,3.6,259,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",新店區北新路一段341號
+108,八方雲集鍋貼水餃專賣店,ChIJRa4yEIsBaDQRxmqIck4Hziw,24.966319,121.540745,2.7,90,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 255號, Section 1, Beixin Road, Xindian District"
+110,SUBWAY-七張店,ChIJgRDYLvEBaDQR6NIFF3UkqzM,24.9754044,121.5433192,3.8,346,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區北新路二段152巷2號
+111,肯德基,ChIJmb0sq_YBaDQRvsMkF3cSJWs,24.9733392,121.5427716,3.6,1250,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區北新路二段61號
+112,麥當勞-新店北新店,ChIJj2BuTvEBaDQR-GxHQCT1H4M,24.9736367,121.5430984,3.9,2703,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區北新路二段102號
+113,八方雲集鍋貼水餃專賣店-新店七張店,ChIJ8bno5PYBaDQRDNuKVxTAADA,24.9733191,121.543103,3.2,221,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區北新路二段98號
+115,摩斯漢堡 小碧潭店,ChIJBZHW4BgCaDQR8jhinTn5V0g,24.9733334,121.5297852,3.7,445,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區中央路216號
+117,八方雲集鍋貼水餃專賣店(新店中央店),ChIJDU-8IxkCaDQR9fjfWCbuNag,24.9738692,121.5301962,3.6,195,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 208號, Zhongyang Road, Xindian District"
+119,摩斯漢堡 大坪林店,ChIJc6ERq_ABaDQR58bj5U4Ek84,24.9828234,121.5399482,3.9,629,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區民權路45號
+121,McDonald's,ChIJj2BuTvEBaDQR63eBWlUhhcU,24.9805556,121.5416667,3.9,1207,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 51號, Section 3, Beixin Road, Xindian District"
+122,Subway,ChIJb3YQQvkBaDQR5xskvNkzrO4,24.982922,121.5416422,3.6,400,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 23, Minquan Road, Xindian District"
+123,麥當勞-景美店,ChIJDxhoLwGqQjQRo_O2yQ6EQwE,24.9921189,121.542655,3.6,875,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區景中街30巷12號
+124,SUBWAY,ChIJqeFRPgGqQjQRQgLpCNh1Gjs,24.9931187,121.5414942,3.8,167,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區景中街1號
+125,PIZZA HUT必勝客-景美萬隆店,ChIJ1w34Oh2qQjQRAQsA1KtkXWQ,25.001306,121.538965,3.7,90,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",文山區羅斯福路五段242號
+127,摩斯漢堡 羅斯福路店,ChIJR4y1_YapQjQRBvTjPhu3iJs,25.019468,121.529766,4,1590,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區羅斯福路三段233號
+129,PIZZA HUT必勝客 師大店,ChIJg4-vmI-pQjQR89rLaG-eoQo,25.0228964,121.5280673,3.7,182,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",大安區師大路86巷2號
+131,SUBWAY,ChIJbdKzl46pQjQRkdmEONSY4jI,25.019403,121.529876,3.6,516,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區羅斯福路三段241號
+132,麥當勞-羅斯福店,ChIJWdQlWpqpQjQRGp8WGVvaLCg,25.027535,121.5223709,3.9,2602,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區羅斯福路二段45號
+137,McDonald's,ChIJ-Y7icHOpQjQRhuryjnRNRPI,25.0416679,121.5091,3.9,317,"['restaurant', 'food', 'point_of_interest', 'establishment']","B1, No. 32號, Baoqing Road, Zhongzheng District"
+139,摩斯漢堡,ChIJxXKO1GmpQjQRqncF6bclXy4,25.0546804,121.5328463,3.9,1308,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區松江路156-1號1樓
+141,McDonald's,ChIJzapf0lypQjQRJko4SRUOiNI,25.0546815,121.5337558,3.7,1513,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 172號, Changchun Road, Zhongshan District"
+144,麥當勞-台北南京六店,ChIJLdwMrHGrQjQR5TmYVujINVw,25.0518432,121.5527219,4,319,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區南京東路四段57號
+145,麥當勞-台北南京影城店,ChIJcVe4HuirQjQR7Q7bcnviKSc,25.051223,121.563076,3.8,1478,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區南京東路五段162號
+146,摩斯漢堡 吉祥店,ChIJwVQDjeirQjQR4dEJr8Bx0lI,25.0505847,121.5626136,3.9,581,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區吉祥路59號
+148,肯德基KFC-台北南京東二餐廳,ChIJcZ9dWpSrQjQRV-xwV-cO86g,25.0511799,121.5631146,3.7,1160,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區南京東路五段164號
+150,SUBWAY,ChIJz6ynR5SrQjQR2lr4QCBHqYI,25.0510883,121.5638213,3.5,216,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區八德路四段245巷60號1樓
+152,麥當勞-中和興南店,ChIJvX-iuXMCaDQRM2a4zzn9EKg,24.9889289,121.5099261,3.9,1506,"['restaurant', 'food', 'point_of_interest', 'establishment']",中和區興南路一段83號
+153,肯德基,ChIJERIN7tapQjQRSqcEYJuPZqs,24.9890968,121.5101047,3.6,764,"['restaurant', 'food', 'point_of_interest', 'establishment']",中和區興南路一段79號
+154,八方雲集中和興南店,ChIJ_QevqYACaDQR68ksPbVjK5k,24.9890509,121.5107614,1.8,214,"['restaurant', 'food', 'point_of_interest', 'establishment']",中和區仁愛街19號號
+155,Subway 南勢角捷運店,ChIJM61kf3MCaDQRGQ1SxzbNCn4,24.9909148,121.5113735,3.9,211,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 21號, Section 1, Xingnan Road, Zhonghe District"
+156,達美樂（景安店）,ChIJ3c7433YCaDQRKe3dT8s-UOI,24.9937379,121.5056031,3.7,144,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",中和區景平路470號
+157,摩斯漢堡 永和永安店,ChIJk1ldjeqpQjQRewxFOV4sfJA,25.0016382,121.5100126,3.9,1034,"['restaurant', 'food', 'point_of_interest', 'establishment']",永和區中和路463號
+159,麥當勞,ChIJNWK3L9ypQjQRG9v9IxkSNuk,25.0024653,121.5107272,3.5,1051,"['restaurant', 'food', 'point_of_interest', 'establishment']",永和區中和路503號
+160,摩斯漢堡 永和頂溪店,ChIJX-JU8-qpQjQRdGuDGvmemIE,25.0146466,121.5156193,3.5,426,"['restaurant', 'food', 'point_of_interest', 'establishment']",永和區永和路二段239-2號
+162,麥當勞-永和店,ChIJ1dJLaOqpQjQRGgH-GnpnQdQ,25.0130556,121.5155556,4,1914,"['restaurant', 'food', 'point_of_interest', 'establishment']",永和區永和路二段170號
+163,Subway,ChIJN-_1EeqpQjQRr8CCItjBy8o,25.0124694,121.5149474,3.8,369,"['restaurant', 'food', 'point_of_interest', 'establishment']",永和區永和路二段139號
+165,摩斯漢堡 忠孝二店,ChIJsXJEhHypQjQRhVS5aMHPw1M,25.0423929,121.5319238,3.7,1090,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區忠孝東路二段132號
+172,摩斯漢堡 康華店,ChIJxXKO1GmpQjQRi-ksaGAFSvg,25.0597782,121.5329477,3.9,1134,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區松江路274號
+174,摩斯漢堡 MOSBURGER,ChIJxXKO1GmpQjQRprgjbuKA1o8,25.0625074,121.5254734,3.8,765,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區民權東路一段76號
+182,達美樂（重慶北店）,ChIJS7_DVD-pQjQRw5TT1sp84uY,25.06473,121.51394,4,160,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",大同區重慶北路三段23號
+183,肯德基 KFC - 三重重新二餐廳,ChIJQ6ThtxipQjQRuGMIEE8qCWc,25.0629901,121.4994711,3.6,1343,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區重新路二段1-1號
+185,摩斯漢堡台北橋店,ChIJrwJ_XSGpQjQRA2Gm8UyN--A,25.0632108,121.5009428,4,549,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區重新路一段104號
+187,八方雲集（台北橋店）,ChIJuQfiSuGpQjQR2B9mX-6hFHc,25.0625894,121.5001285,3.3,139,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區文化南路6號
+188,拿坡里披薩炸雞,ChIJ92Hrel-oQjQRd1VzrfGnKXI,25.0475391,121.471718,3.8,5,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區光復路一段38號
+191,KFC Xinzhuang Fu Jen University,ChIJeXcwkeinQjQRfvnl-SsTw2A,25.03246,121.433307,3.6,643,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 516-3, Zhongzheng Road, Xinzhuang District"
+199,八方雲集 (蘆洲徐匯店),ChIJDUsT6GipQjQRyJqUFVtzqm0,25.0806339,121.4793899,3.3,144,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 19號, Zhongshan 1st Road, Luzhou District"
+200,達美樂蘆洲徐匯店,ChIJJaqIa7WpQjQR5DtEOMqJ8RM,25.0807733,121.4790863,1,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 33號, Zhongshan 1st Road, Luzhou District"
+201,達美樂（蘆洲徐匯中山一路店）,ChIJBajc0D-pQjQR7C_zhzzWEyg,25.080773,121.479086,4.2,18,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 33號, Zhongshan 1st Road, Luzhou District"
+202,摩斯漢堡,ChIJiWFX6dYcaDQRpmhffM7tpXY,24.967184,121.4362447,4,672,"['restaurant', 'food', 'point_of_interest', 'establishment']",土城區中央路三段84號
+204,摩斯漢堡 亞東醫院店,ChIJc6Gcn7ECaDQRGdjtfE6Xctw,24.9970215,121.4527104,3.6,54,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區南雅南路二段21號B1
+212,台灣麥當勞餐廳股份有限公司,ChIJ1Sg0iIOuQjQRCBsGGZevUDE,25.0141549,121.4636257,2,6,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 7號, Section 2, Xianmin Boulevard, Banqiao District"
+217,Subway,ChIJm6J1BRaoQjQRLg3M9RuR5vY,25.0219877,121.4678073,4.1,495,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 318號, Section 1, Wenhua Road, Banqiao District"
+218,KFC Xinpu,ChIJc7b2Tx2oQjQRAOTWMSWas4c,25.0228199,121.4674193,3.6,1329,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 2, Lane 421, Section 1, Wenhua Road, Banqiao District"
+221,肯德基KFC-板橋雙十餐廳,ChIJvclYPo6pQjQRSW6JedU7O8s,25.0296933,121.4730232,3.9,307,"['restaurant', 'food', 'point_of_interest', 'establishment']","170 , 170-1 , 170-2 , 170-3號, Section 2, Shuangshi Road, Banqiao District"
+228,麥當勞-林森二店,ChIJ-Y7icHOpQjQR3lhnCCJdf1c,25.0444671,121.5233963,4,3417,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區林森南路1號
+235,Mosun 墨賞新鐵板料理餐廳,ChIJhyEhFcWrQjQRgght_BCEXyU,25.0419444,121.55,4.4,2293,"['restaurant', 'food', 'point_of_interest', 'establishment']","2樓, No. 155, Section 4, Zhongxiao East Road, Da’an District"
+237,必勝客 光復餐廳店,ChIJdZ60BserQjQR3cKEXVMVFBU,25.0415562,121.5573287,4.1,3013,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",大安區忠孝東路四段341號2樓
+241,PIZZA HUT必勝客-永吉外送店,ChIJy7_DCRurQjQRl2KoH48EXFY,25.0451369,121.581434,4,1,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 540號, Yongji Road, Nangang District"
+243,Pizza Hut,ChIJiZMhwZ-rQjQRFtKwjhcxhsY,25.0451369,121.581434,3.8,233,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 540, Yongji Road, Nangang District"
+244,摩斯漢堡 昆陽店,ChIJ1SKdHnCrQjQRhuckaj18UQg,25.050232,121.593903,3.8,650,"['restaurant', 'food', 'point_of_interest', 'establishment']",南港區忠孝東路六段444號
+247,麥當勞-忠孝八店,ChIJZ_AZA16rQjQRdDm1pWlHF2k,25.0501488,121.5936976,3.7,567,"['restaurant', 'food', 'point_of_interest', 'establishment']",南港區忠孝東路六段438號
+254,肯德基 文山興隆餐廳,ChIJTUF6BBOqQjQRD3zAsL34RFE,25.0008915,121.5548936,3.6,779,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區興隆路三段9號
+255,拿坡里披薩 興隆店,ChIJl0pSlROqQjQRHSJQFrCp7Iw,25.0006039,121.5554466,3.6,403,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區興隆路三段31號
+257,摩斯漢堡 興隆店,ChIJI37CuBOqQjQRytGCKrim6Pc,25.0002884,121.5556127,3.8,404,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區興隆路三段44號
+259,PIZZA HUT必勝客-興隆外送店,ChIJm76gXhGqQjQRVg3L7b-iOys,25.0012759,121.553774,4.2,137,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",文山區興隆路二段317號
+261,McDonald's,ChIJL-BJs3aqQjQRO4bm5N7ti5Q,25.0001533,121.5558533,3.8,1201,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 54號, Section 3, Xinglong Road, Wenshan District"
+264,八方雲集 安居店,ChIJdasmHs2rQjQRHJ7zliuhgSY,25.0206322,121.5547299,3.9,280,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區安居街25號
+265,八方雲集 台北安居店,ChIJfRSAg9SrQjQRuFCBGd0pXh8,25.0206322,121.5547299,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 25號, Anju Street, Da’an District"
+266,八方雲集（信義嘉興店）,ChIJjUICbwurQjQRU5TFEmGKDXY,25.024077,121.555316,2.6,98,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 98號, Chongde Street, Xinyi District"
+269,PIZZA HUT必勝客-和東外送店,ChIJmX0KpDGqQjQRsDvqLRzoKnE,25.0226403,121.5509089,3.8,137,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",大安區基隆路二段231號
+271,達美樂和平店,ChIJhVS-ITKqQjQRjWTq8s85Juo,25.0246655,121.5499492,3.9,129,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",大安區和平東路三段81號
+272,SUBWAY,ChIJ7Zfw-C2qQjQR-LkXG37xKD8,25.025329,121.548255,3.9,361,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區敦化南路二段150號
+274,摩斯漢堡復興南路店,ChIJUWUmAi2qQjQRxhkkHUlbydA,25.0284015,121.5456126,3.9,500,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區復興南路二段151巷47號
+278,八方雲集 (台北建南店),ChIJI-YNQSqqQjQRAePATo68ZIc,25.0286854,121.5386977,3.2,358,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區建國南路二段151巷18號
+281,MOS BURGER Da’an Shop,ChIJR4y1_YapQjQR4YKK7-MuSFc,25.0341573,121.5460818,3.4,447,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 237, Section 1, Da'an Road, Da’an District"
+283,Pizza Hut必勝客-大安外送店,ChIJlaF1pDGqQjQRUMslrduoCss,25.031501,121.5461572,3.7,214,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",大安區大安路二段47號
+285,八方雲集大安店,ChIJOW6enGWrQjQR1SDY6jQH1no,25.0321636,121.5461679,3.7,56,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 23號, Section 2, Da'an Road, Da’an District"
+293,摩斯漢堡 西華店,ChIJwVQDjeirQjQRnAYZMqnx00Q,25.0586111,121.5463889,3.7,197,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區民生東路三段113巷7弄1號
+295,McDonald's,ChIJcVe4HuirQjQRDPvmsqXBkEQ,25.0580845,121.5484543,4,1732,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 135, Section 3, Minsheng East Road, Songshan District"
+296,摩斯漢堡 民權店,ChIJxXKO1GmpQjQRbbUd1TqkzJs,25.0625668,121.5411072,3.6,491,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區民權東路三段5號
+298,PIZZA HUT必勝客-龍江外送店,ChIJ44vsCeOrQjQRqP5_K9meB-Q,25.0611243,121.5408882,3.5,194,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",中山區龍江路307號
+300,SUBWAY,ChIJc6Lk1GepQjQRHo9ZlUMYu5o,25.0625621,121.5414647,4,376,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區民權東路三段15號1
+301,八方雲集 (台北龍江店）,ChIJV5f--fyrQjQRyxxB2Pq_Wr4,25.0612318,121.5406041,3.4,301,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區龍江路288-1號
+305,摩斯漢堡,ChIJH0mhiA-sQjQRMI6yG_xsR8c,25.0811045,121.5487245,3.9,327,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區北安路586號
+307,麥當勞-台北北安店,ChIJZV40rhOsQjQR-FiOcbtg9nI,25.0827769,121.5491511,3.8,1697,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區北安路626號
+310,台灣麥當勞餐廳股份有限公司北安門市部,ChIJux414w-sQjQR5qfT_TyUfDQ,25.0827511,121.5491383,4.4,5,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 626, Beian Road, Zhongshan District"
+311,Subway,ChIJOQWMDwWsQjQR-F5cVEoDv4M,25.08233,121.546282,3.5,332,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區大直街48號1F
+318,摩斯漢堡 瑞光店,ChIJQ2Z5mW-sQjQRbWo_2EYkcog,25.080176,121.569894,3.8,588,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區瑞光路513巷34號
+320,麥當勞-台北瑞光店,ChIJT3LboWOsQjQRUB-NFAu1bZg,25.0791598,121.569471,3.7,505,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區瑞光路517號
+321,SUBWAY（洲子美食館店）,ChIJ27KdYW-sQjQRUqov0ZzARjc,25.0793271,121.5691767,3.4,124,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區瑞光路515號
+322,PIZZA HUT必勝客-西湖外送店,ChIJoRiGam-sQjQRwgxqZ-whwFg,25.0820472,121.5699777,3.7,183,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 381號, Section 1, Neihu Road, Neihu District"
+326,八方雲集 (內湖內湖路一店),ChIJfU1ufGGsQjQRQoF_w4NJU1w,25.0814312,121.5792654,3.1,175,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 73號, Lane 737, Section 1, Neihu Road, Neihu District"
+327,麥當勞-台北內湖店,ChIJT3LboWOsQjQRCjy8Ta2zBjo,25.0789852,121.5785576,3.8,1579,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區內湖路一段741號
+328,八方雲集 (內湖麗山店),ChIJVxqV0WWsQjQRIWVzRSTydOE,25.0819357,121.5736667,3.4,330,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區麗山街348巷15號
+332,達美樂披薩,ChIJ16Wh8oysQjQRlITpVVKOrS8,25.0820006,121.5899326,3.9,96,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","1樓, No. 255號, 內湖路二段, 內湖區"
+348,摩斯漢堡 南港二店,ChIJwz1fX1irQjQRUdFOW5BaABQ,25.0570748,121.6119893,3.9,118,"['restaurant', 'food', 'point_of_interest', 'establishment']",南港區園區街3-2號
+365,McDonald's Taipei Songhsou,ChIJRz5sybCrQjQRTX1SqOGTyFM,25.03531,121.5660665,3.5,517,"['restaurant', 'food', 'point_of_interest', 'establishment']","1F, No. 12號, Songshou Road, Xinyi District"
+367,PIZZA HUT必勝客-信義外送店,ChIJ7YviH7arQjQRVWqIwNxLXU8,25.03401,121.559839,3.4,61,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",信義區基隆路一段422號
+370,SUBWAY仁愛延吉店,ChIJ-e5u3MirQjQRPABT3DKa3dc,25.0369514,121.5553924,3.9,227,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",大安區延吉街228巷3號
+372,MOS BURGER Xinyi Tonghua Shop,ChIJR4y1_YapQjQR20sN_tMpmtM,25.0329459,121.55484,3.6,311,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 304, Section 4, Xinyi Road, Da’an District"
+373,摩斯漢堡敦南店,ChIJb5JGKM2rQjQRwjT1Lrpxvp8,25.0300246,121.5511654,3.8,464,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區敦化南路二段81巷59號
+383,摩斯漢堡 新生店,ChIJR4y1_YapQjQRtMACpCN4HHo,25.0345499,121.5330282,3.6,571,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區新生南路一段161-1號
+388,摩斯漢堡 金山店,ChIJVVVVVRWsQjQRmiia4KI2hXk,25.0303592,121.5267868,3.9,1119,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區金山南路二段121號
+392,麥當勞-台北南昌店,ChIJ-Y7icHOpQjQR-9WkECfvQjM,25.029422,121.518656,3.8,1181,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區南昌路一段149號
+393,拿坡里披薩 南昌店,ChIJzQwWdJmpQjQRdVflJHhBIzs,25.0294009,121.5187576,3.6,261,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 151, Section 1, Nanchang Road, Zhongzheng District"
+397,八方雲集 (台北南海店),ChIJ13a2sJipQjQRYMmU55BDR6w,25.0320073,121.5152171,3.3,293,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 50-1, Nanhai Road, Zhongzheng District"
+398,PIZZA HUT必勝客-南昌外送店,ChIJDSPUJ5mpQjQROKcDSRGs0kY,25.030741,121.516027,3.6,164,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 19, Guling Street, Zhongzheng District"
+404,Subway,ChIJ7VeX53WpQjQR2O9m7pyr6ec,25.0382225,121.5193082,3.2,130,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區信義路一段1號B1
+405,摩斯漢堡 台醫店,ChIJPd0pOXSpQjQRceBwup5F9cI,25.040329,121.5192882,3.1,32,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區中山南路7號B1
+407,摩斯漢堡 重慶南路店,ChIJx5uydnOpQjQRa92Zebax3vA,25.0420746,121.5133384,3.9,519,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區重慶南路一段125號
+409,Subway,ChIJw5vsPwupQjQR1nEC3cJvrLM,25.0424381,121.5129095,3.4,451,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 23, Hengyang Road, Zhongzheng District"
+424,達美樂披薩股份有限公司,ChIJe2JnTbuuQjQRKieSCOdxjgI,25.054523,121.523754,2.4,7,"['restaurant', 'food', 'point_of_interest', 'establishment']","3, No. 21號, Lane 45, Section 2, Zhongshan North Road, Zhongshan District"
+426,肯德基KFC 台北承德餐廳,ChIJKaLQAW2pQjQRNx5r9TTrbbw,25.0508399,121.5167737,3.6,924,"['restaurant', 'food', 'point_of_interest', 'establishment']",大同區承德路一段38號
+428,麥當勞-台北承德店,ChIJJ-T2AW2pQjQRGAXWqee-_z4,25.0507839,121.51679,3.8,1773,"['restaurant', 'food', 'point_of_interest', 'establishment']",大同區承德路一段34號
+434,PIZZA HUT必勝客-馬偕外送店,ChIJLUtFhUKpQjQR6_4xusJvvTQ,25.0578362,121.5233947,3.3,153,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",中山區民生東路一段10號
+445,八方雲集 (台北昌吉店),ChIJIZcBG0epQjQRZNs_vzkS-N0,25.0660131,121.5165377,3.2,147,"['restaurant', 'food', 'point_of_interest', 'establishment']",大同區昌吉街43號
+449,Subway,ChIJc6Lk1GepQjQRDV7CBEsTI7c,25.0669767,121.5227228,3.5,357,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 49號, Section 3, Zhongshan North Road, Zhongshan District"
+452,肯德基KFC台北士林餐廳,ChIJsU7P5q-uQjQRqmjyOthds7E,25.08729,121.525953,3.7,919,"['restaurant', 'food', 'point_of_interest', 'establishment']",士林區文林路88號
+454,八方雲集 (士林劍潭店),ChIJY5zIrLOuQjQRpXWuMwigkhg,25.0816952,121.5226832,3.6,176,"['restaurant', 'food', 'point_of_interest', 'establishment']",士林區承德路四段62號
+455,SUBWAY,ChIJeXQYZ7GuQjQRb5pZH0VlYqE,25.0846281,121.5214394,3.7,325,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 22號, Lane 55, Jiantan Road, Shilin District"
+456,八方雲集,ChIJj-_UFXuvQjQRtOPzfO-rcK4,25.0848534,121.5218162,3.4,71,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 31號, Qiangang Street, Shilin District"
+459,麥當勞-士林店,ChIJo14vFIOuQjQR5OSe7SXaBL4,25.0960295,121.5281335,3.9,2863,"['restaurant', 'food', 'point_of_interest', 'establishment']",士林區中山北路五段602號
+465,達美樂披薩,ChIJNb58bLyuQjQRdVzvDnNOngw,25.0957669,121.521495,3.9,78,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 50號, Wenchang Road, Shilin District"
+467,Mos Burger,ChIJnx20ZIauQjQRNlVX17tHi9w,25.1053498,121.5246797,3.4,41,"['restaurant', 'food', 'point_of_interest', 'establishment']","B1, No. 77, Section 6, Zhongshan North Road, Shilin District"
+469,PIZZA HUT必勝客-石牌致遠店,ChIJTZdhJ5OuQjQRc3k35AVkjHA,25.1095638,121.5151249,4.1,201,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",北投區致遠一路一段103號
+471,McDonald's,ChIJ9bGJm4uuQjQR2W42EkCMWDA,25.1178779,121.5173645,3.8,1457,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 126號, Section 2, Shipai Road, Beitou District"
+472,八方雲集 (北投致遠一店),ChIJW3F1Tu2uQjQRPb8f6unqOPs,25.11178,121.5137991,3.6,147,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區致遠一路二段43號
+477,摩斯漢堡 北投店,ChIJ5RyKyfOuQjQRHs31D7jz_fs,25.1341119,121.5007102,4.1,191,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區中央北路一段42-1號
+479,拿坡里披薩 北投店,ChIJRWvkkFGuQjQRaT8CVlEpaxU,25.1349798,121.499096,3.4,219,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區中央北路一段125號
+481,達美樂北投店,ChIJbf6S61CuQjQRNQ5FZHNcTKo,25.13306,121.501055,3.8,79,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 98號, Guangming Road, Beitou District"
+482,PIZZA HUT必勝客-北投中央店,ChIJFejbV1CuQjQRTSFDfrO5_NQ,25.1303314,121.5012103,3.9,116,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",北投區中央南路一段121號
+504,八方雲集 (北投中和店),ChIJS-QA4E6uQjQRDcEZ8-MK9Vg,25.140996,121.4998334,3.3,209,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區中和街318號
+505,麥當勞-台北中央店,ChIJzyptUHOvQjQRNCDFvzlqLmE,25.1280896,121.4678115,3.7,1108,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區中央北路四段534號號 1 樓
+506,八方雲集 (北投關渡店),ChIJgasTUnOvQjQR3spZXI2q0T0,25.1280122,121.4682835,3.5,205,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區中央北路四段523號
+507,台灣麥當勞餐廳股份有限公司北投光明門市部,ChIJm2EPUHOvQjQRkqs0RnbYSOk,25.1280896,121.4678115,3.8,24,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 534, Section 4, Zhongyang North Road, Beitou District"
+508,八方雲集 (關渡店）,ChIJ5eHeO22vQjQR_4hQMSnIBbc,25.1218481,121.4675593,3.1,246,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區知行路294號
+512,肯德基KFC-淡水竹圍餐廳,ChIJ-_ZH-XGvQjQRluFnNoMDjAk,25.1403959,121.4601066,3.7,715,"['restaurant', 'food', 'point_of_interest', 'establishment']",淡水區民權路41號
+514,SUBWAY 淡水馬偕店,ChIJAXr0XZyvQjQRYqhkNOp4l5c,25.139759,121.4604693,3.4,120,"['restaurant', 'food', 'point_of_interest', 'establishment']",淡水區民權路47號
+517,PIZZA HUT必勝客- 淡水竹圍店,ChIJpzSLynevQjQRtzOShY3KE5I,25.1346544,121.4597155,3.6,19,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 179-5號, Minquan Road, Tamsui District"
+522,八方雲集 紅樹林店,ChIJy2vk25KvQjQRQSIFPBaolmg,25.156215,121.4595169,3.4,340,"['restaurant', 'food', 'point_of_interest', 'establishment']",淡水區中正東路二段43號
+525,肯德基KFC-淡水中山二餐廳,ChIJq8uVu_SpQjQRU0ug3Fmcnlo,25.1696359,121.4444395,3.9,353,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 24號, Zhongshan Road, Tamsui District"
+530,八方雲集鍋貼水餃專賣店,ChIJ8bno5PYBaDQRgv2sNEh_WAw,24.956102,121.534521,2.8,144,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區碧潭路17號
+536,八方雲集新店中興店,ChIJYT6U_fIBaDQRTWklFT2sUHU,24.9693182,121.5455908,2.6,138,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 7, Zhongzheng Road, Xindian District"
+542,麥當勞-新店家樂福店,ChIJj2BuTvEBaDQRn--wemJnIps,24.9771,121.5460738,3.7,318,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區中興路三段1之4號
+547,摩斯漢堡 新店中正店,ChIJAdLEafQBaDQRNAwMhxOFRZg,24.9716821,121.5414558,3.9,323,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區中正路147號1樓
+555,八方雲集鍋貼水餃專賣店,ChIJ8bno5PYBaDQRp7jZ-tCaKzA,24.9791299,121.542505,3.6,289,"['restaurant', 'food', 'point_of_interest', 'store', 'establishment']","No. 4號, Section 3, Beixin Road, Xindian District"
+557,PIZZA HUT必勝客-新店民權店,ChIJyYBwk_gBaDQRqCtqWsTjyEY,24.9830353,121.5384275,3.6,142,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",新店區民權路66號
+559,八方雲集鍋貼水餃專賣店,ChIJN_HfgjwBaDQROp2BVz9zZC4,24.9835065,121.5398889,2.9,70,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 19號, Lane 42, Minquan Road, Xindian District"
+561,八方雲集鍋貼水餃專賣店,ChIJI7SvJQiqQjQRwQ10XQ6fN_A,24.994249,121.544898,3.4,241,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區景興路135號
+563,PIZZA HUT必勝客-景美餐廳店(歡樂吧),ChIJEXdW6gaqQjQRtlnDwNoSx3U,24.9923631,121.5442633,4,990,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",文山區景興路193號
+565,摩斯漢堡 景興店,ChIJI37CuBOqQjQRogW1LekLE80,24.9924835,121.5443243,4,1196,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區景興路191號
+568,八方雲集水餃鍋貼專賣店(景美景文店),ChIJ23LilQCqQjQR6TK-ySAvJU0,24.9903709,121.541221,3.4,278,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 123號, Jingwen Street, Wenshan District"
+569,Subway Shih Hsin University,ChIJ2VQddAeqQjQRpUK5etXkkr8,24.9895339,121.5450894,4.1,27,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 1, 木柵路一段17巷, Wenshan District"
+572,八方雲集鍋貼水餃專賣店,ChIJ_cwq2AKqQjQRIVifT3tF-ss,24.9996701,121.5397277,2.8,289,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區羅斯福路六段30之2號
+574,摩斯漢堡 台大小福店,ChIJZ3dYjCeqQjQR4oYu4Y0hbWI,25.0186203,121.5373982,3,91,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區羅斯福路四段1號
+576,Subway,ChIJoS9qLIWpQjQRO55Zt-cGWG0,25.013051,121.5367739,3.2,239,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 85號, Section 4, Roosevelt Road, Da’an District"
+577,Subway水源店,ChIJc9T-n4ypQjQR4xP8f3HkL3g,25.013878,121.5303712,2.3,77,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區思源街16號
+578,肯德基KFC-台北台大餐廳,ChIJ6fT12YupQjQRxhugLfbofCw,25.017121,121.5331512,3.8,2571,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區新生南路三段96-1號
+580,麥當勞-台北新生店,ChIJ5Zls-surQjQRtQ0XFunyOtY,25.0181662,121.5333428,3.9,2300,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區新生南路三段88-2號
+588,SUBWAY,ChIJoS9qLIWpQjQRer8TGm-TG0w,25.0272214,121.5257834,3.7,352,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區金山南路二段230號
+607,八方雲集 台北南門店,ChIJkYI_G6SpQjQR6ThzMrkFXvs,25.0342092,121.5074043,2.8,278,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區延平南路222號
+608,SUBWAY Xiaonanmen Shop,ChIJm9Y6iAmpQjQREn1MeH_1oCM,25.0350694,121.507725,3.6,422,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 165號, Yanping South Road, Zhongzheng District"
+609,McDonald's Carrefour Guilin Restaurant,ChIJLd2tBKepQjQR7GfSJDt1ZQs,25.0377778,121.5061111,3.9,1840,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 1, Guilin Road, Wanhua District"
+617,摩斯漢堡 長安西路店,ChIJgbzvHhOpQjQRFpdTmd4yDUQ,25.0520225,121.5124901,3.8,505,"['restaurant', 'food', 'point_of_interest', 'establishment']",大同區長安西路219號
+619,PIZZA HUT必勝客-圓環外送店,ChIJh9qrSxOpQjQRWF3RtcG5kL8,25.0530122,121.5139769,3.4,139,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",大同區重慶北路一段108號
+621,必勝客圓環外送店,ChIJh9qrSxOpQjQRSahmXUNUdqw,25.0530122,121.5139769,2.2,5,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 108, Section 1, Chongqing North Road, Datong District"
+622,八方雲集 (台北懷寧店),ChIJ50qUNXOpQjQR1aKoisrd5cc,25.0455808,121.5141196,3.2,462,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區懷寧街24號
+623,Subway 忠孝重慶店,ChIJCQIFGA2pQjQRCBBfN-OgqV0,25.0471467,121.512746,3.2,203,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區忠孝西路一段98號1 樓
+642,Subway,ChIJ8xm4MGCpQjQRfJR0dlpeYy0,25.0522635,121.5356631,4,248,"['restaurant', 'food', 'point_of_interest', 'establishment']","1F, No. 151, Section 2, Nanjing East Road, Zhongshan District"
+643,摩斯漢堡,ChIJxXKO1GmpQjQRsuBZWXVy7Vw,25.050771,121.530192,4,324,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區吉林路27號1F
+645,必勝客-長安外送店,ChIJp1mIc2SpQjQRJndi-_ZVZU4,25.04861,121.530924,3.9,164,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",中山區長安東路二段23號
+646,八方雲集 (台北吉林店),ChIJk-qkWGepQjQRogl6GcRC-hQ,25.0555707,121.5302814,3.6,407,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區吉林路89號
+648,八方雲集 （寧安店),ChIJd58bM-qrQjQRFvyO5tTmg4E,25.0523749,121.5550749,3.5,129,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區南京東路四段133巷4弄2號
+649,摩斯漢堡 八德店,ChIJwVQDjeirQjQRTjRGCsOz5f4,25.0482796,121.5543722,3.7,313,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區八德路三段123號
+651,拿坡里披薩 八德店,ChIJ9x8DJsKrQjQRfaa5ap1hPlc,25.048041,121.5537449,3.8,509,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區八德路三段112號
+653,摩斯漢堡 臺北小巨蛋店,ChIJwVQDjeirQjQR4kOXMGUEEZw,25.0507933,121.5498896,3.7,396,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區南京東路四段2號
+655,PIZZA HUT必勝客-敦化餐廳店(歡樂吧),ChIJsylGZZarQjQRbR1R2V18U2Q,25.0519225,121.5500825,3.9,1672,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",松山區南京東路四段15號
+657,摩斯漢堡 敦北店,ChIJwVQDjeirQjQR5xJj6V2Cx4o,25.0541667,121.5497222,3.4,364,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區敦化北路155巷1號
+660,PIZZA HUT必勝客-台北八德店,ChIJsylGZZarQjQRkd8WJSN62N0,25.0491991,121.5663493,3.8,218,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",松山區八德路四段293號
+667,達美樂-健康店,ChIJ23L-V5OrQjQRV8QNfuHoyzM,25.0538373,121.5604605,4.1,167,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",松山區健康路212號
+670,MOS BURGER Songshan Station Shop,ChIJaQL2pJ6rQjQRvHmFMwrra_c,25.049333,121.5796309,3.3,199,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 11號, Songshan Road, Xinyi District"
+671,拿坡里披薩 景新店,ChIJ5aV334ICaDQRGRiPQYa5mSs,24.9916949,121.5116875,3.1,811,"['restaurant', 'food', 'point_of_interest', 'establishment']",中和區安樂路8之1號
+673,Pizza Hut Zhonghe Jingxin,ChIJG1GGdtipQjQRm6aVMjLlGRw,24.990601,121.5122172,3.8,312,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",中和區景新街371號
+674,摩斯漢堡南勢角店,ChIJw_dLhnQCaDQR7E4V2DEFhno,24.9916238,121.511637,4,746,"['restaurant', 'food', 'point_of_interest', 'establishment']",中和區景新街318號
+687,八方雲集 (中和復興店),ChIJ_QevqYACaDQR0sxY8LJyPpc,24.990177,121.5030233,3.7,178,"['restaurant', 'food', 'point_of_interest', 'establishment']",中和區復興路259號號
+688,八方雲集,ChIJCRrvlHcCaDQRDDbSP_OLyY0,24.9965128,121.5039236,3.4,207,"['restaurant', 'food', 'point_of_interest', 'establishment']",中和區南華路46號
+689,八方雲集 (中和永貞店),ChIJR6eFhOepQjQRuUi6qbf-xDA,25.0037376,121.5143005,3.4,189,"['restaurant', 'food', 'point_of_interest', 'establishment']",永和區永貞路250號
+690,PIZZA HUT必勝客-永和永安店,ChIJFSi4Et2pQjQRsTa-qgkKMlg,25.004774,121.512689,3.4,226,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 619號, Zhonghe Road, Yonghe District"
+694,SUBWAY（永和永安店）,ChIJCykJJtypQjQRvq-VnvzVyuU,25.0005786,121.5091673,3.5,396,"['restaurant', 'food', 'point_of_interest', 'establishment']",永和區中和路413號
+695,八方雲集,ChIJGVMSLd-pQjQRh-4KGIXbFe8,24.999075,121.508546,3.5,184,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 169, Yian Road, Zhonghe District"
+699,拿坡里披薩 永和店,ChIJVZ_thOupQjQRqlMRxGvQT3Q,25.0127817,121.5192121,3.7,638,"['restaurant', 'food', 'point_of_interest', 'establishment']",永和區竹林路78號
+702,八方雲集（永和頂溪店）,ChIJy5StOBapQjQRbaDLqLNY23Y,25.0123188,121.5135683,3.3,189,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 36號, Xinyi Road, Yonghe District"
+733,麥當勞-台北民權二店,ChIJzapf0lypQjQRC5aFkrV3Ctg,25.0627312,121.5304366,3.7,1614,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",中山區民權東路二段43號
+734,八方雲集 (台北吉林二店),ChIJuyjrD1qpQjQRVJmaHaTvLbM,25.065582,121.5305005,3.5,239,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 391, Jilin Road, Zhongshan District"
+735,麥當勞-林森三店,ChIJzapf0lypQjQRj7bRCf57wYM,25.060201,121.525746,3.9,1725,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區林森北路413號
+736,八方雲集 中山永盛店,ChIJe97bJ0OpQjQRC1frGSPFYJI,25.0599225,121.5250309,3.1,201,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 3號, Lane 30, Jinzhou Street, Zhongshan District"
+751,SUBWAY三重福德店,ChIJGay9LiOpQjQRwFD3fdYvIi4,25.065242,121.502326,3.9,258,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區福德北路51號
+752,八方雲集正義南店,ChIJOYlV0aipQjQRb9LA-rHwy5s,25.0597794,121.4982664,2,4,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 77號, Zhengyi South Road, Sanchong District"
+753,麥當勞-三重正義二店,ChIJMaoCeiGpQjQRGhRrT4fkz70,25.0665433,121.4964002,3.8,1555,"['restaurant', 'food', 'point_of_interest', 'establishment']","1樓, No. 176號, 正義北路, 三重區"
+757,八方雲集鍋貼水餃專賣店,ChIJNR9UT-CoQjQRLd7rYM5SqJI,25.0633439,121.4896363,3.6,204,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區中正北路103號
+759,達美樂（三重中正北店）,ChIJ7eEZ_eGoQjQR-qFCy5ex9pI,25.0631728,121.4900035,3.9,113,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",三重區中正北路77號
+760,八方雲集(台北橋店),ChIJzYj0cNSpQjQRR-TuDXdNZ38,25.0614534,121.4867114,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 6號, Wenhua South Road, Sanchong District"
