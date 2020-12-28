@@ -1,0 +1,683 @@
+﻿,Place Name,Place ID,Latitude,Longitude,Rating,Rate_amount,Types,Address
+0,頂好Wellcome超市,ChIJk7Wh7WaqQjQRJQYa9wNLQqg,24.99888,121.5749191,4,393,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區木柵路四段153號
+3,美廉社文山萬安二店,ChIJF21rhGiqQjQRJKnsAa2XVV0,25.0005562,121.5708212,3.8,57,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區萬安街35號
+14,健康食彩興隆店,ChIJV-gzvROqQjQRIa9I1l8rii8,25.0003207,121.5562481,3.9,17,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","文山區興隆路三段47號號, No"
+15,全聯福利中心 文山辛亥店,ChIJq6v93hOqQjQR3F9joqcYtOg,25.000676,121.554242,4,838,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區興隆路二段252號號1樓
+17,美廉社 文山興隆二店,ChIJoTTFIxGqQjQRO-PdK8Wmq1g,25.0001775,121.552152,4,25,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","1樓 43號, 興隆路二段220巷, 文山區"
+24,美廉社,ChIJbf9WOBeqQjQRGFm6fpydTpQ,25.004045,121.549991,4.1,30,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區福興路74號
+27,全聯福利中心 文山福興店,ChIJac1KOBeqQjQRF0mszI-3dX0,25.0039617,121.5500259,4,238,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號1樓, No. 62, 福興路, 文山區"
+28,全聯福利中心信義黎忠店,ChIJT-b6SzaqQjQRUreB43SNurU,25.0202696,121.5581693,4,480,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區和平東路三段391巷16號
+29,國防部福利站(大我分站),ChIJ63VZ3EeqQjQRNTKDNBW83pU,25.015952,121.561496,3.5,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",台北市信義區臥龍街379巷5號
+31,美廉社北市和平店,ChIJA29FGzeqQjQRZSXiup6S7PQ,25.0199595,121.5562437,3.6,74,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 1, 和平東路三段308巷15弄, 大安區"
+34,美廉社大安樂業店,ChIJxZw2xjCqQjQRoJBJk73E40c,25.0199402,121.5533255,3.8,51,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區樂業街141號
+35,美廉社,ChIJnUgTDjSqQjQRj5EeYCRseyY,25.0242606,121.5547535,3,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區崇德街62-80號
+36,美廉社信義崇德店,ChIJFQPPDTSqQjQRj1n6gI5rWqY,25.0243569,121.554672,4.1,47,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區崇德街59號
+37,全聯mini輕超市 信義信安店,ChIJbxcDgdqrQjQR5oIf5DoL95o,25.0249818,121.5561102,4,124,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區信安街114號
+38,全聯福利中心Pxmart 信義信安,ChIJOQq2kw-rQjQRdod9l7n-ZKY,25.025095,121.556046,4.3,53,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區嘉興街245號247號1樓
+40,法蘭克肉舖子 信義旗艦店,ChIJJVUDwjSqQjQRlaSEJ8Hng48,25.0270959,121.5559051,4.2,210,"['supermarket', 'grocery_or_supermarket', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment']",信義區基隆路二段141號
+45,全聯福利中心Pxmart 大安樂利,ChIJV-1lqEGrQjQR_ctZcnDKva4,25.0257788,121.5522661,3.7,213,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區樂利路89號號1樓
+46,家樂福超市大安臨江店Carrefour Market Da'an Linjiang,ChIJlW7_HRCrQjQRT08FFfN4Fz4,25.0301771,121.5549583,4.1,342,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區臨江街87號
+47,正鑫家禽,ChIJqfoUbMurQjQRcnj8w9xrBPA,25.0302323,121.5552774,5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區通化街57巷10-8號
+48,"ATI Co., Ltd",ChIJ8-aO3IapQjQRuybgfoHsOSk,25.0245859,121.5511234,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","7樓, No. 111號, 和平東路三段, 大安區"
+49,國防部福利事業管理處大安福利站,ChIJZa8jezGqQjQR_q5rxh0HAUw,25.0234023,121.5517852,3.9,224,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區基隆路二段207號號
+55,全聯福利中心Pxmart 大安芳和,ChIJbcOGADGqQjQRWI1_didNAuE,25.021664,121.551299,4.1,633,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區樂業街87號1樓、B1
+63,City’Super遠企店,ChIJyRrGbTKqQjQRSqGzlvTaza0,25.026302,121.5493532,4,174,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區敦化南路二段203號B2樓
+64,全聯福利中心Pxmart 大安居安,ChIJve75pE-rQjQR6QlggxMTwbs,25.029786,121.5503713,3.9,276,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區安和路二段88號號1樓
+68,鄭師傅魚舖子-生魚片,ChIJDXwMmi2qQjQRkdxfBM7xLxU,25.0270603,121.5474244,5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區四維路124巷192
+69,水果王子水果店（A075攤位）,ChIJ3Qsloi2rQjQRsiA-JgKBBXU,25.0270048,121.5472633,4.4,5,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區四維路192巷10-3號
+70,全聯福利中心 大安成功店,ChIJF161vy2qQjQRcx24Acr4xzQ,25.0266806,121.5470111,3.9,217,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區和平東路三段1巷51號號1樓
+71,JASONS Market Place-台北安和店,ChIJG5xlK82rQjQRzfeHEKw-UNU,25.0298012,121.5513195,4.1,473,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區安和路二段80號B1樓
+75,頂好 Wellcome 超市,ChIJjVGIli2qQjQRLNUhjNBmACU,25.0272087,121.5457403,3.9,436,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區四維路198巷35號
+87,SuperBuy市集,ChIJO9-ZoNKrQjQRZthcOYmXB8o,25.0312119,121.5483823,4,19,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區敦化南路二段四十六號四樓之一
+89,全聯福利中心 大安門市,ChIJwyhwHiyqQjQRHdo7FR-Awyc,25.0261111,121.5438889,3.9,652,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區復興南路二段237號
+94,全聯福利中心Pxmart 大安北師,ChIJD6Fl206rQjQR4Q_unzVv8Pg,25.0254345,121.5452719,4.2,293,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區和平東路二段311巷29號
+95,頂好Wellcome超市-大安敦化店,ChIJW89LqNKrQjQREJ3O0jmhhNE,25.0311425,121.5483202,4,270,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區敦化南路二段48號
+96,gogoro2嗨台北 彩券行,ChIJD6vXrSyqQjQRga5fZXezRbM,25.031007,121.5432785,1,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區復興南路二段82號
+97,義美食品大安站門市,ChIJo89ObNOrQjQRf1eUFFQcYPY,25.0317882,121.5437426,3.8,21,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區復興南路二段33-1號
+105,新鮮屋 Fresco,ChIJ095AKSiqQjQR4tMlFA4Ce5w,25.024377,121.537286,4.3,50,"['convenience_store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區建國南路二段296號
+109,全聯福利中心Pxmart 北市建國,ChIJX6DDszarQjQRS13mvrqsPIk,25.0294396,121.539114,3.9,441,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區建國南路二段123巷16號
+110,全聯超商附設生鮮部 PX Mart,ChIJj0y3WSqqQjQRRPp4Y5pKtDE,25.0294728,121.5390303,4.1,51,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","台灣 號, No. 14, 建國南路二段123巷, 大安區"
+126,頂好Wellcome超市-仁愛店,ChIJfczWxtGrQjQR8WZBSnlcqQA,25.0375678,121.547189,3.7,216,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","大安區仁愛路四段50-99,50-100號B1"
+127,7-11,ChIJU25UUlWrQjQRcU_EkLOz3oA,25.033377,121.5447632,4,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區仁慈里
+128,心樸市集,ChIJDwVEvc6rQjQRxXFz4fM_2SI,25.0348363,121.5482561,4.2,163,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區四維路45號
+140,Pxmart Da'an Minrong,ChIJtXHH_hipQjQRyl0dMIpKDcA,25.0351478,121.5359386,4.1,368,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區仁愛路三段24巷12號號1樓
+145,頂好Wellcome 忠孝店,ChIJqRpUltqrQjQRmERXoSebvHo,25.0419552,121.5468164,4,377,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區忠孝東路四段71號
+146,PX Mart,ChIJF-K6_3KrQjQRSppUaCIZniQ,25.0411349,121.5473355,4,442,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區忠孝東路四段126號B1
+147,台灣主婦聯盟生活消費合作社東區站,ChIJ1_bvZMOrQjQRnjgbKspNeIQ,25.0460031,121.5504221,4.2,39,"['store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'establishment']",松山區八德路三段12巷52弄5號
+148,全聯實業股份有限公司敦南分公司,ChIJl-3io9qrQjQRH5FRbrghZFE,25.041285,121.54732,4.1,9,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區忠孝東路四段120號
+149,Fresh Mart,ChIJARaScNqrQjQRuU5qEqRC_Zo,25.04194,121.5449137,4.2,61,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區忠孝東路四段45號B2
+150,農聯社,ChIJrWjOjNurQjQRv-NfgF6bMjE,25.046586,121.544163,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區復興南路一段27號7樓
+151,City’Super 復興SOGO店,ChIJAaBnrtCrQjQR1HOxVa3blc8,25.0408932,121.5432417,4.2,332,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區忠孝東路三段300號遠東SOGO台北復興館
+158,頂好Wellcome超市,ChIJ4yQXc9erQjQRcKI4YcmSZ68,25.0413889,121.5402778,4,402,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區忠孝東路三段218號B1樓
+160,美廉社 - 大安忠孝東店,ChIJkTWKeNerQjQRICNFlT2RJpE,25.0422391,121.5399271,4.3,58,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區忠孝東路三段217巷2弄4號
+161,大潤發中崙店,ChIJq4n7VtmrQjQRYLW-DDyK9no,25.0469447,121.5424985,3.9,6622,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區八德路二段306號B2
+163,泰勒肉鋪 TAYLOR BUTCHERY,ChIJuRPpHNyrQjQR3U5p4c-dY-s,25.04808,121.5429479,3.7,67,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區長安東路二段234號
+166,全聯福利中心,ChIJNcwVLtmrQjQRC4NtoLt6rLI,25.0474464,121.5404968,4,648,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區龍江路15號1.2樓
+167,樂鮮良房-大潤發中崙店,ChIJk6XfkpCrQjQREeSnJ45yL_8,25.0468732,121.5425549,4.3,11,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區八德路二段306號
+177,全聯福利中心Pxmart 北市興安二,ChIJLWRrG4yrQjQRmI-dkWc6gVE,25.0561392,121.5463569,3.9,297,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","巷9號, No. 130, 民生東路３段, 松山區"
+178,第一超市-旗艦店,ChIJz4XIFuirQjQRcFNcAfIhKIc,25.0519742,121.5495307,4.5,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區南京東路四段1號
+181,一籃子股份有限公司,ChIJEyoDf-irQjQRozOeitwXI7U,25.0493162,121.5437528,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區復興北路38號3樓
+182,健康蔬食材料店 VEGGIE LIFE,ChIJ-ygnItyrQjQRgQg6ve1w9EE,25.0486542,121.5432036,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區遼寧街45巷32號
+191,Enny,ChIJMSm6huCrQjQRILYXidwBtJc,25.053666,121.540146,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區南京東路三段109巷
+192,全聯福利中心Pxmart 中山興安,ChIJqxPnOuGrQjQRE2C3tbO9MiU,25.0561892,121.5418755,3.9,395,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區興安街55號
+195,全聯福利中心 長春店,ChIJrbaHceCrQjQR2G37RMS0nY4,25.054135,121.538794,4,362,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區長春路258巷6號號1樓
+196,義美食品 - 台北龍江門市,ChIJVSiC1-OrQjQRDDC24-N0I8A,25.0586521,121.5405455,4.2,98,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區龍江路240號
+199,全聯福利中心Pxmart 松山民有,ChIJNZq9EuWrQjQRp50VmbjtlqM,25.0603738,121.5470823,4.2,901,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區民權東路三段140巷15號1樓
+200,台灣主婦聯盟生活消費合作社中山國中站,ChIJp6uEQeWrQjQR9uL_jxDyxS8,25.0610443,121.5472215,4.5,27,"['store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'establishment']",松山區敦化北路244巷43號
+201,ROYAL MINSHENG (Toko Indo Royal) 印尼店,ChIJDSN1pIWrQjQReuEBhsMpH90,25.0599675,121.5464177,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","Taipei City Minsheng East Road Section 3 Lane 113 Alley 25 No. 1, 1 Flour, 松山區"
+202,安永鮮物松山民有店,ChIJW4gb_ESrQjQRs4XnBc21dSM,25.0588663,121.5473552,4.4,14,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區民生東路三段127巷12號1樓
+208,頂好Wellcome超市 敦北陽店,ChIJ-9H6IO-rQjQR9eYPesSl6rE,25.0570734,121.5511646,3.8,343,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區敦化北路199巷5號
+211,全聯福利中心 (松花店),ChIJUS4O-eKrQjQR4m9Ea9uXqQM,25.0616114,121.539347,4,658,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區合江街137號號1樓
+212,沐果樂元,ChIJyVb3hMSrQjQRioaiIOFAbS8,25.0630114,121.5413442,5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區龍江路331巷5號
+216,全家便利商店 五常店,ChIJ4fpWi4urQjQROcwtTYXBz4c,25.0654831,121.5397263,4.3,28,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區五常街53巷23號
+217,幸福家百貨生活館,ChIJ6Ubb-vyrQjQRhDiJrUoKSO8,25.065935,121.540362,3.9,143,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區龍江路356巷10號
+218,菘柏水果行,ChIJCVVeav2rQjQRidbO8eCvOdw,25.065702,121.5381662,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 23, 建國北路三段81巷, 中山區"
+223,全聯福利中心民生社區門市,ChIJd8pExe2rQjQRj-0QjY-0low,25.0584759,121.5548724,4,522,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區民生東路四段133號
+224,永豐餘生技-真食物專賣店,ChIJ1RO53XyrQjQRriWjUF479i8,25.0580586,121.5543206,4.5,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區民生東路四段110號
+225,柑仔店有機健康超市 民生店,ChIJi8Y1pO2rQjQRcJspwGCbNes,25.058225,121.5565422,4,46,"['supermarket', 'grocery_or_supermarket', 'restaurant', 'food', 'health', 'point_of_interest', 'store', 'establishment']",松山區民生東路五段26號
+231,三井選品,ChIJd6c9MA6sQjQR7-_oGa1errw,25.0815222,121.5517883,4.3,387,"['supermarket', 'grocery_or_supermarket', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",中山區明水路604號
+232,頂好Wellcome超市-大直店,ChIJz1nyXAWsQjQRcJYMiFC00-w,25.0822699,121.5478465,3.8,333,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區北安路595巷11-13號
+233,台灣主婦聯盟生活消費合作社大直站,ChIJfZfQGRCsQjQRs0D0dWlNCRc,25.083512,121.549625,3.7,15,"['store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'establishment']",中山區北安路630巷9弄17號
+234,阿弟蔬果行,ChIJvc72ygWsQjQR6lLRcZpjIxE,25.0797076,121.5457214,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區北安路516之一號
+235,全聯福利中心 大直北安店,ChIJJ1_6HxCsQjQREIFJRcsMH-o,25.0809517,121.549263,3.9,516,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區北安路588巷8號
+236,幸福水屋 全聯大直北安店 自助加水站,ChIJA4I43batQjQRqN9mcCbnO4k,25.080963,121.549282,5,34,"['store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'establishment']",中山區北安路588巷8號
+237,凍凍鮮 海鮮肉品專賣店,ChIJVbPyE1mtQjQR_c-lJhEDbE0,25.0827016,121.5484508,5,98,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區北安路621巷6弄4號
+238,全聯福利中心,ChIJPY0YDRCsQjQRxucEInxtKVw,25.0842702,121.5488703,4,113,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區大直街126號
+239,全聯福利中心Pxmart 大直實踐,ChIJe5Oh9OitQjQRGbYC3YPwP3I,25.0844525,121.5491528,4,38,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區北安路655號B1
+240,綺麗館B2汽車美容,ChIJsfN2bKitQjQRlLrPMjHGmzQ,25.0798305,121.5519134,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區明水路575號
+248,國防部大直福利站暨商店街,ChIJRbrdAwOsQjQRCtezi-LF-oo,25.0828244,121.5401146,4,509,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區北安路409號7號門
+260,全聯福利中心Pxmart 內湖文湖,ChIJG7BaoEytQjQRLrtByQ3M4Jo,25.086609,121.5611418,4.1,496,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區文湖街31號1號樓 B1
+261,美廉城超 內湖文湖店,ChIJfSfWE3atQjQR27ATUc__t5M,25.0867644,121.5619159,4.6,19,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區文湖街45號
+262,JASONS Market Place 台北美麗華店,ChIJg0Tn-BKsQjQRzViHOaAdhvc,25.0833399,121.5571325,4.1,132,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區敬業三路20號
+263,家樂福大直店,ChIJTyTw6xKsQjQRAT-N6bt4dYA,25.0822917,121.5580195,4.1,4863,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區樂群三路218號
+264,安永鮮物總部店,ChIJo7oeA22sQjQRmEdp_xC8D5E,25.082406,121.5620834,4,58,"['supermarket', 'grocery_or_supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']",內湖區堤頂大道二段483號
+266,全聯福利中心Pxmart 大直敬業,ChIJgXjRJWqtQjQRiBVL2_IjMag,25.0810106,121.5579204,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區敬業四路33號B1
+267,心樸市集 春大直店,ChIJGZornrytQjQR0Y1dxkWczjY,25.0827773,121.5602396,3.8,31,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區樂群三路303號1樓
+282,富華視光眼鏡,ChIJV4mFSWmsQjQRR-Y2xqnEWY4,25.0844259,121.5669772,4.4,11,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區內湖路一段285巷65弄1號
+283,Var Meats 肉舖,ChIJfYmcir6tQjQRbJTCUCb8vEM,25.0852657,121.5735054,4.9,26,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區環山路二段51號
+284,悅客小舖,ChIJ_YXChWWsQjQR35jd3CCan1I,25.0808837,121.5717231,4.8,9,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區內湖路一段372號
+287,家樂福超市台北內湖一店Carrefour Market Taipei Nei Hu 1 Store,ChIJq3pgXWysQjQREQnzs3Ghfww,25.0836184,121.5633101,4.2,679,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區內湖路一段155號
+297,美廉社麗山二店,ChIJJYxRcGGsQjQR0pMLPxij9Mw,25.0820165,121.5792383,4.2,56,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區麗山街68巷12號
+298,台灣主婦聯盟生活消費合作社碧湖站,ChIJ4yWqTmCsQjQR0PfaoUkYMMg,25.0838013,121.58086,4,25,"['store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'establishment']",內湖區內湖路二段103巷102號
+299,旺旺精品百貨 (內湖店),ChIJx8mwz2OsQjQRNq7o5Llx2rU,25.0805835,121.5792273,4,106,"['supermarket', 'department_store', 'hardware_store', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區內湖路一段737巷51弄2號
+300,七三七有限公司,ChIJKxAnz2OsQjQRRx9ZQM9tNaU,25.0802282,121.5793811,4.6,27,"['convenience_store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區內湖路一段737巷51弄3號
+301,美廉社內湖麗山店,ChIJM8E102WsQjQRgfraQZvkiC8,25.0819657,121.5741918,4,64,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區麗山街348巷20號1樓
+302,全聯福利中心 內湖店,ChIJOQIoYGOsQjQRQ2romBrgi6I,25.077875,121.5769525,4.1,886,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區港墘路127巷１０號
+305,家樂福超市內湖江南店,ChIJueeuPLWtQjQRNm2nveDbHA0,25.0774151,121.5778152,4.1,356,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區江南街55號
+307,Simple Mart 美廉社-內湖文德店,ChIJ44LtmWKsQjQRgTDIBEzvH0s,25.076766,121.5818803,4.1,94,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區文德路66巷67-47號
+319,美廉城超 內湖內湖二店,ChIJRxTB2f2tQjQR3kFA_rLtTKo,25.0814999,121.5887883,5,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區內湖路二段328號
+320,家樂福超市內湖成功店 Carrefour Market Nei Hu Cheng Gong Store,ChIJI57vq66tQjQRflhR2KzMWh8,25.0808801,121.5905656,4.2,434,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區成功路三段174巷8號B1
+321,佳盈生活商行,ChIJl6DjAY2sQjQRb9aU0C3EbFA,25.0812913,121.5912399,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區成功路四段20巷12號
+322,內湖湖光市場鼎豐包子專賣店,ChIJS5zZHI2sQjQRhYLExi8P_4U,25.081679,121.5914158,4.7,6,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","20 巷 號, No. 15, 成功路四段, 內湖區"
+323,全聯福利中心Pxmart 內湖德安,ChIJu0jKOo2sQjQRzyyZ-Ccn-wo,25.0828536,121.5917169,4,626,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區成功路４段30巷28弄29號及B1
+324,全聯福利中心Pxmart 內湖文德,ChIJoTcOx4msQjQRQ_ZsenRd_TY,25.0782428,121.5839876,4,398,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區文德路212號B1
+341,美廉社 內湖大湖店,ChIJs_a5VaKtQjQRsDCji9BmuV8,25.0882545,121.5994696,4,10,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區大湖山莊街219巷1號
+342,全聯福利中心 內湖成功店,ChIJcfcS3-usQjQRJik8PWGL3hQ,25.086186,121.6014786,4.1,328,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區大湖山莊街148號
+343,全聯福利中心 內湖星雲店,ChIJK9SW3ZKsQjQRnNt5cu7kgZY,25.0809908,121.5967013,4,469,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區星雲街163號1樓
+344,美廉社 內湖康寧二店,ChIJW-V5P7etQjQR6tkpL9gqL94,25.079362,121.594293,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區康寧路一段147號
+345,旺旺精品百貨 (成功店),ChIJFw2BE42sQjQRENXia4OQe1U,25.0818781,121.5925714,4.2,117,"['supermarket', 'hardware_store', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區成功路四段61巷1-1號
+354,美廉社內湖金龍店,ChIJWeBzqfOsQjQRsYtzQo3Nkuk,25.086662,121.5908869,4.1,65,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","1樓 104號, 內湖路三段, 內湖區"
+365,頂好Wellcome超市-民權店,ChIJ8UZBCL2sQjQRZJsYGtIYr-U,25.071707,121.607598,3.9,98,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區民權東路六段296巷42之3號B1樓
+366,健康食彩超市康寧分店,ChIJm1jfVuytQjQRK-l-9oS84R8,25.0714665,121.6100099,3,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區康寧路三段103-1號
+367,全聯福利中心 內湖葫洲店,ChIJxRS9gr2sQjQRhgizthj2uQM,25.0723395,121.6059662,4.2,362,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區民權東路六段296巷20號
+368,全聯福利中心Pxmart 內湖明湖,ChIJEZr_hUGtQjQRTj3FepG8WyE,25.0698919,121.608962,4,220,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區民權東路六段296巷113、115號B1
+371,全聯福利中心 內湖南湖店,ChIJZedYGrusQjQRd4KZLXfdrJk,25.0697433,121.6134116,4,260,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區東湖路33巷19號B1
+372,新登燈飾廚具熱水器有限公司,ChIJ8eYdPbusQjQREQVXosiajkI,25.069032,121.613221,3.4,13,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區東湖路27號號 2 樓
+384,家樂福超市內湖東湖店Carrefour Market Dong Hu Store,ChIJT9aLwrqsQjQRfmSAce87sTk,25.068728,121.6149259,4,708,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區東湖路69號B1
+385,大發素食材料,ChIJb8jDtrqsQjQRl2yhKqvY1cA,25.0681465,121.6150967,4.3,10,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區東湖路106巷3號
+386,全聯福利中心Pxmart 內湖東湖,ChIJMeKkU9atQjQRaxeQHAgMSBw,25.068108,121.6161929,4.1,50,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區東湖路118號B1
+387,全聯福利中心內湖安康店,ChIJy9WyV1GtQjQRy-bEragojos,25.0682271,121.6168826,3.7,95,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區東湖路135號1、2樓
+388,大台北水果廣場,ChIJMfJ0C7CsQjQRGnetHK6wxdI,25.0681719,121.6172214,3.2,13,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區東湖路147號
+410,全聯福利中心Pxmart 南港中信,ChIJ6W49KOOtQjQRRq6SAiIsh7A,25.0595195,121.6150267,3.9,210,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",南港區經貿二路188號號3樓
+415,美廉社汐止橫科店,ChIJF4nKTlerQjQRJZdkuzw0BVI,25.0512621,121.6179597,3.8,100,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 23, 橫科路, 汐止區"
+416,全聯福利中心Pxmart 南港研究院,ChIJFW4wO0yrQjQRWySCdlP86F0,25.0521684,121.6162967,4.1,156,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",南港區研究院路１段99號B1
+420,美廉社 信義虎林,ChIJK6j0y6WrQjQRNBKC7w0v2j4,25.0366105,121.5760437,3.9,65,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區虎林街222巷46號
+421,頂好Wellcome超市-松德店,ChIJ0dQJPKSrQjQRMyV4sBofNKE,25.0379087,121.5759552,3.8,330,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區松德路99號B1樓
+422,美廉社信義莊敬店,ChIJi1_zoLOrQjQRuLJOcBWdxS4,25.0284439,121.5671699,4,46,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區莊敬路423巷8弄4號
+423,全聯福利中心信義莊敬,ChIJw9hvfbSrQjQR0WBZzG6wtI8,25.0288751,121.5648109,4.3,588,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區莊敬路325巷58號號1樓
+424,美麗市場,ChIJtQr9nrCrQjQRsUniEO0tlSU,25.0361186,121.5671533,3.6,24,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區
+430,全聯福利中心信義三興,ChIJ0RNobbWrQjQRf0hxsfiNpSU,25.0290753,121.5611877,4.1,852,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區吳興街156巷６號１、２樓
+431,全聯福利中心Pxmart 信義嘉興,ChIJ0RNobbWrQjQRRwFvGKEGc1U,25.0319152,121.5586369,3.9,354,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區基隆路二段22號B1
+432,全聯實業股份有限公司三興分公司,ChIJ0RNobbWrQjQRDVguZObXeLU,25.0290753,121.5611877,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區吳興街156巷6號
+434,美廉社信義光復店,ChIJ_TDLycmrQjQR8UYhXMLZ2ZA,25.0352558,121.5585393,4,54,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區光復南路447-40號
+437,頂好Wellcome超市,ChIJP8S_bMmrQjQRQVQOTjWc3ps,25.0348797,121.5559769,3.8,286,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區延吉街250號B1樓
+438,頂好Wellcome超市-通化陽店,ChIJXaRb8curQjQRliEAJ3x4fAM,25.0327791,121.5543605,3.6,148,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區信義路四段296號
+440,7-ELEVEN 敦信門市,ChIJdYCuD9OrQjQRaprrlXGawLA,25.0344166,121.5501786,3.5,18,"['convenience_store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區仁愛路四段122巷50號
+441,頂好 Wellcome - 仁愛青店,ChIJa95B9cirQjQRJNWJjfeEF70,25.037369,121.5563314,3.9,156,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區仁愛路四段388號B1
+442,Penny,ChIJ6bLroc6rQjQRShxIQp9_kfQ,25.0346576,121.5527741,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區安和路一段127巷
+443,全聯福利中心 大安正聲門市,ChIJGZwup8irQjQRX_2ZlUs18CA,25.0390106,121.5552254,3.8,318,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區延吉街159-8號
+444,棉花田生機園地(忠孝216巷門市),ChIJC3W8-MWrQjQRArGf6uH0X0c,25.0395402,121.5537024,3.8,12,"['supermarket', 'grocery_or_supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']",大安區忠孝東路四段216巷33弄11號
+500,台灣主婦聯盟生活消費合作社東門站,ChIJDytK-IOpQjQR_Qo1Dddm_Q4,25.0291347,121.5306772,4.4,46,"['store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'establishment']",大安區金華街164巷7號
+501,全聯福利中心 大安永康門市,ChIJH9HvF4KpQjQRZDMGiJeR6B8,25.0330519,121.530531,3.6,412,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區永康街7巷6號1號樓、B1
+502,芙蓉堂時尚飲品專賣店 (台北永康街旗艦店),ChIJaawBUIKpQjQRcWrniCygZk4,25.0326451,121.5291138,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區永康街6巷No. 16號
+505,〔梅門需要房〕養生超市-東門店,ChIJY8xnXS6pQjQRcVHLsREBAm8,25.0339871,121.529709,4.5,6,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區信義路二段193號
+508,幸安傳統市場,ChIJednO8HupQjQRCEtoK7uRmTg,25.0400821,121.5312772,3.6,70,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區濟南路二段46號幸安市場內1F
+510,新竹土黑豬,ChIJAQXFf4KpQjQRL25axrEYw2M,25.0346924,121.5284899,4.5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","No. 4-1, 臨沂街75巷, 中正區"
+511,廣興農產,ChIJu8d0hIKpQjQRcZSCQTVkRkY,25.0347491,121.528096,3.6,7,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 79-1, 臨沂街, 中正區"
+512,家樂福超市台北濟南店Carrefour Market Taipei Jinan Store,ChIJ7zDC8HupQjQRdS21WnCOB38,25.0400821,121.5312772,4.1,1018,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區濟南路二段46號B1
+517,珍愛時光婚禮小物,ChIJ-8u_i4SpQjQRrBHjWRGiyk4,25.028491,121.528173,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 140-10, 潮州街, 大安區"
+518,全聯福利中心Pxmart 台北東門,ChIJlSwdPNCpQjQRbqhzju5Zo-Y,25.0334813,121.5269738,3.8,472,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區金山南路二段12號
+527,阿榮海鮮號,ChIJgc5eX5ypQjQRTV0Kjpg1SM4,25.0324317,121.5227117,4.5,8,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區杭州南路二段55號A80 鋪 （南門市場
+531,健康食彩中正店,ChIJ7S3vWJ2pQjQRTBxwNXXXPFY,25.0354464,121.5249108,4.3,10,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 1-4, 信義路二段, 中正區"
+533,國防部福利站 信義站,ChIJI9ujJHapQjQRQsnPxvHmDsg,25.0370038,121.5216808,4.1,86,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區信義路一段3號
+548,戲台咖-戲台市集,ChIJB7OWHJ6pQjQRJwh8lNjJpCA,25.0350636,121.5177644,4.5,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區中山南路21-1號
+549,三鶯無毒農產信義銷售點,ChIJ8VFSPXapQjQRz5nHiqGul4I,25.0371673,121.5213341,4,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區信義路一段3號號 B1
+550,國軍福利站,ChIJWTmtP3apQjQRlw1IlmPyUGI,25.0376307,121.5214399,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區林森南路107號
+553,全聯福利中心Pxmart 中正南昌,ChIJyVwiHfKrQjQR-m9X8TCFe9k,25.0314224,121.5173982,3.8,389,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區南昌路一段51巷1號
+554,Jasons Market Place臺北和平店,ChIJVVEKWpqpQjQRnqTGOiaJDLQ,25.0274562,121.5224258,4.1,557,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區羅斯福路二段41號B1樓
+555,碧成蔬菜號,ChIJeYgEotOpQjQRGC1nXm8oGMQ,25.030505,121.518088,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區羅斯福路一段8號b1攤位100號
+557,茂生農經股份有限公司,ChIJiYWBBZqpQjQR0Wte0FsX9_4,25.0265509,121.520565,4.4,5,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區和平西路一段30號
+558,全聯福利中心Pxmart 中正牯嶺店,ChIJr57O0aypQjQR-B1DL0I5_Gw,25.0264139,121.5196176,3.8,270,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區和平西路一段54號
+559,Halal International Beef Shop 清真國際牛肉店,ChIJtaKQ8pqpQjQRHtZl5nxVxNw,25.0267909,121.5234552,4,3,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","No. 2, 和平東路一段12巷, 大安區"
+561,Carrefour impact 家樂福影響力概念店,ChIJtx0VL4WpQjQRYgvAQejK6YQ,25.0294988,121.5151946,5,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區重慶南路三段二號
+575,伍宗行,ChIJD-nSDwupQjQRakRRhwI0Pd8,25.0421163,121.5120027,4,85,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區衡陽路56號
+577,JASONS超市 京站店,ChIJ1SD8dG2pQjQR1tfKBTdxTqA,25.0492084,121.5176146,3.9,183,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區承德路一段1號B3
+578,ONE GIFT娃娃屋,ChIJV5ercYmpQjQREk4nHrMIklU,25.0505806,121.5230597,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區天津街56-19號
+579,義美食品 - 中山門市,ChIJ9YEIY66pQjQRHCtrp3aNR5s,25.0512069,121.522492,3.6,37,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區中山北路一段115號
+580,PXMart Huashan Store,ChIJ740FJpapQjQRxZ2zIyLeeks,25.0443619,121.524546,4.1,972,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區忠孝東路一段86號
+583,頂好Wellcome超市 重慶店,ChIJZ7UgzWypQjQRxxtbAwoPBDs,25.0522756,121.5142533,3.9,349,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區重慶北路一段73號
+584,正李記,ChIJda_dLW2pQjQRGRVMcCfn6y4,25.0508241,121.514494,4.2,12,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區長安西路220巷20號
+588,彰化超市,ChIJ_UmkYV2pQjQRTJGK-AJNRWo,25.0564613,121.5272035,4.3,12,"['convenience_store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區新生北路二段66-11號
+589,JASONS MARKET PLACE 臺北林森店,ChIJx4oe4ebQDRQR77u12YZ7NWc,25.0542103,121.5256013,4,435,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區林森北路247號B1樓
+590,全聯福利中心台北中安店,ChIJHyTWFmipQjQRi1rrg4xum7A,25.0561245,121.5245259,4.1,343,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區中山北路二段59巷45號B1
+595,7-eleven,ChIJQfdT-mepQjQRA-tGqR5mWWo,25.0501796,121.5250228,4.5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區林森北路101號
+600,頂好超市,ChIJfx_kCGupQjQRYWcY4W7YX7c,25.05533,121.516772,3.8,193,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區太原路155號
+602,大力生活廣場,ChIJOU5eR2upQjQRD98-NupbRH4,25.055176,121.515151,3.3,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區寧夏路23之3號
+608,全聯福利中心Pxmart 中山雙連,ChIJuYaLyV-pQjQReZC1r8QVbjw,25.0602501,121.5217227,3.9,659,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區錦西街8號
+609,頂好超市,ChIJS1Px0lypQjQRL2Wci0oo85w,25.0598024,121.5257098,3.8,749,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區林森北路413號
+610,伊米亞 SHOP,ChIJ2e4beO2pQjQRM82zzZfF924,25.061316,121.5265362,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區林森北路487號號226室
+611,Tipanan,ChIJxQnnjkSpQjQRzbigpKZiQPs,25.0634428,121.5231801,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區民權東路一段7巷No. 12號
+619,家樂福重慶店Carrefour Chung Qing Store,ChIJ1S3n_T-pQjQRTvubHQHpOa8,25.0590854,121.5139103,4.1,8233,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區重慶北路二段171號
+626,頂好Wellcome超市 農安2店,ChIJEaI91FqpQjQRG45eWnLv36c,25.0648175,121.5260177,3.8,308,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區農安街26號
+627,RJsupermarket,ChIJ497UqEWpQjQR1yqOeUkMuxw,25.065959,121.5225782,4.1,323,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區中山北路三段37號
+628,全聯福利中心 中山林森店,ChIJPdZ2KlupQjQRPd7PgQYCMbU,25.0645712,121.5258155,3.9,434,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區林森北路561號
+629,三井選品,ChIJPSx00VqpQjQRmBKm-Qucvn8,25.0650559,121.526007,3.8,57,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區農安街39號
+631,Vnextaipei,ChIJbdzodrmpQjQRovSC47vItGo,25.0655111,121.5234117,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","1樓, No. 11之1號, 雙城街18巷, 中山區"
+633,全聯福利中心 中山晴光店,ChIJL5GJzVqpQjQRhQspE2GyvNc,25.0652599,121.5258576,4,293,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區林森北路575之1號
+634,北美雜貨店,ChIJySVOZJGpQjQR423-s1xDaDs,25.06769,121.5256279,5,3,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區林森北路634號
+641,美廉社-北市昌吉店,ChIJv6ynozipQjQRpOzkVm-lUcc,25.0660001,121.5146336,3.9,81,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區昌吉街65號
+642,全聯福利中心Pxmart 大同大龍,ChIJG97ku0epQjQRwlVFY2Hybow,25.0674187,121.5165365,3.8,500,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區大龍街91巷7號B1
+643,廉價安全帽,ChIJB2jdHkapQjQRVmcYtyxDjCQ,25.0687002,121.5186615,4.3,34,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區民族西路67號
+653,神農市場MAJI FOOD & DELI,ChIJAY40N0-pQjQRgGycr8MrM9g,25.0700306,121.5220499,4.1,750,"['supermarket', 'grocery_or_supermarket', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",中山區玉門街1號
+662,頂好Wellcome超市-孔廟店,ChIJRVIONEipQjQRNZe5EIBE8Sc,25.0722222,121.5152778,3.9,508,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區酒泉街105號
+666,鮮切水果,ChIJ_zOwJpuvQjQReP80mNcGry4,25.0860981,121.5249993,3.5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","Unnamed Road, Shilin District"
+667,台北市農會陽明農作物堆集場,ChIJo2DGD7CuQjQRhJzRvZTvuo4,25.0876585,121.5246975,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",士林區大東路15號
+668,全聯福利中心,ChIJ37IfLbKuQjQRD5Be3kSBwLc,25.0834735,121.5228052,4.1,429,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",士林區後港街30號
+669,美廉社 士林通河店,ChIJj9VdZLOuQjQRH_J8ZXG_qrE,25.0809972,121.5203453,4.2,17,"['convenience_store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",士林區通河街82號
+670,頂好Wellcome超市-通河店,ChIJtZQke7OuQjQR9D0XCs5Qpaw,25.0812245,121.5203778,3.9,158,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",士林區通河街153號
+672,頂好Wellcome超市-後港店,ChIJr2m91rauQjQRF6LtCFEVnXM,25.0870949,121.51921,4.1,910,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",士林區華齡街175號
+676,育志鮮雞,ChIJ5zwDALquQjQR0v6sp8_SiWg,25.0899201,121.519886,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",士林區承德路四段277巷2號
+679,全聯福利中心士林中正店,ChIJ-4e8qqOuQjQR9piw955r-oI,25.0956721,121.5285989,4.1,1026,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",士林區中正路115號號1樓
+680,台灣主婦聯盟生活消費合作社士林站,ChIJRxGTuZiuQjQRIFUe0bqywBs,25.0990508,121.5305114,4.2,34,"['store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'establishment']",士林區福志路50號
+687,￼￼￼￼City’Super 天母SOGO店,ChIJs82rTJeuQjQRgq1bge9IEEA,25.1053498,121.5246797,4.2,89,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",士林區中山北路六段77號SOGO天母店B1
+688,家樂福天母店,ChIJd2AaK5GuQjQR2eKS7DfEwbU,25.1051641,121.52249,4.1,6452,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",士林區德行西路47號
+689,頂好Wellcome超市,ChIJb2z0c5muQjQR9mHGGkKQzkQ,25.1028254,121.5289006,3.9,138,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",士林區雨聲街52號
+690,樂鮮良房-CITY ‘ SUPER.SOGO天母店,ChIJWxVYEYivQjQRMieDIDMhIQc,25.1053498,121.5246797,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",士林區中山北路六段77號B1
+691,全聯福利中心Pxmart 士林芝山,ChIJB2utvf2vQjQRkY9KXX0syWs,25.10467,121.527092,4,26,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",士林區忠誠路１段56號1樓
+695,全聯福利中心Pxmart 北投文林北,ChIJwTJJYayvQjQRn0u-HEgmg38,25.105924,121.517244,4.1,210,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區文林北路116號
+702,全聯福利中心 北投明德門市,ChIJJRe0B5KuQjQR8XsBref-Bp0,25.1110736,121.51932,3.9,724,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 3-10, 懷德街, 北投區"
+703,台灣主婦聯盟生活消費合作社石牌站,ChIJ9_tzqY6uQjQRkxqWwF5uvaI,25.115967,121.520074,4.1,57,"['store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'establishment']",北投區明德路331巷2號
+704,美廉社北投振華店,ChIJg2SG_FCuQjQRCntpNxTXYlo,25.115701,121.5196731,3.9,61,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區振華街8號
+705,家樂福超市北投明德店,ChIJU-1VmNqvQjQRCNyKNrkyrPw,25.111516,121.520662,4.1,220,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區明德路161號B1樓
+712,頂好Wellcome超市,ChIJS_pItZKuQjQRwN3iHlPPvso,25.1112594,121.5141169,3.8,260,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區致遠一路二段19號
+715,美廉社-北投致遠店,ChIJz6imIJOuQjQRUHQNqDfp5Mw,25.1095143,121.515305,3.9,48,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區致遠一路一段94號
+716,鼎輯肉品,ChIJS8IR2pKuQjQRINWtedxHkok,25.1100067,121.5149237,4.5,13,"['supermarket', 'grocery_or_supermarket', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",北投區致遠一路一段119號
+719,美廉社石牌二店,ChIJXcWmoJKuQjQRb2Ydkk_HJeo,25.112208,121.5153345,3.7,44,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區石牌路一段166巷101號
+729,全家便利店,ChIJc49ZIK-vQjQRo0RcyHYFmxk,25.117122,121.5164724,3.4,9,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區石牌路二段90巷11號
+730,美聯社-北市立農店,ChIJV4QeSIuuQjQR-lKSJ6GltyA,25.1189174,121.5148064,3.9,62,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區立農街二段267號
+743,全聯福利中心Pxmart 唭哩岸,ChIJCSs1WOivQjQRRwAs9N5Rwcw,25.1202789,121.5109792,4.1,415,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區東華街二段180號
+744,全聯福利中心Pxmart 北投致遠,ChIJm1Yk9WSvQjQRrpxULGcfF6s,25.1169966,121.5113652,4,328,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區致遠二路113巷13.15.15-1號
+746,台灣菸酒便利商店,ChIJ--QoivSuQjQRaB4i0kUowSg,25.1193272,121.5114461,4,45,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區西安街二段171號
+748,小妖精蔬果,ChIJd54D1POuQjQR1KPc8TvZWRA,25.1167875,121.5087023,3.5,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區尊賢街218巷25弄4號
+754,伊貞太便利商店,ChIJsxO_M_auQjQR3opJnuabrXE,25.124119,121.505857,5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區公舘路311號
+755,美廉社 北投公館,ChIJJcwKKFmuQjQRLRja4Q_x9Rc,25.1273065,121.5077447,4.3,34,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區公舘路215號
+758,全聯福利中心Pxmart 北投吉利,ChIJn-FxOfGuQjQRScRBF7u_ANU,25.1187632,121.5066614,4.1,643,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區吉利街125號1樓
+761,三合堂香舖,ChIJOaKnpfGuQjQRqeuZMXjRh68,25.116432,121.506434,4,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區尊賢街233號1 樓
+764,福林建材行倉庫,ChIJe0kI5u-uQjQRIfaXZFLql5c,25.1142748,121.5038176,4.8,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區Unnamed Road
+766,全家便利商店 中央南路店,ChIJBeicDpCvQjQR2TCasoLv5uw,25.125821,121.5005383,3.6,22,"['convenience_store', 'supermarket', 'grocery_or_supermarket', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",北投區中央南路二段No.15號
+767,萊爾富便利商店,ChIJt5tvd_iuQjQRQjTYKDCLNZ4,25.1260289,121.5006472,2,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 502, 三合街二段, 北投區"
+771,頂好Wellcome超市-清江店,ChIJQ8WMI1muQjQRTa39cESktRM,25.127735,121.50735,4,316,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區公舘路198號
+772,美廉社(北投中央南店),ChIJsTRlFVeuQjQRIPVnp7m68Uw,25.130063,121.501179,4.1,66,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區中央南路一段133號
+782,全聯福利中心北投店,ChIJhzUw6lauQjQRnPaQB3Vtq8o,25.1305339,121.498764,4,660,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區北投路二段11號
+784,台灣主婦聯盟生活消費合作社北投站,ChIJgSm7z_euQjQRDIRFBSq0iyM,25.1320252,121.4972183,4.3,35,"['store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'establishment']",北投區大業路452巷29號
+796,頂好Wellcome超市-北投店,ChIJmQWHMUWuQjQRENAKG3Ele-U,25.1362553,121.5046494,4,329,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區光明路220號
+797,轉角麵攤,ChIJFV5PdNavQjQRHtajt0FG--k,25.1322418,121.5021995,2,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區新市街24巷5-3號
+798,全聯福利中心Pxmart 北投中和,ChIJZ8Helg6vQjQRg23e3pp5Q8A,25.138389,121.502265,3.9,217,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區中和街49號1樓、B1
+815,7-ELEVEN 北投門市,ChIJwzBgnE-uQjQRLzN81xfndQ4,25.1391741,121.5018741,3.3,20,"['convenience_store', 'supermarket', 'grocery_or_supermarket', 'cafe', 'food', 'point_of_interest', 'store', 'establishment']",北投區中和街222號
+817,美廉社 北投泉源店,ChIJoyd5c3WvQjQRlgATU7la8Eo,25.140505,121.506215,3.6,11,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區泉源路35巷1號
+827,家樂福北投店,ChIJQR7w2k6uQjQR9KQanncGUAQ,25.1417863,121.4995017,3.9,2498,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","B1, No. 366號, 中和街, 北投區"
+828,禾定豐商行,ChIJz3y-4E6uQjQR1kvOUAUOC9c,25.141014,121.499607,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",臺灣省台北市 北投區中和街335號1樓
+830,慈安七村,ChIJHaGBMNKvQjQRDO97RcBXh9k,25.140598,121.498223,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區文化三路93號
+835,國防部福利站 (北北站),ChIJpShInq2vQjQRlMNAaj-p8oc,25.13862,121.488372,4.1,10,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區中央北路二段338號
+836,國防部福利總處大宗副食品供應站,ChIJQ_i_c62vQjQRwTv1bVBm9cM,25.1386886,121.4888618,3.9,324,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區中央北路二段336號
+841,好市多Costco 北投店,ChIJN7WPZgyvQjQRuuUdm-fQNFo,25.1277884,121.4695562,4.3,14328,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區立德路117號
+842,全聯福利中心Pxmart 關渡,ChIJgfQMDf6vQjQRtMezgzVh3SM,25.1283719,121.4679854,3.9,457,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區中央北路四段532號
+843,進安生鮮超市,ChIJnTYcDAuvQjQRShkvYi0-8_4,25.1295879,121.4709072,2,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",北投區中央北路四段402號
+848,禾定豐商行,ChIJg2OoP22vQjQRT8oxNHzqe_U,25.1220505,121.4672108,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",臺灣省台北市 北投區知行路299號1樓
+851,美廉社淡水自強二店,ChIJGzd313OvQjQRAenEZiwgVl8,25.1278135,121.4630933,4.1,84,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區自強路72號
+852,頂好Wellcome超市,ChIJlWyQUXGvQjQREJJ8Nj_IstY,25.1293829,121.4623313,3.8,161,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區自強路106號B1樓
+856,全聯福利中心Pxmart 竹圍店,ChIJS1pp6K-pQjQRdD-opdcU3Uc,25.1363889,121.4616667,4,797,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區民族路３１號號地下室
+857,頂好Wellcome超市-竹圍店,ChIJEwoHMnavQjQRbuwoH1slfKc,25.1350431,121.4605093,4,193,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區民權路177巷12號
+858,春松水果店,ChIJbSocvZ2vQjQR-XQFHtfqSgM,25.1374488,121.4606716,4.5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","台北縣民族路17巷1弄土地公旁邊, 民生路6巷 251Tamsui"
+861,美廉社 淡水民權店,ChIJSaD7Sx-vQjQReE8vJoxnBe4,25.1339709,121.460607,4,9,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區民權路177巷51號
+862,7-ELEVEN 馥竹門市,ChIJgaRmUHavQjQRpjbb-Lm9Lmk,25.1335567,121.460585,4.1,100,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區民權路187巷19號
+872,全聯福利中心Pxmart 淡水淡金,ChIJn_vPHRWvQjQRxtmCc-QunUA,25.1596576,121.4574788,4.3,339,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區淡金路8-1號
+873,華辰家購,ChIJAUEddcWvQjQRm-H14Zy4Mvs,25.1597987,121.4545017,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區中正東路一段117號
+874,美廉社 淡水中正東店,ChIJu5zQ4PKvQjQRLWWEHGYM9zE,25.1597987,121.4545017,4,85,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區中正東路一段117號
+875,全聯福利中心Pxmart 淡水博愛,ChIJyTdvKPKvQjQR3ZcDZ_Modt0,25.1687617,121.4466531,3.9,465,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區中正東路35巷22號號1樓
+876,美廉社 - 學府店,ChIJwYhshPevQjQRZuO6PVvD9ZE,25.1700974,121.4480511,4,45,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區學府路73巷2弄1號
+877,美廉社淡水學府二店,ChIJHRIejvmvQjQRwuJfCWENks4,25.1715002,121.4508188,4,29,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區學府路100巷15號
+878,全聯福利中心 學府店,ChIJZ5eonfmvQjQRBS6PfKxJJfs,25.1724394,121.4504114,3.8,343,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區學府路126號B1
+881,文山茶行推廣處,ChIJWUT-slmlQjQR8km4Ci413Ic,25.1699186,121.4425973,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區清水街51號
+883,美廉社 淡水水源店,ChIJcRLrd1elQjQRb9ERhOWEghA,25.172462,121.44268,4.3,18,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區水源街一段9號
+884,淡水區農會超市,ChIJHZsJm1elQjQRbRKqTSIqqMQ,25.1724453,121.4433441,4,368,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",淡水區水源街一段31號
+891,大潤發碧潭店,ChIJgb_q2YkBaDQRBc7z-76Mq_E,24.9619585,121.537275,4,3993,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區環河路22號B1
+892,樂鮮良房－大潤發碧潭店,ChIJ-3wl9uwBaDQRu4-cLPsbK_0,24.9619585,121.537275,4,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區環河路22號B1、231
+897,全聯福利中心 新店惠國店,ChIJ3z-3AfMBaDQRuaKMz6cE1jY,24.9696612,121.545494,3.8,308,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區中正路12號號1樓
+898,Simple Mart 美廉社,ChIJry6DwPMBaDQRKbw6CdAmfRo,24.9714119,121.5443982,4.4,14,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區德正街46號
+899,金果園鮮果店,ChIJ-bUNtPQBaDQRWUG7J6TEFFE,24.9685679,121.5414099,3.9,7,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","6 號, No. 2, 新祥街, 新店區"
+900,可愛水果攤,ChIJixwuMnABaDQRIEXBXbN4XHo,24.967821,121.5413481,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區
+901,美廉社 新店華中店,ChIJuXMC9_QBaDQRzX7_XHAawQc,24.9707141,121.5407659,4.1,32,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區華中街44號
+902,摸魚師父 現撈水產專賣店,ChIJ-YGGAIYBaDQR_bowi9kxnzo,24.972997,121.543478,4.3,6,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區北新路二段92巷8號1樓
+903,湯瑪仕肉舖(新中店),ChIJd5zk2tMBaDQRYfkan20kASc,24.972186,121.5406504,4.9,18,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區中正路185號
+904,全聯福利中心 新店中正店,ChIJgWfaNfQBaDQRVo3ioAziQSk,24.9724041,121.5403149,4,374,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區中正路199號號1樓
+905,全聯福利中心Pxmart 新店碧潭,ChIJrcXP2pwBaDQRcg0V1aDdnE4,24.9644063,121.5401077,4,719,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區北新路１段181.183號
+906,翔鈞商行羅珮嘉,ChIJx8UFo4sBaDQRE2TdJGdBZfE,24.9650149,121.541067,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區檳榔路7號
+915,全聯福利中心 新店三民店,ChIJYWJ4zh8CaDQRDvKPxSWFKbU,24.9717187,121.535993,4,392,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區三民路42-1號
+916,菓然香新鮮果,ChIJowTwjiiqQjQRBS4XK1wNkdI,24.9737322,121.539899,5,3,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","1樓, No. 17號, 建國路, 新店區"
+918,康德美商行,ChIJV8ll2B8CaDQRpzObnldip0g,24.9709857,121.5369689,4,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區三民路47號
+931,家樂福新店店 Carrefour Hsin Tien Store,ChIJ5YLVQvABaDQRXvyen38YCMM,24.9766345,121.5458889,4.2,16605,"['shopping_mall', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區中興路三段1號
+932,全聯福利中心 新店北新店,ChIJKZgjrfABaDQRG3Oq_9NNrcw,24.9779922,121.5431641,4.1,816,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區北新路二段２５２號號地下室
+933,Green & Safe,ChIJC0YkTfcBaDQRum3wbu0CliQ,24.9776261,121.5426504,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",Taiwan
+938,吉祥水果店,ChIJNZVudvQBaDQRuY9LgGL5i4g,24.974269,121.5421517,5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區北新路二段11號79 巷
+943,陳記鮮雞超市,ChIJrdLIhvYBaDQRb_5zX1VobbQ,24.9740849,121.540039,4,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區建國路27號
+945,新店建國市場,ChIJey6-j_YBaDQR7V0UXIydWYg,24.974758,121.540643,3.7,1249,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區建國路40號
+951,全聯福利中心 大豐店,ChIJs04E8h0CaDQRzGc_2WReCtE,24.9756468,121.5363118,3.9,323,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區民族路190號B1
+952,頂好民族店,ChIJjTf5mPcBaDQRLUqTMV1tmLE,24.9780358,121.5393526,3.8,216,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","b1, No. 71號, 民族路, 新店區"
+955,頂好Wellcome超市-大坪林店,ChIJs_G5kPkBaDQRp_JDKq9RTf4,24.9809819,121.541627,3.8,370,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區北新路三段51號B1
+960,全聯福利中心Pxmart 新店建國,ChIJN2ksyuEfaDQR7am3vfSqrc4,24.9809646,121.5377941,3.9,534,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","1樓, No. 210號, 建國路, 新店區"
+961,船錨水產、肉舖,ChIJN6S14vcBaDQRZdaGEAr3p1A,24.9795823,121.5363484,5,11,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區二十張路115號
+967,心樸市集 京站小碧潭店,ChIJld6TKJEDaDQRu7MG1R0ospw,24.9723512,121.5307121,5,3,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區中央路157號5樓
+972,全聯福利中心,ChIJ9VailRkCaDQROVK120LKx7Q,24.9755227,121.5272,4.2,201,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區中央五街60號B1
+973,新北市政府交通局新店停管場,ChIJ9VailRkCaDQRS7DC-pQ7J1o,24.9751427,121.5277124,3.4,9,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區中央五街60號
+975,有力生鮮超市,ChIJ4dpiQxcCaDQRjUQUbgoJSRM,24.9764892,121.5246078,4.3,6,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區中央三街117號
+979,美廉社-新店寶元店,ChIJqdF8ZfsBaDQR0mYCG-iePkI,24.982198,121.546413,4.2,73,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區寶元路二段17巷2號
+992,景美水果行,ChIJzVihPP4BaDQRpA24de6oV_Q,24.9887093,121.5409471,3.8,268,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區景文街185號
+995,頂好 Wellcome,ChIJRxkzUwCqQjQR2rIDoD_Cus8,24.998611,121.543531,3.8,294,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區景隆街36巷2號
+996,全聯福利中心Pxmart 文山景興,ChIJfeS0W2-rQjQR7vFQ_PPyISI,24.9924813,121.5443583,4,418,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區景興路191號B1
+997,全聯福利中心Pxmart 文山景美,ChIJXXPREQGqQjQRdkxiDXLyHJY,24.9930606,121.5405316,3.9,215,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區羅斯福路六段218號B1
+998,劉姥姥水餃店,ChIJ2fbj2ACqQjQRKRWHUODbQwc,24.9917553,121.5417539,5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區景美街39號號 之 1 號
+999,頂好Wellcome超市-景美店,ChIJRxkzUwCqQjQRNXG6ryUhDBM,24.9924198,121.5393023,3.8,280,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區萬慶街27號
+1009,國防部福利站(大鵬分站),ChIJg0YA0f-pQjQRr-nNuwj1-i8,24.9909702,121.5342402,4,23,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新店區中正路700巷26號B1
+1010,全聯福利中心Pxmart 文山羅斯福,ChIJq_3sMY2rQjQRbR1QDu4tGLc,24.9970997,121.5384395,4.1,139,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區羅斯福路六段142巷11號1樓
+1018,全聯福利中心Pxmart 文山興隆,ChIJ_0aTKAOrQjQRTS_SZ92W8SI,25.0038783,121.5409688,4.1,229,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區興隆路一段５３號地下室B1
+1019,沅鳳鮮蔬果,ChIJbbb_EmSrQjQRjxNrtBnXaFk,25.0021708,121.537773,4.4,53,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區羅斯福路五段218巷14號
+1022,美廉社 (文山景福店),ChIJl61H2wKqQjQRPUu2LxKK-kI,24.999498,121.5391969,4,76,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區景福街14號
+1024,愛維根蔬食超市 萬隆門市,ChIJZ_LsrAKqQjQRlFs1oX7MCY8,25.00076,121.537455,4.1,304,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區萬隆街54號B1
+1026,Simple Mart,ChIJlcXuxBqqQjQRzHa0cGSonwg,24.9995312,121.5463788,3.9,18,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號 No, No. 10, 景豐街2巷, 文山區"
+1027,台北市農會農特產品展售中心萬隆店,ChIJZ_ZnG_ipQjQRKzFl76NPp6Q,25.0007959,121.5361969,4,242,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區萬隆街47-12號
+1032,全聯福利中心Pxmart 文山萬年,ChIJR8L7L_apQjQRiHWMvwrH_sU,25.0044806,121.5363715,4.1,757,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",文山區羅斯福路五段170巷41號
+1039,頂好Wellcome超市-羅斯福店,ChIJI9Eq-YupQjQRBwyKRNX6lf8,25.0179379,121.5316231,3.9,278,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區羅斯福路三段285號B1樓
+1040,媽媽魚安心超市公館店,ChIJ6Ymq71WpQjQRPXzvGQm6yo4,25.018408,121.528305,3.8,40,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區辛亥路一段10號
+1041,頂好Wellcome超市 師大店,ChIJfyuOUo6pQjQResEAL-j-LO0,25.0217,121.5282469,4,470,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區師大路129號
+1042,頂好Wellcome超市 新生店,ChIJnT-pBoepQjQRGIdTa2o9xfg,25.025746,121.534531,3.9,257,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區新生南路三段2號B1樓
+1043,全聯福利中心Pxmart 大安泰順,ChIJczu3TI-pQjQRVI-eJcg6GMY,25.0227186,121.5313096,4,594,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區泰順街45號號1樓
+1044,惠康百貨股份有限公司,ChIJh8HbLYSpQjQRfj791ol-p-c,25.026639,121.530695,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區和平東路一段145號1樓
+1045,頂好Wellcome超市-大安泰順店,ChIJh8HbLYSpQjQRR6fIHbDb0Pw,25.026639,121.530695,3.9,284,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區和平東路一段145號
+1052,美廉社中正金門店,ChIJK7wzo5GpQjQRFjBYu0ba7YA,25.0216667,121.5233333,4.4,66,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","1樓, No. 11號, 金門街, 中正區"
+1054,頂好Wellcome超市,ChIJ47hm4JCpQjQRqZmEp2dYFqM,25.0232954,121.5214479,3.9,530,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區同安街71號
+1055,全聯福利中心Pxmart 北市和平,ChIJC-9ZUPerQjQRZwfoSEPdquY,25.0271644,121.5245901,4,431,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區和平東路一段63號
+1057,健康食彩 羅斯福店,ChIJ_S3xIJCpQjQRxcVcYfpdJb4,25.023396,121.5254615,4.2,54,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區羅斯福路三段43號
+1058,百元剪髮,ChIJ91lGgMWpQjQR5HeQkuTRaKM,25.023786,121.5213316,1.8,5,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區同安街56-4號
+1060,全聯福利中心Pxmart 中正同安,ChIJQQeJntepQjQRFa2FswI-wtk,25.0257837,121.5220567,4,249,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區南昌路二段112號B1
+1083,長榮超商,ChIJ4dJyuZapQjQRHj5GSw4MZMw,25.0222141,121.5189439,4.1,22,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區牯嶺街
+1131,全聯福利中心Pxmart 中正延平,ChIJTXI7IWupQjQRAGwvRWVyj-U,25.0337902,121.5075471,4,646,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區延平南路189號
+1132,美廉社(中正惠安店),ChIJHxy1y6SpQjQRDryieBoooho,25.0295353,121.5068192,3.8,28,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區惠安街21號
+1133,放心初蔬果網-雙北3小時配送到家,ChIJJ73ecACpQjQRzx57X5Yq9Gs,25.030607,121.5061498,4.2,224,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區西藏路60號
+1134,家樂福 桂林店,ChIJZfLxBKepQjQRKWVPxv7a9aI,25.0379015,121.505719,4.1,18371,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",萬華區桂林路1號
+1135,JASONS MARKET PLACE Baoqing Store,ChIJ5awOLgqpQjQReqnlJk-eHaU,25.0416679,121.5091,4.1,131,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區寶慶路32號
+1137,頂好Wellcome 台北長沙店,ChIJG5u9IAipQjQRhsO6uNjT4BA,25.040539,121.504499,3.8,544,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",萬華區長沙街二段93號B1
+1138,國防部福利站 北西站,ChIJU9gxUaepQjQRqX9JLGVcsLk,25.0392791,121.5079617,4.1,228,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區貴陽街一段243之1號
+1139,胖胖豬-PANPANJU 肉鬆肉乾堅果/台北伴手禮/西門町美食伴手禮/遠百寶慶店美食,ChIJe4C4n2SpQjQRs9BQrnLR154,25.0414776,121.5089709,4.8,230,"['supermarket', 'convenience_store', 'bakery', 'grocery_or_supermarket', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",中正區寶慶路32號B1
+1140,西門商場自治會,ChIJ8zT4vAmpQjQRDCEXNN2Myos,25.041741,121.506805,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",萬華區成都路10巷29號
+1146,S3 Beauty Store,ChIJ5-zNIAmpQjQR0nCR84_ABG4,25.044456,121.505726,4.7,3,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",萬華區西寧南路50巷No. 9號
+1155,全聯福利中心 西門町店,ChIJpeKM9KepQjQRpvm8bfhtyzA,25.0403049,121.504023,3.9,779,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",萬華區長沙街二段110號
+1159,巧婦超市,ChIJP3sqRKipQjQRP67q8Z5Bhzg,25.0397222,121.5008333,4.1,81,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",萬華區西昌街143號1樓
+1160,村端水果行,ChIJ6QAAVo6pQjQRyqoldUajKi4,25.0359002,121.5032952,4,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",萬華區三水街69-73號
+1174,聖香水沉坊(線香、臥香、香藝、香藝用品、沉木),ChIJXe2uUROpQjQRTm0PNruOqok,25.0537721,121.511537,4.6,8,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區南京西路346-1號
+1175,全聯福利中心Pxmart 圓環,ChIJdXVo_y-pQjQRSSS_Nn-FK24,25.054084,121.512993,3.9,503,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區南京西路165號號1樓
+1176,永順水果店,ChIJ4SSPTv-pQjQRltADAZMqKkI,25.0547255,121.5110555,3.6,5,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區民樂街45號
+1177,香菇大王,ChIJp-mPjBOpQjQR9YsLfuO9POA,25.0545276,121.5103436,2.5,6,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區迪化街一段21號
+1211,"茂忠企業(照明衛浴經銷, 水電材料)",ChIJRYs_3l-pQjQRC1eKJFt7ZSo,25.0546512,121.5354496,4.3,62,"['hardware_store', 'supermarket', 'grocery_or_supermarket', 'furniture_store', 'home_goods_store', 'food', 'point_of_interest', 'store', 'establishment']",中山區長春路194號
+1213,阿賓水果店,ChIJV6XXWmepQjQRQxETNEF4ChM,25.0549522,121.530457,1,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區長春路127-1號
+1214,頂好Wellcome超市,ChIJy9-jzmOpQjQR4rhNFiEFwg8,25.0485799,121.5336739,3.6,289,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區長安東路二段63號
+1216,全聯福利中心Pxmart 中山建國北,ChIJrZ0JzwerQjQRMSrxJ2cDYQc,25.0478631,121.5362097,4.1,178,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區建國北路１段48號
+1217,全聯福利中心,ChIJYUdGfWapQjQRq3NIS_oFv20,25.0513978,121.5288267,4,709,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區吉林路26巷34號1樓
+1248,頂好 松山光復店,ChIJEVpSdeyrQjQRHNGSa7FbKd8,25.0549905,121.5555662,3.9,234,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區光復北路198號
+1249,惠康百貨股份有限公司,ChIJEVpSdeyrQjQR7X4jQ9_4o9o,25.0549905,121.5555662,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區光復北路198號1樓
+1250,美廉社 松山南京東店,ChIJmXLSyuurQjQRG_vderTgGNw,25.0523541,121.5554015,3.8,54,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區南京東路四段133巷5弄8號
+1251,川田切麵店,ChIJdyYNuNirQjQRzfk6qn4FRTE,25.054676,121.553696,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區光復北路190巷39號
+1252,國防部福利站(松山分站),ChIJNeA1feurQjQRYWA505zc_z4,25.0551629,121.558714,3.5,11,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區健康路131號
+1253,雅鮮水果專賣店,ChIJkVmjMOurQjQRmYSWN1XJxGU,25.052388,121.5591933,4.3,7,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 23-2, 南京東路五段59巷, 松山區"
+1255,全聯福利中心P中崙,ChIJk59kX8erQjQR-uPJ1IrsN5Y,25.0476814,121.5537309,4,510,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區八德路三段106巷1號
+1256,美廉社(松山八德店),ChIJL_lSlcOrQjQRanTn5kxBHVs,25.04632,121.552689,4,57,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區八德路三段74巷45弄1號
+1257,蘇鮮嚴選 水貨批發 (進口海鮮),ChIJL1cUHS-rQjQRGK3uf-fzoRc,25.0472698,121.5537388,5,10,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區延吉街9巷3號我愛美花店內1樓
+1275,全聯福利中心Pxmart 松山鵬程,ChIJ52hgm5qrQjQR5L2NpJ8llcI,25.054639,121.5688079,4,328,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區健康路３９９號
+1276,頂好Wellcome超市-延壽店,ChIJRzgXR5SrQjQRqenzfpoX3xA,25.057231,121.5666579,3.8,89,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區延壽街91號
+1277,美廉社(松山南京東二店),ChIJtSIp9JarQjQRNchu87Mk6BY,25.0497703,121.5675125,3.8,51,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區南京東路五段250巷36弄25號
+1278,美廉社 松山寶清店,ChIJPTXJvQmrQjQR9Vb9UgHmyWw,25.0530076,121.5677422,2.8,9,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區寶清街40號
+1279,純糖豆花,ChIJw121TZGrQjQRcjD3m6ebXcA,25.0526439,121.566429,3,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 27, 南京東路五段291巷, 松山區"
+1280,全聯實業股份有限公司,ChIJr6oMVBFOXTQRHnTPzI6NkHc,25.0544666,121.5633402,4.2,151,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區健康路243號B1
+1281,美廉社松山新東店,ChIJTVXakuXQDRQRnzSqPQIdbHQ,25.057764,121.5663179,4,55,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區新東街12巷1號
+1285,全聯福利中心 松山吉祥門市,ChIJn65LAZWrQjQR2dHukuW7MWs,25.0506354,121.5624313,4.1,524,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區光復北路11巷99號
+1286,頂好Wellcome超市,ChIJA7q8V5WrQjQR15OTm8pmteQ,25.0485995,121.560534,3.9,367,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區八德路四段83號
+1288,武昌美雲健康蔬菜,ChIJiSCtuZSrQjQRRZy2wvBkz4Y,25.0526624,121.5604262,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區南京東路五段59巷27弄39號
+1289,（陳家）良友現宰雞肉攤,ChIJ7ZALtpSrQjQR9hP7_vZoI9Y,25.0526061,121.5602099,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區南京東路五段59巷27弄27號
+1291,台灣主婦聯盟生活消費合作社民生站,ChIJrYLTXpKrQjQRQG_ImGPeR4A,25.0568871,121.5628919,4.5,24,"['store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'establishment']",松山區延壽街153號
+1299,全聯福利中心三民店,ChIJM6f0cZKrQjQRK--sXT5CnYg,25.0577509,121.5637369,3.8,388,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區三民路108號號B1
+1300,台灣樂菲股份有限公司,ChIJkyHuy5KrQjQRTE3iTK20c0k,25.05757,121.5601304,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",臺灣省台北市 松山區民生東路五段36巷6弄8號4樓
+1308,永建福商行,ChIJDZIWuJyrQjQRqo-XZVipWoo,25.0541862,121.5782758,4.2,22,"['convenience_store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區新明路460巷18弄5號
+1309,美廉社-內湖新明店,ChIJE6Llx4KrQjQRegM4xL1B1jY,25.0549211,121.5811801,4,65,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",內湖區新明路419號
+1310,大眾自助快餐,ChIJfSEJ25KrQjQRExWKa_BUon0,25.0503125,121.5759196,4.8,5,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",松山區八德路四段679號
+1311,PX Mart Nangang Zhonpo Store,ChIJjwf477-rQjQRNLWilK8aZfE,25.044008,121.582464,3.7,505,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",南港區中坡南路7號1.2樓
+1312,頂好Wellcome超市-中坡陽店,ChIJXTj145-rQjQRwKoA60Bkulg,25.0440703,121.5822136,4,625,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",南港區中坡南路3號
+1313,美廉社 信義虎林三店,ChIJUxXHLxqrQjQR78B7yawQh7c,25.0463199,121.577111,4,7,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區虎林街61-3號
+1316,全聯福利中心Pxmart 信義松隆,ChIJYZn0F5irQjQR5Nj7pk3WM9w,25.0470337,121.5719839,4,503,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區松隆路125號
+1317,蔬果行,ChIJM34tc6KrQjQRrslVgTYS1Ik,25.0444948,121.575522,3.9,8,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區永吉路326巷21號
+1323,頂好Wellcome超市-南勢角店,ChIJmxVPfnQCaDQR1DpEUJdh6lU,24.9911225,121.5112596,3.9,306,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區興南路一段20號B1樓
+1324,大潤發景平店,ChIJ3R3bAgsCaDQRaA8kHoYG9gY,24.9924281,121.5163392,4,4970,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區景平路182號B1
+1325,景新街傳統市場/Taiwanese street market,ChIJN8RwZnMCaDQRgpv5-OxfIUk,24.9904476,121.5125659,3.6,34,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區景新街383巷1號號
+1326,景新市場-菇,ChIJC4FWGNipQjQRWo1l_8CNdbc,24.9903201,121.5130803,5,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區景新街383巷12弄7號
+1327,好吃雞肉攤,ChIJjUliZnMCaDQRQUE1X8Ph9no,24.990893,121.5139587,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區景新街383巷65號5樓
+1328,全家超商,ChIJ3WdH7HMCaDQRiBIphNM5DMs,24.9906067,121.5096138,3.3,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 2, 和平街34巷, 中和區"
+1329,全聯福利中心Pxmart 中和南勢角,ChIJFTz7bEoDaDQR8IdRec-jtiE,24.9895314,121.5094523,4.1,322,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區捷運路29.31.33.35號
+1330,288鵝肉雞肉,ChIJw9KnVeCpQjQRaMy1HZJksgo,24.9953992,121.5148532,4.1,8,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區智光街130號
+1331,民享橋(強)水果攤,ChIJXy5vmAoCaDQRb2snoAVhIa8,24.9948331,121.5156542,5,3,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區大勇街29巷
+1332,美廉社 中和大勇二店,ChIJJcerkwoCaDQRTym4SQhXaWE,24.9942227,121.5160713,3.9,94,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區大勇街29巷1號
+1333,全聯福利中心Pxmart 中和景新,ChIJTzzxp_MDaDQRd_bXrxdZz-k,24.9868367,121.5140269,4,683,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區景新街516號B1
+1335,美廉社中和景新店,ChIJZZ53zgwCaDQRBs0yXTZWIqw,24.9884418,121.5144361,4,52,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區景新街467巷26號
+1339,五一八生活百貨,ChIJbbCwA3ICaDQR1AOrhxVu_r0,24.9868478,121.5086425,4.1,470,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區興南路一段163號
+1342,頂好Wellcome超市-中和二店,ChIJh1xigHACaDQR1vi0PT_PNWQ,24.9905691,121.5030633,3.9,495,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區復興路268號
+1345,全聯福利中心Pxmart 中和華新,ChIJI4PMRL8DaDQRbQPig7Sinjo,24.9847906,121.5075682,4,71,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區華新街26號1號1樓
+1346,亞龍超級市場,ChIJ09M_jXACaDQRiqsybGaYECI,24.9907091,121.5040809,4.6,22,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區景安路245號號
+1348,鵝肉安,ChIJ-VN0vhEDaDQR18UlPzYFZro,24.9921097,121.5053511,5,3,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區和平街89號
+1350,家樂福便利購 景安店,ChIJfZyMw3YCaDQR2JpIuIs9ucw,24.9932758,121.5048,4.1,666,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區景平路353號B1
+1353,全聯福利中心中和南山店,ChIJyRIPsHACaDQR1oEsico5_UM,24.9921796,121.5041193,4,609,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區南山路146巷1號1樓
+1357,美廉社中和景新店,ChIJe6pkSHYCaDQRCJuqp3CGo2Y,24.9961135,121.5062642,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區景新街186號
+1358,美廉社-中和景新三店,ChIJe6pkSHYCaDQR8Vqojgq0rB4,24.9961135,121.5062642,4.2,44,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 186, 景新街, 中和區"
+1369,全聯福利中心-中和南華店,ChIJPVm0h3cCaDQR_MOCsds9QO4,24.9960811,121.5029865,4,435,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區南華路27號號地下1樓
+1371,美廉社,ChIJoQb_Ld-pQjQRhSb9ifHcL9k,24.9988831,121.508664,4,50,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區保健路19巷31號
+1374,本地黑豬,ChIJDS5apdipQjQR3cu0YQK161s,24.997858,121.5077125,5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 15, 保健路10巷, 中和區"
+1375,佳饗黑豬肉專賣店,ChIJDS5apdipQjQRRGW44ZX3ZuM,24.997858,121.5077125,5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 15, 保健路10巷, 中和區"
+1376,全聯福利中心中和宜安店,ChIJxXTWod-pQjQRmrgVpvkQHVQ,24.9976113,121.5116788,4.1,572,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區安平路109號
+1391,全聯福利中心Pxmart 中和中正,ChIJwaxxDZMDaDQRR4_VH_93ZIg,24.9938986,121.5001738,4.2,307,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區中正路80號號1樓
+1392,美廉社 中和中正店,ChIJqTlI8YEDaDQR6M4Bqkdg00g,24.9929635,121.4983174,4.8,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區中正路167巷15號
+1407,家樂福便利購永和永安店 Carrefour Market Yonghe Yongan Store,ChIJr2MSxdCpQjQRWm57yq8weL0,25.0022384,121.5105292,4.1,1186,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區中和路499-1號
+1408,全聯福利中心Pxmart 永和福和,ChIJS9wjW92pQjQR0LtiMPjXCXU,25.0072699,121.5146893,3.9,381,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區福和路353號
+1409,家樂福超市永安店 Carrefour Market Yonghe Yongan Store,ChIJBXEAKIKpQjQRb09MYOmPCmE,25.0021775,121.5105211,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區中和路499-1號
+1410,全聯福利中心 永安捷運店,ChIJr1pQJtypQjQRua0aJShEIg8,25.0021082,121.5104502,4.1,357,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區中和路489號B1
+1411,美廉社 永和保平店,ChIJw3hKgdypQjQRl1BBY5RYnvU,25.0051693,121.5089634,3.9,65,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 264, 保平路, 永和區"
+1412,卡吉牛羊肉品專賣店（國產牛專賣店）,ChIJ7w3cBOGpQjQR_KynkOCl38c,24.998041,121.5177238,4.8,12,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區民治街77號
+1414,全聯福利中心 中和中安店,ChIJtzSP_96pQjQRJ1swzN9N1Zo,24.9991062,121.5114778,4,284,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區中安街196號B1
+1415,美廉社 永和安樂二店,ChIJ92rZPBapQjQRVKw-znHv2bA,24.9979507,121.5151749,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區安樂路58巷2號
+1418,全聯福利中心（永和中正店）,ChIJjePLkv2pQjQRfMHCknz2vxU,24.9999746,121.5174656,4.2,917,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區中正路247號249號1樓
+1420,毛記鮮果行,ChIJUa1bG-GpQjQRFNQ6518TfEc,24.9984098,121.5173812,4.8,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區民治街82號
+1430,法蘭克肉舖子 永和中山店,ChIJkWrIEsOpQjQR58AexK8fQt4,25.009246,121.509913,4.7,213,"['supermarket', 'grocery_or_supermarket', 'liquor_store', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",永和區中山路一段159號
+1432,JASONS Market Place 比漾店,ChIJK1LtTNupQjQRCHkzmvGI8es,25.008209,121.5076921,3.9,55,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區中山路一段238號
+1433,全聯福利中心Pxmart 中和光華,ChIJ1edMMdqpQjQR_67IUuCemOM,25.0039979,121.505183,3.9,466,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中和區光華街31巷2號號1樓
+1441,全聯福利中心-永和竹林,ChIJS9wjW92pQjQRPlvoQWFEDIA,25.0133447,121.5188034,4,479,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區竹林路73-1號
+1442,頂好超市,ChIJ1esdDOupQjQRg0Fpv2wQmko,25.0137683,121.5180921,3.9,221,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區竹林路60號
+1443,江捷電脑顧問公司,ChIJT3gVqv-pQjQRi6PyF8sjdhk,25.015495,121.5168088,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區永和路二段276巷5弄10號
+1444,頂溪阿吉蔬菜店,ChIJ7WLlfQGpQjQRbJ_iyLSdrsI,25.0135973,121.5160788,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區勵行街28巷15號
+1445,上海蛋餃,ChIJM1XLUuqpQjQRYce0XNU1KF8,25.0130711,121.5170166,4.5,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區勵行街65號號 之 二
+1448,全聯福利中心Pxmart 永和警光,ChIJCd-_gRipQjQR91c-JqsQIJ4,25.009762,121.520277,4.1,435,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區竹林路182號
+1449,全聯福利中心永和永安店,ChIJW7V17OmpQjQRiJGtRmyzG5Y,25.0103652,121.5153318,4,357,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區中正路742號
+1451,頂好Wellcome超市-永和中正店,ChIJL5rIl-mpQjQRNZwlQNe6yPI,25.0099251,121.5164341,3.6,97,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區中正路704號
+1455,頂好Wellcome超市 永和店,ChIJv4WvesGpQjQRdnMWqBOFyhk,25.0129111,121.5106795,3.9,685,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區仁愛路152號B1樓
+1457,美廉社-永和信義店,ChIJi2TYuMGpQjQR9OFxIHgSEnA,25.0137338,121.5125589,4.4,52,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",永和區信義路92號
+1553,業務幫,ChIJUUgeDnupQjQRI_ic6Zcptwo,25.0432382,121.5290689,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中正區忠孝東路二段80號
+1556,天和鮮物‧華山旗艦店,ChIJg4sgrHqpQjQRp5QThSlTTjc,25.0456678,121.52604,3.9,456,"['supermarket', 'bakery', 'grocery_or_supermarket', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",中正區北平東路30號1樓
+1575,頂好Wellcome超市,ChIJSea7IVipQjQRsTztDELi5NY,25.0648039,121.5353819,4,115,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區農安街257號
+1576,全聯福利中心Pxmart 中山松江,ChIJnz_Qu5-pQjQRDy5fU05ox4c,25.0606558,121.532867,4.1,682,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區松江路318號號1樓
+1578,暢記鮮果蔬菜廣場(錦洲店),ChIJBRA60FipQjQRJaBhJo5Z4uI,25.0607683,121.5348859,3.6,9,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區民權東路二段152巷22號號
+1579,家樂福超市台北錦州店Carrefour Market Taipei Jin Zhou Store,ChIJIUHw8yupQjQR9uv25j4w_RA,25.0602202,121.5349582,4.1,661,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區錦州街276號
+1580,福興雞肉,ChIJqXs9HVypQjQRFeTtJDSUT2g,25.0599956,121.5313587,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區吉林路199巷33號
+1587,全聯福利中心 (吉林店),ChIJd-TYDlypQjQRBuEhRvLKSwg,25.0604993,121.5303892,3.9,735,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區吉林路213號
+1593,全民福利網,ChIJG2U7d1apQjQRAT2oga4MOIQ,25.0629868,121.5307375,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區吉林路299巷6號1樓
+1595,美廉社-中山民權東店,ChIJ0flPjFmpQjQRdDR4-obDfl0,25.0644118,121.5318321,3.8,56,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區民權東路二段71巷47號
+1608,美廉社北市德惠店,ChIJDwlrolCpQjQRFC0J9tJZl44,25.0667125,121.5298768,4.3,60,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區德惠街119號
+1609,全聯福利中心Pxmart 中山德惠店,ChIJY1KrSO2pQjQRrrLBxE6Z2m0,25.0664816,121.5305348,3.9,472,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",中山區吉林路413號1樓
+1678,美廉社 大同歸綏店,ChIJsbIGR1mpQjQREFKEl5f657Y,25.058246,121.5120044,4.8,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區歸綏街207號
+1680,聖恩素料食品,ChIJv4gV-RSpQjQRXb4wfYxRp6k,25.0568698,121.5114501,3.4,51,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區民生西路322號
+1683,全聯福利中心,ChIJj1nlRTipQjQRq_U5RGXwT_I,25.0688189,121.5120588,3.8,476,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大同區民族西路235號
+1687,美廉社 三重文化店,ChIJddsofRipQjQRlxipKZKSaMg,25.0620929,121.5000228,3.9,89,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區文化南路17號
+1688,萌萌雞蛋糕,ChIJEdsy6SKpQjQRwE1rSKoxuPA,25.06429,121.5010093,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區中央北路15號
+1689,好吃水果攤,ChIJ70UNhhSpQjQREFWWY39YA_k,25.064531,121.50097,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區中央北路23號
+1690,中央北與重新路口 清粥小菜,ChIJece5lSKpQjQRP8AiRf8kr14,25.0637381,121.5010311,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 2, 中央北路, 三重區"
+1691,國際通百貨廣場,ChIJ5f207CKpQjQR9F5kEWez0u0,25.0638597,121.5008779,4.1,624,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區中央北路8號
+1692,美廉社 三重龍濱店,ChIJXzbbSjupQjQRK1nQ1iAFXHI,25.0683099,121.5028486,4.1,81,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區龍濱路37號
+1693,美廉社-三重長元店,ChIJfQdLisepQjQRbJ-njTVg730,25.0657864,121.4995251,3.5,20,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區長元街29號
+1694,富久玉器,ChIJ0zS6nSOpQjQR5G5vTjT93G4,25.0672057,121.4997622,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區長安街48號
+1695,三重農會超市,ChIJKVHN7DSpQjQRt2EtI7Hn830,25.0629448,121.4995134,4,129,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區重新路二段1號
+1703,美廉社 三重大同南店,ChIJEx6IDxypQjQRBHPcHNblB3U,25.0575983,121.4963965,4,83,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區大同南路137號
+1704,美廉社三重大同北店,ChIJccBsO-CoQjQRRyNKdQJbAjA,25.0637278,121.4948617,3.9,102,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區大同北路85號
+1706,全聯福利中心Pxmart 三重天台,ChIJf-x4P7epQjQRLNrCdDu_7Sc,25.0619493,121.4974299,4,527,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區重新路二段78號之21號
+1707,蛤蜊小鍾,ChIJdVUkxx6pQjQRL0Y68fvdQ-k,25.0598695,121.4960596,5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區大同南路54號
+1714,美廉社三重雙園店,ChIJV4l9FyGpQjQRAyuzhDDWAUo,25.0677166,121.4949129,3.8,46,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區雙園街57巷3號
+1715,全聯福利中心Pxmart 三重三和,ChIJ13iSMFOpQjQR0CgdG9tWSIU,25.0694399,121.4984284,3.9,525,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區三和路二段139號
+1718,宏大,ChIJZy0PjSOpQjQRteQc-UPOlG0,25.0678367,121.4986075,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區長壽街6號
+1724,美廉社三重 文化北店,ChIJKaU0GySpQjQROd3-o9zHhDA,25.0692921,121.4974953,3.8,64,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區文化北路228號
+1725,法蘭克肉舖子 三重三和店,ChIJVzsDFSSpQjQRTKc8RCQaZW0,25.0696056,121.4983192,4.8,147,"['supermarket', 'grocery_or_supermarket', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment']",三重區三和路二段151號
+1736,頂好wellcom超市 中正北店,ChIJJyxTN-CoQjQR_T9C6F7Dci0,25.0630444,121.4903648,3.9,185,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區中正北路67號
+1737,美廉社 三重中正店,ChIJccBsO-CoQjQRbcwTmIicJFY,25.0629655,121.4905382,3.8,32,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區中正北路65號
+1738,蝦到家,ChIJCyBpWdqpQjQRUYlV1oVrvio,25.0629924,121.4933694,3.4,204,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區中正北路25巷12號
+1740,美廉社 三重中寮店,ChIJje2H4B2pQjQRm8sUieIQ-CY,25.058971,121.492706,4.4,60,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區中寮街36號
+1742,美廉社-三重重陽店,ChIJxWi2ud-oQjQRRp0IMElv__8,25.065091,121.4914697,4.2,18,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區重陽路三段5巷21號
+1743,全聯福利中心（三重店）,ChIJu72teOKoQjQRa4AdKSENQxE,25.057233,121.491572,4,376,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區光明市場２樓號重安街７０號
+1748,頂好Wellcome超市,ChIJaZEpnuOoQjQRYOxSr8LrF9Q,25.0578739,121.4868299,4,449,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區重陽路一段41號
+1749,美廉社 三重重陽二店,ChIJf-HVg2qpQjQRE_J6AoIXIuU,25.058064,121.488079,4,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區重陽路一段43巷33號
+1750,全聯福利中心 三重集美店,ChIJ7UkI1_yoQjQRyukabSK5SRY,25.0541417,121.4880263,4.1,469,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區集美街61號之1
+1753,全聯福利中心 中正北店,ChIJ0U2BuOCoQjQRJVgi9YQ8--A,25.064531,121.486329,3.9,389,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區中正北路70號
+1770,全聯福利中心Pxmart 三重捷運,ChIJZWxAteSoQjQRLGWmvqYfiU0,25.0558794,121.4839153,4,475,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區捷運路41號
+1771,美廉社 三重三陽店,ChIJF4HM-OSoQjQRq10pVNMlMMQ,25.058635,121.483118,4.1,72,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區三陽路114號
+1774,家樂福超市三重新北店San Chong Xin Bei Blvd,ChIJWw4IImepQjQRL3xHxnymYWo,25.0612485,121.4836254,4.2,321,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區新北大道一段115號B1
+1776,翔鮮竹筍蔬菜零售,ChIJyxWxYP2oQjQRsqJ4nr8Jd20,25.0528535,121.4909902,5,6,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區環河南路221巷35號號
+1777,美廉社 三重集成店,ChIJMXiNCP2oQjQRPKNvP8E1Q9c,25.0522988,121.4891148,4,27,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區集成路31號
+1791,台灣主婦聯盟生活消費合作社三重站,ChIJt5eynVioQjQRX0thoICs5vM,25.0468781,121.4761052,4.4,66,"['supermarket', 'grocery_or_supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']",三重區重新路五段408巷18號
+1792,金順風商場,ChIJA5fgykunQjQRntUFgNGE4g4,25.048385,121.469847,5,3,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區中興北街101號
+1794,家樂福 重新店,ChIJ55ApUGeoQjQRfuHxC5O9Tn8,25.0433178,121.4675751,4.1,9270,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區重新路五段654號
+1795,全聯福利中心-新莊化成店,ChIJd6kMHGGoQjQRswGtwxB7di8,25.0460951,121.4652476,4.1,562,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區化成路71號
+1797,頂好Wellcome超市,ChIJRRY0iIqoQjQRSfYXv-Zj1SA,25.050378,121.4656859,3.9,312,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區化成路193號
+1803,祖德素食超市,ChIJNccjEGSoQjQRSiQ7dJMKFhs,25.0443117,121.4624727,4.5,122,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區復興路三段54號
+1805,阿風姨店,ChIJ911drG-oQjQR8cbZVS44q94,25.0379436,121.4593442,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區新莊路4號號
+1806,新莊區農會超市,ChIJCVYZNG6oQjQRTWTebpGjgCg,25.0377497,121.458181,3.2,53,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區中正路80號
+1807,全聯福利中心Pxmart 新莊公園,ChIJX3XTnuinQjQRARmIheUisMc,25.0407678,121.4571545,4.2,378,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區公園路129號
+1809,頂好Wellcome超市 新莊二店,ChIJN4sSA3CoQjQRuSPeuQu6m6g,25.040495,121.456787,3.9,354,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區公園路226號
+1812,美廉社-新莊中港二店,ChIJg_IudHCoQjQREh1Jm0q7AGA,25.041198,121.45529,4,87,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區中港路150號
+1824,華倫國際有限公司,ChIJCbHfv3SoQjQRnLnEa-AjVwA,25.0333333,121.45,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",臺灣省新莊區新北大道四段179號19樓之5
+1825,全聯福利中心Pxmart 新莊新泰,ChIJh2LLMwqpQjQRqkkVDTVYYTQ,25.0344999,121.449072,4.1,383,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區新泰路85號號地下樓
+1826,全聯福利中心 新莊豐年店,ChIJWYlrsgqoQjQRLTQ88Mgg7mk,25.032634,121.4466383,4.1,458,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區豐年街21號
+1828,美廉社 新莊新泰店,ChIJnWPEyHSoQjQRlhdrI4mkSIQ,25.032657,121.4496094,3.8,29,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區新泰路13號
+1829,一元脆皮烤鴨,ChIJ42RRpQqoQjQRVs1mIj4tohA,25.0321994,121.4463067,4,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區豐年街38號
+1830,全聯福利中心-新莊建中店,ChIJnWIq0nWoQjQRfbq6fRv1L5g,25.037335,121.448076,4.1,540,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區建中街62號1樓
+1831,融融阿姨店,ChIJUz0plHWoQjQRdfjvRSxAR30,25.0364841,121.4466593,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區建中街91號
+1840,全聯福利中心Pxmart 新莊輔大,ChIJbZbTfuinQjQRp7xW1wCMMNI,25.0328274,121.4344778,4.5,384,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區中正路510號
+1841,全聯福利中心Pxmart 新莊建國,ChIJ_aEfB-anQjQRY7tbN5Eiyak,25.030463,121.434642,3.8,306,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區建國一路53號
+1844,好市多Costco 新莊店,ChIJTQe4e-WnQjQROY83kiPDVO4,25.0273744,121.434206,4.1,17035,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區建國一路138號
+1848,穩耀機械五金有限公司,ChIJf6m5Uu2nQjQRZrzwCN22gu4,25.028316,121.422753,4.7,10,"['hardware_store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區民安路16-1號
+1849,全聯福利中心Pxmart 新莊後港,ChIJJf4hdHqnQjQR_IhGrUlvB1o,25.0262769,121.426785,3.9,568,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區後港一路68號
+1850,美廉社(新莊福營店),ChIJj160VY2nQjQRyyUaYB5FMmM,25.0270249,121.4219276,4,44,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區福營路328號
+1851,全聯福利中心Pxmart 新莊鴻金寶,ChIJB0xQ_FCnQjQRo2Mqx2oOyro,25.0230556,121.4247222,4,272,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區民安路188巷5號號之2
+1852,美廉社新莊後港店,ChIJ7z4M_9-nQjQROZ4nReNJDMU,25.0252494,121.4258639,3.9,53,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",後港一路28巷5弄 3號
+1854,頂好Wellcome超市-新莊店,ChIJX4hZp_OnQjQRHLz1DMu2368,25.0236006,121.4255855,4,453,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區民安路157之1號
+1855,頂好Wellcome超市,ChIJreq2D-6nQjQRHOgJ6oebzvc,25.027103,121.429084,4.1,91,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區後港一路122號
+1856,頂好Wellcome超市-富國陽店,ChIJH6RPzI2nQjQRP0isru-ksVg,25.0263681,121.4182569,4.1,106,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區富國路2號B1
+1858,美廉社(新莊裕民店),ChIJX3Ds8ounQjQRiz-tDkws2Xw,25.0229261,121.4183706,3.7,87,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區裕民街107-109號
+1859,裕民市場,ChIJ8QjwrI2nQjQRxezUqrMoXn8,25.0260378,121.4192609,3.9,315,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區裕民街2號
+1860,丹鳳油行,ChIJtyMylI2nQjQRV46lvxMUThY,25.0275701,121.4187809,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區中正路863-3號
+1862,家樂福便利購 新莊丹鳳店,ChIJZ1vERI6nQjQRze95_ZJWESE,25.027419,121.4151795,4,1268,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區雙鳳路59號
+1863,家樂福超市丹鳳店 Carrefour Market XinZhuang DanFeng Store,ChIJDTyhQ7enQjQRtM5t7mMjbiQ,25.0274078,121.4151165,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區雙鳳路59號
+1866,美廉社 新莊天祥店,ChIJ5yRAH46nQjQRPYnl2TtDdsA,25.029183,121.415699,4.1,78,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區天祥街75號
+1868,全聯 龍安店,ChIJ77RfQYinQjQRQgIdg0Pev6E,25.0209697,121.4131026,4,313,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區中正路893巷2之1號
+1871,頂好Wellcome超市 龍安店,ChIJLTLVComnQjQRbblTKcgJMAM,25.0215142,121.4157825,4,256,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區龍安路75號
+1872,微笑蔬果,ChIJv7Y83oinQjQRsZTCxiaCYz8,25.0234209,121.4137959,3.9,572,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 852, 新北大道七段"
+1874,惠康百貨股份有限公司,ChIJLTLVComnQjQRdRs_7BYjPx4,25.0215141,121.4157832,4,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區龍安路75號
+1879,美廉社 新莊中正店,ChIJh4BsAIinQjQRBWo0W-yYa1k,25.0199774,121.4113459,4,31,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新莊區中正路929巷29號
+1881,全聯福利中心Pxmart 龜山迴龍,ChIJwwmHA0sdaDQRP9DCr8Qhq1w,25.0181911,121.4072048,4.1,368,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",龜山區萬壽路１段161號地下1樓
+1884,VNEXSHULIN,ChIJefXRgg8daDQRIjkplIEWNDA,25.0157796,121.4104438,4,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",樹林區中正路608號
+1895,全聯福利中心Pxmart 三重介壽,ChIJix0yFNipQjQRGMoy7G12nx8,25.0713885,121.4948062,4.1,439,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區龍門路6-1號
+1896,頂好Wellcome超市（龍門店）,ChIJjRqmEyapQjQRZJsSoL2OGOk,25.0730838,121.4960333,3.8,427,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區仁愛街81號
+1913,美廉社三重大智二店,ChIJqbekvSCpQjQRNcKbfstNcAk,25.0686447,121.4922506,4.2,34,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區大智街79號
+1916,千里馬@店,ChIJfUqlByqpQjQRNav1H19SbBg,25.0709807,121.4934757,5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區正義北路364巷16號
+1931,頂好Wellcome超市-三重慈愛店,ChIJk2IKRtaoQjQRHBf8nWPIQIk,25.07967,121.4894188,4.1,371,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區溪尾街125號1
+1932,美廉社三重慈愛店,ChIJEf5j0tCoQjQRzS8kJIGVa9Y,25.0789088,121.4856897,3.9,65,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區慈愛街45號
+1933,頂好Wellcome超市-三重4店,ChIJwS6EvympQjQR2GT9dncCZqI,25.0790994,121.4927192,3.8,77,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區仁愛街293號
+1934,全聯福利中心 三重仁愛店,ChIJ4cSawSmpQjQRrBd24sw0VOI,25.0792014,121.4923351,3.9,611,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","三重區仁愛街278,286號"
+1935,松青商業股份有限公司,ChIJrWfbLdSoQjQRhYliiH6Q2mo,25.0819944,121.4881439,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",臺灣省新北市 三重區溪尾街255巷6號1樓
+1936,日川雜糧行,ChIJ15lsRdqoQjQRjX2EfkUI8D0,25.0752872,121.4835814,4,6,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區車路頭街136巷10號
+1937,頂好Wellcome超市,ChIJ4Zn8PNuoQjQR4ee9flH8d4I,25.0742899,121.4809909,3.9,167,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區永福街245號
+1938,美廉社 三重永福三店,ChIJw_GfSdqoQjQRriosxrvnVxk,25.074863,121.484004,3.9,32,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區永福街254號
+1939,美廉社-三重下竹圍店,ChIJAcSpw9qoQjQRKGiMtHnKWJM,25.0759629,121.481115,3.9,27,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區下竹圍街9號
+1942,全聯福利中心Pxmart 三重永福,ChIJXTujm1ypQjQRff9zIrS23IA,25.0786336,121.4824699,4.1,446,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區三和路四段380號B1
+1950,頂好Wellcome超市-蘆洲四店,ChIJy7-BldKoQjQRXCKurv-D5D0,25.0870486,121.481138,3.9,125,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區中興街34、36號
+1951,全聯福利中心蘆洲重陽店,ChIJwYSW9NGoQjQRvN1z-rBcmHI,25.0827782,121.4815935,4.1,853,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區重陽街46號1樓
+1959,新鮮購實體店舖壹店,ChIJU4Mk9MSoQjQRXy-pJ66G1rA,25.0750833,121.4771377,5,14,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區永安北路一段11巷18弄4號
+1960,新鮮購實體店舖貳店,ChIJU4Mk9MSoQjQRNmSjoCMFNVM,25.075002,121.477283,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",三重區永安北路一段11巷18弄4-2號
+1961,蘆農樂活館,ChIJKfevIs-oQjQRHchhCqgZjnw,25.0811169,121.4755696,4.1,75,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區中山一路135巷6弄
+1963,頂好Wellcome超市,ChIJXcTlvM6oQjQRYaOS6miQzns,25.0837794,121.4753677,3.9,548,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區三民路54號
+1964,全聯福利中心Pxmart 蘆洲民權店,ChIJQS2JyM2oQjQRVNFTM64ohIA,25.0850474,121.4777242,3.9,354,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區民族路31號1F
+1967,郁茹蔬果店,ChIJAYuUJ8moQjQRbp6taBxfE2U,25.082324,121.473369,4.7,3,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 72, 中山二路, 蘆洲區"
+1968,三富鮮魚,ChIJG4uQQ8moQjQRH2lScccDdEw,25.0841489,121.473349,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區中央路58號
+1969,豬肉攤,ChIJn-n5H8moQjQRSZzW4fdAkL8,25.0824436,121.4727372,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區中央路9巷30號
+1973,美廉社蘆洲民族店,ChIJXUYlzjKvQjQRUVbk9UVIuY4,25.0895828,121.4778547,4,37,"['supermarket', 'convenience_store', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區民族路217號
+1977,全聯福利中心 蘆洲中山店,ChIJ8-xPvMioQjQRXdc5-1Ptud8,25.0804162,121.4728375,3.9,324,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區中山一路228號
+1984,舜伯愛生鮮,ChIJaYf3a8moQjQRuKyibHkWezY,25.0840272,121.4724366,4.5,48,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區中央路99號
+1986,法蘭克肉舖子 蘆洲國小店,ChIJMwNjtMmpQjQReBoe1l5T8hA,25.0837613,121.4699026,4.8,167,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區中正路87號
+1989,全聯福利中心,ChIJt0ln1cuoQjQRsDLJaMLPbvA,25.085392,121.4714508,4,442,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區忠孝路23號
+1993,全聯福利中心 蘆洲民族店,ChIJq0NcxMqoQjQRN1USVJMp3rU,25.0900083,121.4704097,4.1,711,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區水湳街74號
+1994,蘆洲當鋪-世全當鋪,ChIJ_7xzWcqoQjQRw1Bsy_j3EOU,25.0878925,121.4705994,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區三民路144號
+2003,美廉社 蘆洲仁愛二店,ChIJI_KWlDWvQjQRyVZ4n-_TjD0,25.0949874,121.4696015,4.2,41,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 2, 仁愛街118巷, 蘆洲區"
+2004,五一八生活百貨,ChIJpao2-rSoQjQR2BzB2f8Guik,25.0899119,121.465056,4.1,741,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區中正路357號
+2008,全聯福利中心Pxmart 永樂,ChIJV-Ehsx6pQjQRIGwzFELGeSM,25.0904,121.4583371,4.2,399,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區永樂街38巷57弄2號
+2009,活菌豬肉類產品（嘉一香食品）,ChIJwWQgvRWpQjQRl1RWKiyg4Nw,25.091083,121.4625642,4.3,6,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區長樂路170號
+2011,惠康百貨股份有限公司,ChIJcx-agbGoQjQRdwoJ0Fgg8f0,25.087838,121.459762,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區長榮路386號1樓
+2012,頂好Wellcome超市,ChIJua36nLGoQjQRpS19Yvc1FPw,25.0874674,121.4597809,4.1,105,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 342-344, 長榮路, 蘆洲區"
+2013,美廉社蘆洲永平店,ChIJs8CX3rKoQjQR03BeCZ2_M58,25.0922248,121.4594276,4,29,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",蘆洲區永平街32巷35號
+2018,美廉社 土城福安店,ChIJzz4Zg-gcaDQRFkkptUgI_fw,24.9646839,121.4192943,4,59,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區福安街33號
+2019,全聯福利中心,ChIJqV8uVuwcaDQRcFmrU8lsGkY,24.9580317,121.4152981,4.3,247,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區中州路28巷30號2樓
+2020,全聯福利中心Pxmart 土城中州,ChIJHcej4_MdaDQRpAIPZQTMtoM,24.9580303,121.4152947,3.7,3,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區中州路28巷30號1樓
+2021,美廉社 土城中央店,ChIJv99h9qgdaDQRtU--LcCBQ40,24.9563818,121.4140539,4.3,12,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區中央路四段296號
+2024,大潤發土城店,ChIJOeDth9ocaDQRfTvJYSoNscw,24.963806,121.433688,4.1,6605,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區永安街25號
+2025,美廉社 土城中正店,ChIJ5boImSwdaDQR0_GFcAbl36I,24.975514,121.443963,3.9,32,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區中正路45號
+2026,家樂福超市土城日月光店Carrefour Market Tu Cheng We Mall Store,ChIJgbjs2fIdaDQRU9p-WK1lt4o,24.9787201,121.4451146,4,162,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","B2, No. 210號, 學府路二段, 土城區"
+2027,美廉社-土城員林店,ChIJA384xIgdaDQR3EDgDGOa3D4,24.977541,121.443402,4.1,20,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區員林街18號
+2028,便利購 market,ChIJPQbqJQsdaDQRQBY47TrQHIs,24.978474,121.4443704,4,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區員林里
+2029,家樂福超市土城中央店Carrefour Market Tu Cheng Zhong Yang,ChIJ34AjXIUdaDQR2ajGbfBLngA,24.975535,121.442173,4.1,206,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區中央路二段191號B1
+2030,美廉社 土城中央二店,ChIJkfcy5ysdaDQRJUDlzAZfAIw,24.9748848,121.4401963,4,41,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 8, 中央路二段278巷, 土城區"
+2032,自由聯盟土城店,ChIJh_4L-CsdaDQRARRchOgt6Gc,24.9759549,121.440683,4.2,50,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區水源街46號
+2033,Toko Indo Bunda Mita,ChIJ73zMBywdaDQR_gXjsQnhAus,24.9759864,121.4405537,4.1,12,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","No.48, 水源街, Tucheng Dist"
+2044,頂好超市 (土城一),ChIJz1q2QL8CaDQR9D8_KDVMvPs,24.9858543,121.4532396,3.8,428,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區學府路一段157，161號
+2045,全聯福利中心土城裕民,ChIJF2Yx1MsCaDQRs-FXyN5CZ9Q,24.98649,121.4510523,3.8,223,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區裕民路116號
+2046,萊爾富,ChIJnyZuG8oCaDQRebmr_APM4zE,24.9887339,121.4509484,5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 1, 學成路78巷, 土城區"
+2047,美聯社土城裕民店,ChIJ280SRMoCaDQRMAXuVvLwHe4,24.9879664,121.449458,4,24,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區裕民路67巷2號
+2048,慧康便利商店,ChIJ6UOO97UCaDQR4MQazN5KpyU,24.9895551,121.4506184,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 2, 學成路94巷9弄, 土城區"
+2049,22King即期良品-土城店,ChIJeX7zAckCaDQRnUJJ2-pcxXc,24.9847384,121.4520171,4.1,133,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區學府路一段197號
+2050,祥壹水果行,ChIJgwQaA8sCaDQRoa9nKfruaXs,24.9871855,121.4478735,3.8,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區裕生路32號
+2051,一元脆皮烤鴨,ChIJV-S4D8sCaDQRbRoaT0BPQQ8,24.9865785,121.4479636,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區裕生路47號
+2052,馥滿餡餃子,ChIJR8BxDssCaDQRDRStu2qiJaM,24.986479,121.447894,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區裕生路51號
+2053,無名菜攤,ChIJfZIurhkDaDQR5hY6gQpeg04,24.987538,121.4472066,5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區中央路一段143巷6號
+2054,美廉社-土城廣興店,ChIJg6in-LYCaDQRfQWgADDw5bo,24.9913261,121.4537695,4.2,62,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區廣興街75號
+2055,源進商店,ChIJTZ4EHsgCaDQR7IlVQmHon4I,24.9881361,121.4559351,3.7,3,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 4, 學府路一段98巷, 土城區"
+2057,全聯福利中心 土城海山店,ChIJh5rRY8wCaDQRy9xa45AvCRI,24.983586,121.448679,4.2,639,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區明德路二段60號
+2059,美廉社 土城學士店,ChIJBZdDxs4CaDQRW_6C-ihRjAw,24.9827339,121.4529066,4.3,26,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","號, No. 2, 學士路24巷, 土城區"
+2061,景品選物販賣機-旗艦店,ChIJG0YfAw8DaDQRCteGXb-YY8k,24.9833559,121.4469957,4.2,5,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",土城區明德路二段195號
+2089,美廉社 (板橋貴興店),ChIJWRFV-KUCaDQR_RKK9zEZ9Uk,25.0033023,121.4571647,3.9,122,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區貴興路50號
+2090,川品鱻魚店,ChIJLW6K1icDaDQRX_FZcYNwDN8,25.0006858,121.4586073,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區四川路一段290號
+2091,全聯福利中心（亞東捷運門市）,ChIJfQkAnbECaDQRo8z4BgR85S4,24.997451,121.4519951,3.8,239,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區南雅南路二段122之23號1樓
+2093,美廉社-板橋四川店,ChIJEZmbc7QCaDQRl-H9WtkJigs,24.9945414,121.4496975,4.3,60,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區四川路二段130巷34號
+2095,全聯福利中心Pxmart 板橋合宜,ChIJjYI-uR8DaDQR9CMysUhekn8,24.9975804,121.447012,4.1,146,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區合宜路69號號1樓
+2097,美廉社,ChIJX9iGVa0CaDQRHMgHZFUAwAU,25.0011486,121.4459433,4.2,86,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區大觀路二段135號
+2102,板農活力超市,ChIJz0oMYh2oQjQRmMzqJ2Lif7Y,25.008406,121.458662,4.2,288,"['supermarket', 'grocery_or_supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']",板橋區府中路29-1號B1
+2103,Jasons Market Place 新北板橋店,ChIJsfxHYhqoQjQRU8U_MGtICTE,25.011045,121.4644993,3.9,80,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區中山路一段152號B1
+2104,鄭哥水果,ChIJU1xAxB2oQjQRqgmyFKW_AMA,25.0097548,121.4619463,3.7,83,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區民族路21-1號
+2105,Enny,ChIJ6beynx2oQjQR7gIJLhabBA0,25.0095944,121.4600297,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區縣民大道一段
+2106,7-11府運門市,ChIJOcmnZqcCaDQRuQBM0Xl9ApY,25.007806,121.460924,4,86,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區重慶路18號20號1樓
+2107,板橋農會超市,ChIJK6X5oUqpQjQRueXPJfsYWkc,25.0087143,121.4588792,4,125,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區府中路29號B1(地下1樓
+2108,全聯福利中心Pxmart 板橋區運,ChIJiTiB62ipQjQRszKqbpf4c2E,25.009734,121.4655911,4.4,143,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區區運路32號B1
+2109,法蘭克肉舖子 板橋重慶店,ChIJWwSlnHUDaDQRtGYVzmSSJ3E,25.006957,121.4617622,4.8,280,"['supermarket', 'grocery_or_supermarket', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment']",板橋區重慶路60號
+2110,全聯福利中心 板橋公館店,ChIJAyTmlhuoQjQRz5SPD2BorCY,25.0145142,121.4607017,4.1,572,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區文化路一段101巷13號B1
+2111,全聯福利中心 板橋重慶門市,ChIJTdqtPqcCaDQRjkP1xStK0b8,25.0065404,121.4615562,4.1,634,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區重慶路66號號B1
+2112,安永鮮物板橋店,ChIJSVnbIj-pQjQRl4I7Ig5Tw40,25.0143985,121.4634922,3.3,31,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區縣民大道二段7號B1
+2114,美廉社板橋實踐店,ChIJ50IK-qACaDQRcG0mpKsWxnM,25.0052269,121.465182,4.2,78,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區實踐路93巷26號
+2123,佑昇肉鬆店,ChIJOVxTa6gCaDQRTxma8mgIHxg,25.0074825,121.4560797,4.5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區中興路19號
+2124,金田青果行,ChIJV1VF-qgCaDQRSdIhnlDDnks,25.0065539,121.4547684,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區中興路104號號
+2126,家樂福便利購 府中店,ChIJ7_R1KKgCaDQRnrPdCjOg5LE,25.0095635,121.4552233,4.1,1576,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","1樓, No. 126號, 府中路, 板橋區"
+2131,台灣主婦聯盟生活消費合作社板橋站,ChIJewXU7wKoQjQRE0AfuVyc4oo,25.0115012,121.4549921,4.5,47,"['store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'establishment']",板橋區中正路1巷22號
+2132,美廉社-板橋大智店,ChIJS3ljngSoQjQRbJ6DaJo88d8,25.014991,121.455314,3.8,91,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區大智街32號
+2134,全聯福利中心 板橋中正店,ChIJ21Cz8QKoQjQRBQR-hRebbYE,25.0114856,121.4547411,4.1,302,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區中正路1巷28號
+2135,阿芬水果,ChIJ6URyMx2oQjQRDLK5jLepFMo,25.0123963,121.4566839,5,12,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區公館街1號黃石中繼市場
+2151,樂鮮良房-CITY ‘ SUPER大遠百店,ChIJfQ_A0x2pQjQRudMqhQQ3Mic,25.013651,121.466765,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區新站路28號B1
+2152,City’Super 板橋大遠百店,ChIJwz1P6RioQjQRiHqV5Pe5qCo,25.013651,121.466765,4.2,880,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區新站路28號B1
+2154,美廉社-板橋漢生西店,ChIJrVSDthCoQjQRzb926JdXi5k,25.0196156,121.4623795,3.7,35,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區漢生西路89巷6號
+2161,比菲多經銷商,ChIJDciygMipQjQRnAEeBWvT5uw,25.0084239,121.4675063,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區民族路129巷19-1號
+2173,全聯福利中心 (板橋國光),ChIJGRACwBqoQjQRp3NUfsEQ4Ag,25.0180093,121.4585851,4,528,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區國光路57號號地下1樓
+2174,金振利雜糧行,ChIJN3pT5BqoQjQRUUlnaNA0gBo,25.0171098,121.4589932,3.9,8,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區建國街62號
+2175,美廉社,ChIJ8_Vk4-KpQjQRpn5xOVH-b7c,25.0175626,121.4599383,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區建國街101號
+2176,美廉社-板橋建國店,ChIJg7B5XxqoQjQRZbUiiaZTT_Q,25.0175626,121.4599383,4.4,26,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區建國街101號
+2180,幸福漁貨,ChIJb7dewBCoQjQRC6BzEqmtflY,25.0201258,121.4614932,5,3,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區漢生西路89巷2弄35號
+2186,全聯福利中心(板橋江子翠),ChIJK5aS20CoQjQRaveK5UhS_cw,25.0291714,121.4729493,4,321,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區雙十路二段209號B1
+2187,全聯福利中心 板橋新埔店,ChIJGek8chWoQjQRyNCxxsWem_A,25.0256389,121.4674333,4.1,305,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","b1, No. 61號, 光武街, 板橋區"
+2188,美廉社 板橋民生店,ChIJ10Vxdj6oQjQRRy8VEsuvggs,25.0220605,121.4702904,4.3,34,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區民生路二段226巷17弄3號
+2189,美廉社 板橋莒光店,ChIJLUq04T6oQjQRQSh_PoQwHdU,25.0240944,121.4725657,4.3,33,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區莒光路101號
+2190,全聯福利中心 板橋莒光店,ChIJH6pXFT6oQjQR25Z3FvGqkJo,25.0226671,121.4742933,4.1,495,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區莒光路219號
+2191,黃大鮮板橋店,ChIJAZXOWxmpQjQRooECZ-ZXkC8,25.026221,121.4691029,4.7,39,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區松江街5號
+2192,全聯福利中心-新埔捷運店,ChIJo2UezPqpQjQRWi76trvVDBQ,25.0233927,121.4697626,3.9,362,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區文化路一段360號
+2193,松青商業股份有限公司,ChIJE-39IT6oQjQRf3gRGxveufM,25.0236277,121.4687999,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",臺灣省新北市 板橋區文化路一段360號B1樓
+2194,家樂福超市板橋文化店Carrefour Market Pan Chiao Wen Hua Store,ChIJGZMGA0GoQjQRYGxsO0F1sKg,25.0297328,121.4718813,4.1,469,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區文化路二段313號B1
+2197,美廉社 板橋莊敬三店,ChIJZeQoLjyoQjQRrfhagnWWl-k,25.0208364,121.4715652,4.4,46,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區莊敬路220巷60號
+2198,美廉社板橋文化店,ChIJ8Xkkfj2oQjQRM27KRjXZmos,25.019574,121.468561,4.1,49,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區文化路一段188巷9弄21號
+2202,美廉社 板橋莊敬二店,ChIJY4S3UjmoQjQReOXpr6gcTpU,25.0216144,121.4742253,4,24,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區莊敬路260號
+2203,新北文化,ChIJbaniTxaoQjQRON3GKUgvhQo,25.020844,121.466329,2,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區文化路一段333號號 3 樓 之 1 號
+2206,致理未來超市｜剩食 有機超市,ChIJS-JdOhyoQjQR8ooBuJf_2Q4,25.0210015,121.4651979,5,12,"['convenience_store', 'supermarket', 'grocery_or_supermarket', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",板橋區文化路一段313號
+2207,國防部福利站(板橋站),ChIJCS3n_BaoQjQRdratI3b43qA,25.020723,121.464998,4,202,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",新北市板橋區文化路一段311之1號
+2213,頂好Wellcome超市-四維二店,ChIJtSn-vBSoQjQRdC5FE5GCZXI,25.0276472,121.4634944,3.9,498,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區四維路247號
+2214,庭安蔬果,ChIJLeR5S_ypQjQRw5oSPbOb2gs,25.0256874,121.4648289,4,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","1樓, No. 155號, 四維路, 板橋區"
+2217,大福慧素食批發,ChIJ74i5F5qpQjQRUMmgp3xOr2c,25.028018,121.462102,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區四維路269巷24號
+2218,全聯福利中心 雨農店,ChIJPbIgYBGoQjQRzyda1F-s0yc,25.0238693,121.4613179,4.1,1047,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區雨農路27巷2號
+2230,全聯福利中心Pxmart 文聖,ChIJfa1fSjepQjQRoConHj4mmh0,25.0304976,121.4773092,4.2,617,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","1+2樓, No. 73號, 文聖街, 板橋區"
+2231,全聯福利中心 板橋江寧店,ChIJsWsxg0GoQjQRKJwX39sCT54,25.031731,121.4710917,4,340,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區江寧路三段29號1樓
+2232,美廉社板橋民治店,ChIJB95bhEWoQjQR0HdGVq3SqZM,25.0326336,121.4794397,3.9,67,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區民治街72號
+2233,美廉社 板橋仁化店,ChIJXZJNH0SoQjQR4vb5Aje6r9Q,25.0317462,121.4755509,4.1,33,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區仁化街54號
+2234,廚具水電維修中心,ChIJTxiQkkOoQjQRLIMHu54ykTk,25.033278,121.473419,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區江寧路三段125號
+2235,美廉社-板橋文化二店,ChIJw5HchUOoQjQRoSU8SKjfnLU,25.0338324,121.4737892,3.8,34,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區文化路二段417巷40號
+2236,一和商店,ChIJl_3mu0WoQjQRHjiZxLc4zvw,25.032434,121.478032,4.1,21,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區民治街52巷48號
+2237,板橋青翠市場,ChIJs9JY7EWoQjQRZb0i6OiKh7g,25.0316871,121.4789354,4,119,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區民治街96巷
+2238,純米肉鋪,ChIJNQJFCUGoQjQRstXjLxjp9tE,25.030713,121.471493,4.9,13,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區雙十路三段20-1號
+2241,大潤發便利店 雙十店,ChIJhdmuEkeoQjQR09zmdX8GGzw,25.0272109,121.4763113,4.1,57,"['supermarket', 'convenience_store', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區雙十路二段No.26號
+2243,美廉社 板橋大同店,ChIJ90per0eoQjQRSfbCmhif2fM,25.02757,121.477479,4.5,37,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",板橋區大同街35巷9號
+2244,TOKO INDONESIA Indosan BANQIAO 印尼店,ChIJ36TygjioQjQR_oKvbY3h1es,25.0256763,121.4763866,3.8,5,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","No. 10, 雙十路二段33巷, 板橋區"
+2275,本地黑豬肉,ChIJEVBdsaipQjQRQ6wB9Qzs15U,25.0361585,121.5017563,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",萬華區三水街101之3號之
+2278,OPEN! STORE,ChIJLYjgQT6pQjQRs2Lcuf72L3A,25.0354581,121.4995797,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",萬華區西園路一段153號
+2279,全聯福利中心Pxmart 萬華雙園,ChIJXyUcq66pQjQR6sQo4cAM4eM,25.0320371,121.5021439,3.9,314,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",萬華區興寧街2號1.2樓
+2280,全聯福利中心台北西藏門市,ChIJHXVPcbCpQjQRB0wesaumNyg,25.0286753,121.5023786,4.1,731,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",萬華區西藏路125巷9號
+2287,全聯福利中心Pxmart 龍山店,ChIJa6K9aW6pQjQRYMhQna7EW6k,25.0368934,121.4964795,3.8,547,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",萬華區廣州街263號
+2288,頂好Wellcome超市,ChIJ-9Nkh66pQjQRCtHCs5RTbzU,25.0341599,121.497519,3.8,212,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",萬華區大理街114號
+2290,美廉社萬華大理店,ChIJu2Wl97WpQjQRjrpyioHYluo,25.033907,121.494421,3.6,95,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",萬華區大理街181號1樓
+2294,正林五金行,ChIJ9TxQlampQjQRIua3lljsD3k,25.040517,121.498416,4.2,6,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",萬華區環河南路一段338號號
+2407,全聯福利中心 大安延吉門市,ChIJp9_kAsSrQjQRrx9TdrISpuQ,25.0441119,121.5539481,4.2,1311,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區市民大道四段190號
+2413,東京小舗 日本食品専賣店,ChIJkZuA2ourQjQRdPcYJw3WZEE,25.0393492,121.5527005,-,-,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",大安區忠孝東路四段216巷40弄No. 6號
+2450,美廉社信義永吉店,ChIJ9R_A17yrQjQRsCKdh9D1W8c,25.043375,121.570626,4.2,76,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區永吉路180巷66弄24號
+2451,全聯福利中心Pxmart 信義松興,ChIJ-eyvRbyrQjQR-hNJJZ2AOTQ,25.0432852,121.5675072,4,695,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區松隆路36號
+2452,全家便利商店,ChIJmT_CORirQjQRZAIqxF9mxm0,25.0430606,121.5686593,5,1,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區永吉路30巷118號
+2453,美聯社,ChIJIyDA17yrQjQR2KrWKs5npJA,25.043375,121.5706261,4,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區永吉路180巷66弄24號號
+2454,新光三越信義 A4 - B2 超市,ChIJj9UJtrurQjQROdUKTO60FJE,25.0396922,121.5664837,3.8,12,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區松高路19號
+2466,阿留申生魚片,ChIJswBkjaGrQjQRaB9icU9LhEU,25.0430691,121.5775774,4.6,71,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區松山路294號
+2467,全聯福利中心 信義林口店,ChIJ5Uhn8aCrQjQRSU9yyezT-Hg,25.040623,121.58086,4.1,846,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區林口街176號
+2470,廣興農產 永春分店,ChIJE9AV8qGrQjQRiWvhiOomuDk,25.043404,121.57759,4.8,4,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區松山路292巷15號
+2471,美聯社,ChIJzxc-x1yrQjQRVzlHjJuSc2U,25.040623,121.57966,2.5,2,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區忠孝東路五段524巷12號
+2474,美廉社-信義忠孝東店,ChIJDW1PdaOrQjQRlYonYW5q_kA,25.0418894,121.5739964,4.1,30,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",信義區忠孝東路五段345巷10號
+2501,全家便利商店 FamilyMart 新成鑫店,ChIJTeOtFXWrQjQRQ7D_V71ZJ9Y,25.0443493,121.5843134,4,182,"['convenience_store', 'supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",南港區玉成街176巷1號
+2505,頂好Wellcome超市,ChIJC1LPpgyrQjQRw1YM4XXc5Ow,25.0408894,121.58863,3.9,288,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",南港區成福路183號
+2522,美廉社南港東明店,ChIJc858gWCrQjQRn-7nMwQoSwQ,25.0560407,121.6053436,3.8,101,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",南港區東明街9號
+2523,咖樂迪咖啡農場(KALDI COFFEE FARM) CITY LINK南港店,ChIJqXw9lIerQjQRcdMtUBBFjVU,25.0525582,121.604518,4.6,19,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']","C棟2F No. 369號, 忠孝東路七段, 南港區"
+2524,頂好Wellcome超市-東明店,ChIJvR7dqGarQjQRJVV9wZwJkgM,25.0546487,121.6008998,4,242,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']",南港區東明街99號

@@ -1,0 +1,359 @@
+﻿,Place Name,Place ID,Latitude,Longitude,Rating,Rate_amount,Types,Address
+0,巨林美而美早餐店,ChIJpx0LZh-pQjQRNWs1_BtmK2c,25.0632587,121.4952563,4.1,27,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 55, Datong North Road, Sanchong District"
+2,美而美,ChIJ1e8ciR6pQjQRT9Kx_7qrBlo,25.0595827,121.4944053,3.3,4,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 217, Guangxing Street, Sanchong District"
+3,Hong Ya Hamburger,ChIJH7ls5eOoQjQRqYddls11f0s,25.060029,121.486437,3.9,52,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區重陽路一段118號
+4,Laya Burger,ChIJ3fGpCeOoQjQRmH2mdjkHPFI,25.0574716,121.4877404,4.2,49,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 51, Section 4, Chongxin Road, Sanchong District"
+5,呷尚寶,ChIJQ9PP8-OoQjQRXApAUrcYtU4,25.0596522,121.4861083,3.7,52,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 7, Lane 13, Sanyang Road, Sanchong District"
+6,拉亞漢堡 三重集美店,ChIJZw5NHv2oQjQR8B5ECbEpuVY,25.0535717,121.488535,3.9,172,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區集美街81號
+7,龍鳳美而美,ChIJjU892PyoQjQRvY6Tee4oX_4,25.054145,121.48837,4.2,23,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 63號, Jimei Street, Sanchong District"
+11,呷尚寶二重店,ChIJL3M6b1-oQjQRlvEkGXIZBak,25.0472634,121.4721291,4.3,118,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 13, 光復路一段, 三重區"
+12,拉亞漢堡 三重光復,ChIJmc6NCeipQjQRrUe82wyeNNQ,25.0474264,121.4720066,3.6,88,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區光復路一段32號
+13,麥味登,ChIJgTZPY16oQjQRc2VBvAxEXjw,25.043702,121.471035,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",臺灣省中和區成功南路72號
+14,美而美,ChIJuQsFyl-oQjQRhYo5llT5mF0,25.0462113,121.4698671,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 9, Zhongxing North Street, Sanchong District"
+17,麥味登早餐店福興店,ChIJTdQh-W-oQjQRaIk8p-2v--I,25.040697,121.4574903,4.1,74,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區公園路238號
+18,瑞麟美而美,ChIJ5TV1SHCoQjQRKEGl2zuOM9s,25.0393343,121.4556347,5,3,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區中港路88號
+20,JSP呷尚宝(永寧店),ChIJ7xiDq3CoQjQRzB2sygGnVA8,25.0400618,121.453127,3.4,58,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 146號, Gongyuan Road, Xinzhuang District"
+21,麥味登文衡店,ChIJkVtn33SoQjQRuJGOzCM_LZU,25.0334463,121.448501,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區新莊路406號
+22,呷尚寶,ChIJDaHkoXaoQjQRBgYejbo6n7M,25.0376262,121.4499264,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+23,JSP 呷尚寶早餐店,ChIJswXgoXaoQjQRNU_FFJmV85I,25.0375959,121.4499052,3.8,80,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 2, 建中街, 新莊區"
+28,瑞麟美而美 後港一店,ChIJr3buYvKnQjQR-haNWhBjAC4,25.0263033,121.4257312,4.1,13,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區後港一路43號
+30,呷尚寶新富國店,ChIJaeh6N4ynQjQRLsXXlMWHZvQ,25.0260177,121.4184892,4.5,65,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區富國路22巷3號
+31,富國美而美,ChIJKf-xSoynQjQRmUmGuqH5nSc,25.0260175,121.4184902,5,10,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 22巷1號, Fuguo Road, Xinzhuang District"
+32,美而美早餐店,ChIJVzcmfc6nQjQRGBEurP1hrIM,25.0258231,121.4145275,4.1,10,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區天泉二街26巷1號
+33,瑞麟美而美,ChIJoRyv_YinQjQRNn0mz1NlzOo,25.0223301,121.4139295,2.8,13,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區中正路新建巷16弄2號
+35,龍鳳美而美,ChIJRzCi_YinQjQRwfZHqJvnUrw,25.0222626,121.4141502,4.1,93,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區中正路新建巷17號
+36,麥味登龍安店,ChIJrygNEHmnQjQREoj3EHfL7Qk,25.0214346,121.4147074,4,7,"['restaurant', 'food', 'point_of_interest', 'establishment']",新莊區中正路新建巷55號
+41,瑞麟美而美-文化北店,ChIJT2ZO9iOpQjQRqNZzRC8jmJA,25.068236,121.4980519,3.4,8,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 101號, Wenhua North Road, Sanchong District"
+43,麥味登三重三和店,ChIJzxNV-9aoQjQRo3UWfYpqQNo,25.0792129,121.487756,4.4,26,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區三和路四段145巷153號
+44,美而美早餐店,ChIJN4jcTtaoQjQR3uUwO4LPo3s,25.0789396,121.4894631,3.5,17,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區溪尾街108巷1號
+45,瑞麟美而美,ChIJtyWyctaoQjQRoOT_aVrjoKY,25.0804164,121.4898698,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+47,Lohas Time 早餐店 (原麥味登),ChIJJWNVztmoQjQRqEdQE95KVQM,25.0753514,121.4879351,3.7,98,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區自強路三段101號
+48,麥味登車路頭店,ChIJmWkYtvepQjQRC5ko1Bpko64,25.074143,121.484589,4.3,108,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區車路頭街87號
+53,麥味登-三重仁愛旗艦店,ChIJlxFcrNGoQjQRBHp2wsSwKwI,25.0803514,121.4822855,3.7,53,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區仁愛街660號
+54,美而美早餐,ChIJtSjc4s-oQjQRUzgTczBgMbo,25.0788414,121.4797419,3.9,36,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區三和路四段396巷43號
+55,極堡美而美,ChIJrxu_a82pQjQRBuFSpN4TWZw,25.082633,121.4774709,4.9,10,"['restaurant', 'food', 'point_of_interest', 'establishment']",蘆洲區鷺江街59號
+56,JSP呷尚寶中西式早餐店 ─ 蘆洲鷺江店,ChIJt4SIYc6oQjQR8nRhKOvkeLk,25.083009,121.477171,3.8,48,"['restaurant', 'food', 'point_of_interest', 'establishment']",蘆洲區三民路26巷35號
+58,上林美而美,ChIJYxvBjM6oQjQRrnEJnZk-kZU,25.0828987,121.4765799,4,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 11, Lane 26, Sanmin Road, Luzhou District"
+59,麥味登鷺江99店,ChIJf2Y_2XipQjQRmnyLpGChbr4,25.0839798,121.4767803,4.2,34,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 99號, Lujiang Street, Luzhou District"
+60,瑞麟美而美,ChIJ7fnzK8yoQjQREnMWFlZkvak,25.0843043,121.4766175,5,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 38, Minzu Road, Luzhou District"
+62,拉亞漢堡 蘆洲鷺江（鷺江國小旁）,ChIJh-MoRcyoQjQRrBlF1H-CZD8,25.0862224,121.4761268,4.3,192,"['restaurant', 'food', 'point_of_interest', 'establishment']",蘆洲區民權路23號
+63,麥香美而美,ChIJU_NB-8yoQjQRAAvCZXzs99E,25.0873868,121.4766133,4,21,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 128, Fuxing Road, Luzhou District"
+71,弘爺漢堡 蘆洲水湳店,ChIJeWGH89mpQjQRJYrXudIJt80,25.0886087,121.4726248,3.3,51,"['restaurant', 'food', 'point_of_interest', 'establishment']","1樓, No. 16號, Shuihu Street, Luzhou District"
+72,巨林美而美,ChIJpSt1a8uoQjQRktwkuad06bk,25.0891872,121.4722652,4.2,39,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 46號, Minyi Street, Luzhou District"
+76,上林美而美,ChIJ3Z5zebWoQjQR9HJqzbcHBKg,25.0889608,121.4680603,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",蘆洲區民族路433號
+77,麥味登速食,ChIJ_3up67WoQjQRkH3Hm1M1WdY,25.0874992,121.4672445,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+78,呷尚寶蘆洲快樂店,ChIJdwJi3LOoQjQRzsKMTjITuU8,25.0883039,121.4610393,4.3,118,"['restaurant', 'food', 'point_of_interest', 'establishment']",蘆洲區光榮路40號
+79,金盃美而美 蘆洲光榮店,ChIJ22ul1rOoQjQRfzr8V5dADQM,25.0882689,121.4602964,4.5,46,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 18號, Guangrong Road, Luzhou District"
+80,瑞麟美而美,ChIJy6P2ykyvQjQRPJmteFnsfXA,25.0932347,121.4612043,4.6,10,"['restaurant', 'food', 'point_of_interest', 'establishment']",蘆洲區長榮路713號
+82,拉亞漢堡 土城永寧,ChIJL3IvrnEdaDQR64cvZtQpmxM,24.9676802,121.4370044,3.5,11,"['restaurant', 'food', 'point_of_interest', 'establishment']",土城區中央路三段54號
+84,拉亞漢堡,ChIJyfP-8dUcaDQRU_p4M8PkCRM,24.9698606,121.4411558,3,104,"['restaurant', 'food', 'point_of_interest', 'establishment']",土城區金城路一段49號
+85,呷尚寶,ChIJnRQY8tUcaDQRiOI4CIQq6WM,24.9698299,121.441015,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",土城區千歲路13號
+86,瑞麟美而美-土城光明店,ChIJIWDjlisdaDQRQ3c6LwF0R_o,24.974415,121.441846,3.8,5,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 4號, Guangming Street, Tucheng District"
+88,麥味登(土城太陽店),ChIJO2wzEX4daDQR6JMDCx5wWZE,24.9740622,121.4420444,3.6,66,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 22號, Guangming Street, Tucheng District"
+89,美而美早餐店,ChIJlfAVnysdaDQRa5Bfq7oj1GY,24.9741846,121.4426492,5,4,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","No. 10-1, 北87鄉道, Tucheng District"
+90,巨林美而美,ChIJAdCJBiwdaDQR6zBOS8fXOBU,24.9761365,121.440437,4,4,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+92,美而美,ChIJ2_yAk8kCaDQR5fOVQNecOJ8,24.9874812,121.4523923,3.7,3,"['restaurant', 'food', 'point_of_interest', 'establishment']","Xuecheng Road, Tucheng District"
+93,美而美漢堡,ChIJcwA7QMwCaDQRbVpKgtFQ8R0,24.982911,121.4497807,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",土城區學府路一段282號
+94,麥味登土城海山店,ChIJJdSrwcwCaDQRAEkZeZodP8o,24.983456,121.4468802,3.5,132,"['restaurant', 'food', 'point_of_interest', 'establishment']",土城區明德路二段199號
+95,美而美,ChIJYQd-STMdaDQRinASkx0vjzo,24.9842324,121.4452699,4.3,37,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 104, 明德路二段, 土城區"
+96,弘爺漢堡 土城中央店,ChIJu1s0odIdaDQRFv0aiI7lm6o,24.9847692,121.4446898,3.8,50,"['restaurant', 'food', 'point_of_interest', 'establishment']",土城區中央路一段273號1樓
+97,巨林美而美,ChIJmeZvMcsCaDQRuEvw0wb5658,24.9869512,121.4460239,4.2,10,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 195, Section 1, Zhongyang Road, Tucheng District"
+99,星誼美而美,ChIJXTA5zDQdaDQRQdDMzs45TTM,24.9870955,121.4453356,4.7,3,"['restaurant', 'food', 'point_of_interest', 'establishment']","Rixin Street, Tucheng District"
+101,麥味登-板橋貴興,ChIJQzgc5cEDaDQRay08Wk8y2kE,25.0025678,121.4559751,3.4,177,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區貴興路109號
+102,呷尚寶早餐（廣川店）,ChIJtx6rf0cDaDQRNOfc7YQ5T7Q,24.9957443,121.4551773,4.6,52,"['restaurant', 'food', 'point_of_interest', 'establishment']",土城區四川路27號
+103,麥味登 板橋亞東店,ChIJbQ_JNLQDaDQRngvytnFwPxU,24.9950429,121.4534671,4.8,12,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 63號, Section 2, Sichuan Road, Banqiao District"
+104,巨林美而美早餐店(板橋-南雅),ChIJ17c_77MCaDQRz8qVgWWHRu4,24.99563,121.4505296,4.4,20,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區南雅南路二段144巷22號
+106,興隆美而美,ChIJLeyQ4TwDaDQRbhZFipXttcQ,25.0025981,121.4493932,4,16,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區大觀路二段37巷57號
+108,呷尚寶,ChIJ8at10KcCaDQRAFoOsofyAyY,25.0073046,121.4575701,3.5,104,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 86號, Guanqian West Road, Banqiao District"
+109,拉亞漢堡-板橋北門,ChIJK1JvNx2oQjQR_xHRUMr8GdM,25.0105922,121.4577784,4.2,140,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區北門街10號
+110,麥味登 板橋體育館店,ChIJ_-BsJAOoQjQRd8kJUrSXeoc,25.012443,121.45603,3.9,181,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 17號, Zhongzheng Road, Banqiao District"
+111,光正美而美,ChIJ94JajoCpQjQRfHMohBSxC0k,25.0169888,121.4633796,4.8,13,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 2號, Guangzheng Street, Banqiao District"
+112,拉亞漢堡 板橋中山,ChIJMzo1DsSpQjQRujhRmj0fXkg,25.011308,121.466295,3.8,130,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 18號, Lane 158, Section 1, Zhongshan Road, Banqiao District"
+113,拉亞漢堡 板橋新民,ChIJeT5uGeepQjQRYB0MvuDTSdE,25.0101634,121.4640205,3.6,28,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 21號, Xinmin Street, Banqiao District"
+115,巨林美而美,ChIJ6ztDeBuoQjQRmeDSvwhsyt8,25.0143362,121.4597969,4.6,67,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 2號, Alley 4, Lane 202, Minquan Road, Banqiao District"
+118,麥味登 莊敬店,ChIJCx-PiT6oQjQRAsMWBAy-6Ek,25.0225405,121.4713256,3.9,110,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區莊敬路162號
+119,巨林美而美漢堡,ChIJN_JeOzyoQjQR1Bpg9uhl3ic,25.0207815,121.4722772,4.3,6,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 12號, Lane 220, Zhuangjing Road, Banqiao District"
+121,巨仁美而美漢堡店,ChIJDXtVIzyoQjQRVVgOWFeBiok,25.0207991,121.4722879,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 8, Lane 220, Zhuangjing Road, Banqiao District"
+122,Hong Ya Hamburger,ChIJxzTHOzyoQjQRc2P7wMrZFtA,25.0207616,121.47229,3.5,31,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 20號, Lane 220, Zhuangjing Road, Banqiao District"
+123,芳鄰美而美,ChIJ-x-bbBaoQjQRll1vPwfkQL8,25.0205598,121.4656146,4,150,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區文化路一段311號之13號
+124,瑞麟美而美-板橋四維店,ChIJT4POUxSoQjQRrQLfhrkCEIs,25.0252933,121.4653154,3.7,23,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區四維路130號
+126,拉亞漢堡-板橋江翠,ChIJbcXu_D2pQjQRFXmGLOmXIiY,25.0328446,121.4747525,4,105,"['restaurant', 'food', 'point_of_interest', 'establishment']",板橋區文化路二段425號
+127,巨林美而美早餐,ChIJff8z9kSoQjQRRBz9fWMy0Q4,25.0336153,121.4759257,3.7,7,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 526, Section 2, Wenhua Road, Banqiao District"
+129,美而美,ChIJx7KtVEGoQjQR3utKkmO0dwI,25.0313526,121.4741684,2.3,15,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 1, Lane 410, Section 2, Wenhua Road, Banqiao District"
+130,麥味登早餐,ChIJAxaJrEaoQjQRawwPUw1Le30,25.0312173,121.4743325,4.1,10,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 1, Alley 1, Lane 410, Section 2, Wenhua Road, Banqiao District"
+131,麥味登巧聖香店(巧聖香店),ChIJ0ax-VEGoQjQRCiWCQdf832A,25.031384,121.473982,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 6, Lane 410, Section 2, Wenhua Road, Banqiao District"
+132,拉亞漢堡 板橋仁化,ChIJpQccS0SoQjQRRt-1cWmxbCw,25.0325236,121.4768785,4.1,70,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 119, Renhua Street, Banqiao District"
+140,巨林美而美,ChIJBZZssKKpQjQRuOVFwCmTZ5E,25.0385531,121.5013272,2.7,26,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 93號, Guilin Road, Wanhua District"
+142,JSP 呷尚寶,ChIJVZ7NeK-pQjQRL8Jd_o9Ck6s,25.0330832,121.5023963,4.1,134,"['restaurant', 'food', 'point_of_interest', 'establishment']",萬華區艋舺大道118號
+144,皇室美而美,ChIJCfAz7K6pQjQR764yzxQVA9g,25.0346883,121.4987498,3.2,12,"['restaurant', 'food', 'point_of_interest', 'establishment']",萬華區西園路一段244號
+147,拉亞漢堡 北市延平南,ChIJ5YtMKhipQjQRDfbDFDqCubc,25.044736,121.510485,3.8,90,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 57號, Yanping South Road, Zhongzheng District"
+148,瑞麟美而美(武昌店),ChIJpSZUgAupQjQRoFxzydUyEmY,25.0440182,121.5112324,3.6,87,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 50號, Section 1, Wuchang Street, Zhongzheng District"
+150,品味美而美,ChIJR4mBpaepQjQRGu7QBrf4oP0,25.0383421,121.5051178,4.4,52,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 29號, Yongfu Street, Wanhua District"
+151,巨林美而美（西寧店）,ChIJz9CWe6epQjQRup5cPfHDT1M,25.0396832,121.5060739,4.3,34,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 178, 西寧南路, 萬華區"
+156,JSP呷尚寶,ChIJjXW8LGypQjQR6ry_xEXVg30,25.0501393,121.5194226,3.4,80,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 72, Chang'an West Road, Datong District"
+158,Jsp,ChIJk8pf9MCpQjQRINb0-vcA25g,25.0441644,121.5213763,1,1,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區鎮江街2-8號
+159,呷尚寶,ChIJxYx4C3GpQjQRWno5O96aNRM,25.0441128,121.5214417,3.7,65,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區青島東路3號
+162,呷尚寶 紹興店,ChIJ8bsyB3CpQjQRlXvFGge1GlI,25.045637,121.5253425,3.9,7,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區紹興北街10-2號號
+166,拉亞漢堡-北市濟南店,ChIJF9NU9QWpQjQR2LdiItlteV8,25.0406636,121.5305842,4,152,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 45號, Section 2, Jinan Road, Zhongzheng District"
+167,Laya Burger,ChIJf_QUFderQjQRiG_c-xraZDs,25.0410423,121.5411911,3.7,258,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 12號, Lane 248, Section 3, Zhongxiao East Road, Da’an District"
+168,巨林美而美 仁愛店,ChIJQ4kAWWqrQjQRcH3YJ_yo16E,25.0370166,121.56115,4.3,23,"['restaurant', 'food', 'point_of_interest', 'establishment']","一樓, No. 6-1號, 仁愛路四段512巷, 信義區"
+170,My Warm Day Cafe & Brunch,ChIJw5WWBbyrQjQRL2zLbtJ5tDE,25.042287,121.566183,3.8,332,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 12, Lane 147, Section 1, Keelung Road, Xinyi District"
+171,Laya Burger,ChIJMQDjF7yrQjQRPYL59l4p9PY,25.0431325,121.5663117,4.2,49,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 4, Songlong Road, Xinyi District"
+174,麥味登(北市松山門市),ChIJQ0kUxlmrQjQREKYIn9W6_e0,25.044465,121.5779883,3.9,217,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 241號, Songshan Road, Xinyi District"
+175,美而美,ChIJYSp4gqOrQjQREPGCwx-Mll0,25.040435,121.574114,3.9,9,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 86, Lane 132, Hulin Street, Xinyi District"
+176,JSP呷尚寶,ChIJIQGMWKKrQjQR66ZbJI7s6pg,25.0435055,121.574249,3.3,65,"['restaurant', 'food', 'point_of_interest', 'establishment']",信義區永吉路278巷57弄1號
+178,匡林美而美,ChIJsfpm8KKrQjQR3xxTiSdQNeA,25.0434994,121.5735378,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+179,呷尚寶,ChIJgWjR96KrQjQRipduBrF9UVc,25.0434711,121.5740762,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",信義區永吉路278巷53號
+181,瑞麟美而美,ChIJ1ZFAoXWrQjQRTwWwNglbXsg,25.045767,121.5843724,3.2,20,"['restaurant', 'food', 'point_of_interest', 'establishment']",南港區忠孝東路六段70巷26號號
+183,麥味登(北市忠孝店),ChIJc-V6A6GrQjQR1m27bg5WKZg,25.0408319,121.57949,3.7,401,"['restaurant', 'food', 'point_of_interest', 'establishment']",信義區忠孝東路五段524巷6號
+184,弘爺漢堡 - 五分埔,ChIJD1Yu8eirQjQR_GnP3HcSxPo,25.0467952,121.5779992,3.3,32,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區松山路145-1號
+185,美而美,ChIJ5autMZ6rQjQRqCs0yfTQFXs,25.0466023,121.5818108,3.6,8,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 26-3號 50 巷, Zhongpo North Road, Nangang District"
+188,Hong Ya Hamburger,ChIJ2Vi9MXGrQjQRMQDBdudkIZ4,25.0490375,121.5888446,4.2,87,"['restaurant', 'food', 'point_of_interest', 'establishment']",南港區忠孝東路六段266號
+189,呷尚寶,ChIJvVAEGHGrQjQRZHk62i2_Uaw,25.0487884,121.5898826,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",南港區忠孝東路六段278巷5弄10號
+190,呷尚寶-元氣店,ChIJg0amJXGrQjQRowB1dfq1nP0,25.0491017,121.5892374,4,223,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 280, 忠孝東路六段, 南港區"
+191,呷尚寶,ChIJBUr4UVerQjQRr7RlJY6E-t0,25.051276,121.6175744,4,38,"['restaurant', 'food', 'point_of_interest', 'establishment']",汐止區橫科路6號
+192,瑞麟美而美早餐店,ChIJJ1fhjFmrQjQRtdmljMtOz_k,25.0519359,121.6153636,3.8,22,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 125, 中南街, 南港區"
+194,巨林美而美,ChIJIeeX0FmrQjQRxL0M9dxu_Y8,25.0532344,121.6164527,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+0,軍功早餐店（巨林美而美）,ChIJbSau9WaqQjQRrAxuMpMkacw,24.9990505,121.5742517,3.5,33,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區和平東路四段
+2,巨林美而美,ChIJtXDL9WaqQjQRLvN4BNLUTDw,24.9991061,121.5742722,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+4,弘爺漢堡,ChIJ3Q8HmzeqQjQRGRXXZXWMhe8,25.0181982,121.5574849,4.2,54,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區臥龍街256-1號
+5,呷尚寶早餐店,ChIJQ6pyBEiqQjQR48_TqyHDvYw,25.0171447,121.5602355,4.1,110,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 511, 和平東路三段, 信義區"
+6,瑞麟美而美,ChIJ8WqW8DOqQjQRDerVZmRBXvY,25.0242984,121.5536743,1,4,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+8,Laya Burger,ChIJY5aNkC6qQjQRR2NxeC30DMQ,25.0249562,121.5446309,3.9,72,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 291號, Section 2, Heping East Road, Da’an District"
+9,Hong Ya Burger 弘爺漢堡,ChIJkduBfwasQjQR9zhNTBy03v0,25.078696,121.5460483,3.8,262,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區北安路458巷41弄38號
+11,大直美而美,ChIJUdXHyQWsQjQRIBxB3fsrTf4,25.0796668,121.5460541,3.8,25,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 520, 北安路, 中山區"
+12,瑞麟美而美,ChIJ6Z7YTWSsQjQROo-FeJ2HFWo,25.0805017,121.5744398,2.7,15,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區內湖路一段627號
+14,美而美,ChIJCcRpZWSsQjQRxMVvPZZFzOU,25.0798486,121.5762359,4.1,26,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區內湖路一段677號
+15,拉亞漢堡 北市文德,ChIJ34EhwomsQjQRzkKYso8qg6c,25.078639,121.5837286,3.6,92,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區文德路107號
+16,呷尚寶,ChIJl3I2V4isQjQRPEvNTcrQEoY,25.0765645,121.5851858,3.9,84,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區文德路210巷30弄49號
+17,麥味登(內湖旗艦店),ChIJM8m4gmKsQjQROMxg_Uhc3TE,25.0772233,121.5831536,3.3,90,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區文德路90巷43號
+18,麥味登(台北葫州店),ChIJHWRfGr2sQjQRK5hwdWIMv2A,25.0709393,121.6076821,3.4,130,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 67, 民權東路六段296巷, 內湖區"
+19,拉亞漢堡 北市五分,ChIJe80sjcetQjQR1X-6onX1rTY,25.0676525,121.6133068,3.3,52,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區五分街31號
+20,呷尚寶 富康店,ChIJCykHJVirQjQRyus2HUF5jrc,25.0546802,121.6163549,3.2,70,"['restaurant', 'food', 'point_of_interest', 'establishment']",南港區市民大道八段619號
+23,美而美早餐,ChIJ6SJAUsyrQjQR5asyDVrO2Zg,25.03262,121.5514708,4,16,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 6, Lane 186, Section 4, Xinyi Road, Da’an District"
+24,Laya Burger,ChIJq6s9StWrQjQRYL81szk_N00,25.0327774,121.5380936,3.8,96,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區建國南路二段13號
+25,瑞麟美而美,ChIJJ3-ux4KpQjQRDdGhtrd2XDc,25.0338199,121.526439,4.4,222,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 6號, Lane 86, Section 2, Xinyi Road, Da’an District"
+27,Hong Ya Hamburger,ChIJjx6uMZmpQjQRMAVgBiJhOh4,25.0315289,121.5178649,3.2,132,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 8號, Lane 59, Section 1, Nanchang Road, Zhongzheng District"
+28,美而美,ChIJ8R1JU0GpQjQRlWs5c7DZMnQ,25.0634704,121.5194887,4.3,42,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 39, Fushun Street, Zhongshan District"
+29,美而美,ChIJtYcuwkOpQjQREwtLQd0fUWg,25.0616483,121.5209095,3.9,82,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 44, Tianxiang Road, Zhongshan District"
+30,東南西北美而美,ChIJf4o6DESpQjQRHa0UQaQCAZE,25.063548,121.520998,3,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 10之2號, Fushun Street, Zhongshan District"
+31,瑞麟美而美-前港一店,ChIJnw16d7GuQjQRbqMIaoGUh5s,25.0845931,121.5225746,4.1,96,"['restaurant', 'food', 'point_of_interest', 'establishment']",士林區前港街16號
+33,Hong Ya Hamburger,ChIJAzg0LbuuQjQRz5fCHJcGYs4,25.0915858,121.5255851,4,60,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 120號, Dadong Road, Shilin District"
+34,弘爺漢堡,ChIJPYk2N5KuQjQRuWCPwycTchY,25.1092801,121.518775,3.6,133,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區西安街一段153號
+35,呷尚寶,ChIJsfo6DZKuQjQRVl6Gaub6FjQ,25.1108824,121.5184973,5,1,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區東華街一段402號
+36,明德店麥味登,ChIJ_QCLt5OuQjQRYIOFP1310ck,25.1081608,121.5183444,3.6,169,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 59, Mingde Road, Beitou District"
+37,拉亞漢堡 北市懷德店,ChIJURFn-o2uQjQRYOWOfJxm0Qc,25.1117202,121.5192399,4,119,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 17, Huaide Street, Beitou District"
+38,石牌美而美,ChIJ6VqPS42uQjQRZD3MtzoQoNY,25.113416,121.514387,3.9,26,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區石牌路一段166巷43號
+39,JSP呷尚寶早餐店,ChIJz2-lxYyuQjQRQywhC0VLRWo,25.1157809,121.5150301,2.6,61,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 4, 東華街二段, 北投區"
+41,麥味登精緻早餐 石牌門市,ChIJGUUWU4yuQjQRF8-jCajWS1k,25.1143577,121.5175837,3.7,223,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 118, Yumin 6th Road, Beitou District"
+42,麥味登北投奇岩店,ChIJIZEWv9qvQjQRaYTxuUa1YKc,25.126327,121.501781,3.4,59,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 463號, Section 2, Sanhe Street, Beitou District"
+43,拉亞漢堡 北市奇岩,ChIJKVTa5FeuQjQRyV6SThyhXjE,25.1263995,121.5019721,3.5,112,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 455號, Section 2, Sanhe Street, Beitou District"
+44,美而美早餐,ChIJlyKx7FeuQjQRuEsVRTh4bS8,25.1272867,121.5017312,4.8,4,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 212, Qingjiang Road, Beitou District"
+45,瑞麟美而美早餐店,ChIJC9xoxE-uQjQRkTFO0ewH0Ig,25.137678,121.5008846,3.3,13,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 60, Shuangquan Street, Beitou District"
+47,瑞麟美而美,ChIJAza_fq6vQjQRkuhP58MtbMo,25.1380703,121.4853345,3.8,41,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區中央北路三段49號
+49,麥味登早餐,ChIJ794XYq6vQjQRzSB2qAGDqmw,25.1380678,121.4845868,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+50,Hong Ya Hamburger,ChIJY6W_kp2vQjQRS-DuVxdvKZQ,25.1362586,121.46136,2.9,150,"['restaurant', 'food', 'point_of_interest', 'establishment']",淡水區民族路32號
+51,巨林 美而美,ChIJ_36hSIgBaDQRY0GjRcj0Voc,24.9595956,121.5384116,3.7,30,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 25號, Guangming Street, Xindian District"
+52,麥味登北新店,ChIJ4eylEYsBaDQRZ0LfMc_xuJQ,24.9663645,121.5408676,3.6,139,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 259號, Section 1, Beixin Road, Xindian District"
+53,JSP呷尙寶新店區公所店早餐店,ChIJrdzhJosBaDQR0wlAMlOG1Ec,24.96786,121.5400418,3.9,52,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 49號, Zhonghua Road, Xindian District"
+54,美而美早餐,ChIJV6QyMvcBaDQRsT8yJthj15k,24.9767873,121.5424526,4.1,51,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 7, 明德路, 新店區"
+55,瑞麟美而美,ChIJL8ICMBkCaDQR4NST_FLTbdY,24.973966,121.530617,3,84,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 129, Zhongyang Road, Xindian District"
+57,拉亞漢堡 北市景福,ChIJIeRftbmrQjQRoFNh90SjUf8,24.9934401,121.5404376,3,21,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 269號, Jingfu Street, Wenshan District"
+58,JSP 呷尚寶,ChIJrYJDDAGqQjQRq0hhUwwK-qk,24.9933631,121.540191,4,75,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 254, Jingfu Street, Wenshan District"
+60,麥味登 萬隆店,ChIJ24-HIh2qQjQRD7TpULsZkk8,25.0017137,121.5392955,3.4,127,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區羅斯福路五段233號
+61,麥味登文山饗食大亨店(羅斯福饗食大亨),ChIJXYW8wqSrQjQR0WmYu0Gwta8,25.0020335,121.5375974,4.6,133,"['restaurant', 'food', 'point_of_interest', 'establishment']","一樓, No. 25號, Lane 218, Section 5, Luosifu Road, Wenshan District"
+62,瑞麟美而美 萬隆店,ChIJLxw5Xh2qQjQRA_d4yBvYsUU,25.002175,121.5372385,3.9,62,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 30, Lane 218, Section 5, Luosifu Road, Wenshan District"
+64,巨林美而美,ChIJUZEEUByqQjQRO437AzXyJEA,25.0036148,121.5406846,4,52,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區萬祥里
+66,JSP古亭,ChIJX7nDcJCpQjQR88xcLi8FYGE,25.0250966,121.5233617,3.6,69,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 205, Section 2, Nanchang Road, Zhongzheng District"
+67,宏臨美而美,ChIJTTg5jZqpQjQROclLgmwMSDA,25.0266773,121.523335,2.8,16,"['restaurant', 'food', 'point_of_interest', 'establishment']","12 巷, No. 10, Section 1, Heping East Road, Da’an District"
+68,瑞麟美而美,ChIJj0fJV46pQjQRPUDAoKUmFbc,25.0260093,121.523563,3.7,35,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 79-2, Section 2, Roosevelt Road, Da’an District"
+71,Laya Burger Taipei Yitong,ChIJoaEnRGCpQjQRoVdyzkW0-Rc,25.052679,121.5352191,2.6,65,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 25, Lane 6, Section 2, Jianguo North Road, Zhongshan District"
+72,麥味登,ChIJFST5K-urQjQRkWMnF8ZqBjo,25.0500543,121.5644087,3.2,127,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區八德路四段245巷36號
+73,南京市場西式早餐(美而美),ChIJTwqUUZGrQjQRWPEf6R__k74,25.0531133,121.5661503,3.6,12,"['restaurant', 'food', 'point_of_interest', 'establishment']","Alley 38, Lane 291, Section 5, Nanjing East Road, Songshan District"
+74,巨林美而美,ChIJOe9hbJSrQjQRyVitCx64zeM,25.0520563,121.5639339,3.4,8,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區安平里
+76,瑞麟美而美,ChIJ8cZu4XMCaDQRFjsW3Q26--U,24.9907309,121.5087691,3.8,43,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 48號, Heping Street, Zhonghe District"
+78,麥味登中和和平店,ChIJe1uFZzADaDQRG9J_L5Py3OE,24.9904411,121.5088812,4.6,7,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 15-1號, Heping Street, Zhonghe District"
+86,東方不敗麵食美而美早餐,ChIJeb2Y1F6pQjQRgbbgOMkXMB4,25.0599931,121.5338166,4.2,10,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 36-4, Alley 12, Lane 147, Section 2, Minsheng East Road, Zhongshan District"
+90,JSP呷尚寶環河店,ChIJAVFbqz-pQjQRAJHJsyPNks4,25.062417,121.5113713,4.3,94,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 255號, Section 2, Yanping North Road, Datong District"
+92,巨林美而美,ChIJEaO-ZSKpQjQRrZKcjV5kEqo,25.0637939,121.499278,4,22,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 14, Wenhua North Road, Sanchong District"
+94,呷尚寶 重安店,ChIJbyNXd-KoQjQRJbrDCF12yKs,25.0574654,121.4908971,3.8,50,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區重安街54號號
+95,美而美,ChIJkQ2PZeKoQjQRzMfR5xC7CB4,25.0576689,121.4903747,4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","Lane 13, Zhongan Street, Sanchong District"
+96,麥味登-三重捷運店,ChIJbU_YNM6pQjQRurjz6U0IXbI,25.0566847,121.48421,4.5,84,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區捷運路37巷14號
+103,弘爺漢堡文化北店,ChIJC0FDTHOpQjQRiqoSoFj9Ohw,25.0690778,121.4977833,3.3,58,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 133號, Wenhua North Road, Sanchong District"
+104,瑞麟美而美-三重仁愛一店,ChIJB_oZ-JypQjQRSWxqBca3N0U,25.0716654,121.4964508,4.4,34,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 26號, Ren'ai Street, Sanchong District"
+106,巨林美而美,ChIJJSHMCCSpQjQRsbUUo7BA0LM,25.0688512,121.4978616,3,5,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 125, 文化北路, 三重區"
+109,弘爺漢堡 905店,ChIJIYP-KF-pQjQRotaCptgbp8U,25.0773111,121.4869132,4.4,46,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區三和路四段109-6號
+112,金盃美而美,ChIJrWEA1suoQjQRpeZydzMdJ30,25.0853154,121.4716884,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']","Fuxing Road, Luzhou District"
+113,拉亞漢堡-土城頂捷,ChIJA6sPdukcaDQRJdNB-pgF6l8,24.9604426,121.4200338,3.1,123,"['restaurant', 'food', 'point_of_interest', 'establishment']",土城區中央路四段58號
+114,瑞麟美而美,ChIJAer_zdAcaDQRtO8R46OOObo,24.9659371,121.4363983,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",土城區承天路15號
+116,美而美早午餐,ChIJf6xs0tAcaDQRF4Ds_fv8kTM,24.965937,121.4363983,3.9,62,"['restaurant', 'food', 'point_of_interest', 'establishment']",土城區承天路15號
+120,麥味登,ChIJZe425ECoQjQRXAI54JWbDNE,25.0289412,121.4723682,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 99, Alley 1, Lane 182, Section 2, Wenhua Road, Banqiao District"
+121,瑞麟美而美,ChIJhaXJwx6pQjQRaqrAFffsk9M,25.0353759,121.5013978,4.3,8,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 231號, Kangding Road, Wanhua District"
+123,大麥美而美,ChIJP_Re83CpQjQRFB3jo9YpByc,25.043458,121.524077,3.1,43,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 21號, Qingdao East Road, Zhongzheng District"
+126,永春美而美,ChIJ3--7kqOrQjQR2-0AW1THzHs,25.0403823,121.5754664,3.6,129,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 44, Lane 132, Hulin Street, Xinyi District"
+127,美而美,ChIJtaQJ42-rQjQRrPfpROy80Uw,25.0503031,121.5943153,4.2,16,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 456, Section 6, Zhongxiao East Road, Nangang District"
+128,麥味登,ChIJDac5r3qrQjQR2PlWbbhJ3oo,25.0517065,121.593468,2.7,120,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 94號, Kunyang Street, Nangang District"
+140,瑞麟美而美,ChIJJRmYDhSqQjQRHoSwwMh3ZB4,25.0024313,121.5551537,4.3,12,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 2-1, Lane 222, Section 4, Xinhai Road, Wenshan District"
+146,麥味登北市陽光店,ChIJrfDWozaqQjQRiRPNOz42pno,25.0227778,121.5552778,3.8,524,"['restaurant', 'food', 'point_of_interest', 'establishment']",信義區信安街155號
+147,PLAYA Tacos & Salads,ChIJFeQFDFurQjQRe2PZG4-2P5Q,25.0210386,121.5563474,4.7,187,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 331, 和平東路三段, 信義區"
+148,麥味登北市崇德店,ChIJ2ZlyiAerQjQRZDyx-Rcorrw,25.0241881,121.5556466,4.4,58,"['restaurant', 'food', 'point_of_interest', 'establishment']","1樓, No. 95號, Chongde Street, Xinyi District"
+152,呷尚寶,ChIJqU4Ity2qQjQR_Kni_Kem5Jg,25.0271561,121.5458763,3.5,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 20弄6號, Lane 198, Siwei Road, Da’an District"
+153,麥味登 台北大安店,ChIJNeGyVMSrQjQReS8gTQp2Ipc,25.029824,121.5458688,4.1,53,"['restaurant', 'food', 'point_of_interest', 'establishment']","1樓, No. 134號, Section 2, Da'an Road, Da’an District"
+154,巧味美而美,ChIJyWvFYSyqQjQR6s0h3UF2fbM,25.0285395,121.5439312,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 5, Lane 151, Section 2, Fuxing South Road, Da’an District"
+156,麥味登台北瑞安店,ChIJnQzyxKqrQjQRoJZTvFs0zxs,25.028877,121.5403785,4,42,"['restaurant', 'food', 'point_of_interest', 'establishment']","1樓, No. 26號, Lane 208, Rui'an Street, Da’an District"
+161,萬佳香美而美,ChIJYS3plCqqQjQRKsObzeuM44Y,25.0309503,121.5383165,3.9,17,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區建國南路二段79巷3號
+164,麥味登複合式餐飲,ChIJRfcg2-OrQjQRRbjhSebk4L4,25.0590426,121.5405756,3.6,260,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區龍江路244號
+165,巨林美而美,ChIJq5xNNuGrQjQR1YkKvk4vVoE,25.0566605,121.5421866,4.4,27,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 261-361, Liaoning Street, Zhongshan District"
+167,拉亞漢堡北市龍江店,ChIJBxDMEOOrQjQR8ue538-mwHA,25.0619974,121.5406369,3.9,242,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區龍江路302號
+168,萬佳香美而美,ChIJR6FrVeOrQjQR29dQAUGzMso,25.0632102,121.5426324,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區民權東路三段39巷
+169,瑞麟美而美早餐（敦北店）,ChIJW4k2Q-WrQjQRBUO4Mhds81I,25.0610301,121.5476781,3.9,10,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區敦化北路244巷35號
+171,Laya Burger,ChIJGeu1aOWrQjQRWGVWHzwGsuE,25.0605413,121.5475912,4.2,63,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 17號, Lane 160, Section 3, Minquan East Road, Songshan District"
+172,麥味登北市敦北店,ChIJ8dcxmxerQjQRdiUDBppfGYo,25.0592786,121.5482933,4.6,50,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 11號, Lane 222, Dunhua North Road, Songshan District"
+175,瑞麟美而美,ChIJhUc8WgSsQjQR2CmX12G6MZY,25.0809854,121.5447464,3.8,42,"['restaurant', 'food', 'point_of_interest', 'establishment']","北安路501巷135號, Zhongshan District"
+177,龍鳳美而美,ChIJ0bftTxOsQjQREoKKG2VmPBE,25.0851971,121.5591746,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區內湖路一段45號
+179,麥味登 早午餐 ( 內湖園區店 ),ChIJT0CZMOutQjQRjYwJPpi4ZS4,25.084271,121.5679861,4.1,118,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區內湖路一段323巷30號
+180,美而美早餐店,ChIJZ75_VW-sQjQRYwCgpkAoecI,25.0829204,121.5712433,3.9,34,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區內湖路一段411巷12-2號
+183,拉亞漢堡 內湖江南,ChIJacMSYGOsQjQR1xAft0MU5WI,25.077784,121.5770727,3.9,201,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區港墘路127巷16弄2號
+184,巨林美而美,ChIJtbf9xIWtQjQRE-caaq0cZFg,25.0816219,121.573058,4,23,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 3號, Alley 10, Lane 591, Section 1, Neihu Road, Neihu District"
+186,JSP呷尚寶,ChIJHybI7GWsQjQRuEdkzq2gyU8,25.0815509,121.5721837,4.4,133,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 3, 內湖路一段437巷, 內湖區"
+188,弘爺漢堡(達人店),ChIJgSSwgYusQjQRoGsKteJTRno,25.081618,121.588155,4.2,66,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區內湖路二段195號
+192,漢林美而美早餐,ChIJaz6OhbOtQjQRq8O2mZRiwi8,25.0799792,121.5952172,4.3,7,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區星雲街142號
+193,Laya Burger,ChIJrzPOJY2sQjQRlG5kPjAhPko,25.0828788,121.591527,3.6,61,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區內湖路二段396號
+194,巨林美而美－康湖店,ChIJUV1koY2sQjQR4lMqVVxIssE,25.0804293,121.5924141,4.2,56,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 11, Alley 25, Lane 61, Section 4, Chenggong Road, Neihu District"
+196,巨林美而美早餐店,ChIJ67WpRvKsQjQRpQyMu4zEfmQ,25.0876199,121.5920523,4.1,19,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 29號, Alley 8, Lane 60, Section 3, Neihu Road, Neihu District"
+199,金湖路美而美,ChIJj2wW0vCtQjQR-92AHBazR-c,25.0731659,121.604552,4.7,9,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區金湖路411號
+200,巨林美而美,ChIJUYIB1qSsQjQRzLjfYj01FpY,25.067325,121.614037,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",內湖區五分街22號
+208,拉亞漢堡-北市松德,ChIJ3WAehqWrQjQRiUzNw_MfS8I,25.0347824,121.5747191,3.4,160,"['restaurant', 'food', 'point_of_interest', 'establishment']",信義區松德路223號
+210,MyWarmDay麥味登（松智店）,ChIJRdO9h7SrQjQRYxO9kS_D2wQ,25.0287435,121.5648868,3.9,363,"['restaurant', 'food', 'point_of_interest', 'establishment']",信義區莊敬路325巷58號
+211,JSP呷尚寶,ChIJiRRZlrWrQjQR0iKhOvEvVF8,25.0306706,121.5610993,3.4,91,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 190-2, 莊敬路, 信義區"
+213,麥味登 莊敬店,ChIJW7B3vLWrQjQR42-lCmlULFY,25.030544,121.5616105,3.6,295,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 203, Zhuangjing Road, Xinyi District"
+216,麥味登敦南遠企,ChIJ7UeF4GOrQjQRD_y_qBI4wlI,25.0310847,121.549423,3.3,46,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 5號, Lane 63, Section 2, Dunhua South Road, Da’an District"
+217,美而美快餐,ChIJNYdcR86rQjQR2QMkPfHXACo,25.0368236,121.5498416,3.2,9,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 1, Alley 9, Lane 112, Section 4, Ren'ai Road, Da’an District"
+223,麥味登 - 北市仁愛店,ChIJjy70OH6pQjQRCzYSqrILg9Q,25.0366095,121.5356826,3.1,90,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區仁愛路三段24巷1弄6號
+224,瑞麟美而美,ChIJ5a-9r3-pQjQRXa2wx1R0z-k,25.0354184,121.5347394,3.8,25,"['restaurant', 'food', 'point_of_interest', 'establishment']",大安區信義路三段31巷11號
+229,萬家香美而美,ChIJq8Hn2AGpQjQRDJT0B7BExXc,25.0446878,121.5164458,3,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 11之1, Xinyang Street, Zhongzheng District"
+230,拉亞漢堡-北市愛國,ChIJoTUkf5-pQjQRsJVLsHHwskQ,25.0370776,121.5144368,3.7,62,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區愛國西路1號
+238,麥味登 MWD Cafe&Brunch 國王店,ChIJtXvvkUKpQjQR_MMzb_WVeo4,25.0581164,121.5234909,3.1,155,"['restaurant', 'food', 'point_of_interest', 'establishment']",中山區民生東路一段5號
+240,JSP 岬尚宝,ChIJaTshTEKpQjQRu4y7oyZQUR4,25.0599456,121.5217636,3.1,42,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 25, Lane 96, Section 2, Zhongshan North Road, Zhongshan District"
+241,萬佳鄉美而美,ChIJlcWw92qpQjQRzf_HorQR4fA,25.0569597,121.5168665,4.5,18,"['restaurant', 'food', 'point_of_interest', 'establishment']","No, No. 246, Taiyuan Road, Datong District"
+242,巨林美而美,ChIJP5YsBmqpQjQRqMr2FF1RkF4,25.058047,121.519184,3.3,12,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 9號, Shuanglian Street, Datong District"
+248,瑞鱗美而美,ChIJz9Vc8UCpQjQREZ4-k3dMUUE,25.0620261,121.5159894,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 9, Lane 144, Minquan West Road, Datong District"
+249,拉亞漢堡 北市昌吉,ChIJkzqcHEepQjQR-jKDmPevvpM,25.0660094,121.5166539,3.8,106,"['restaurant', 'food', 'point_of_interest', 'establishment']",大同區昌吉街37號
+250,弘爺漢堡,ChIJJ7XkzkCpQjQR6GFFoKsSW7I,25.0637699,121.516079,4.4,59,"['restaurant', 'food', 'point_of_interest', 'establishment']",大同區大龍街25號
+251,呷尚寶,ChIJpWI3jUipQjQRMcKOrAH75Hk,25.0705414,121.5174134,3.5,71,"['restaurant', 'food', 'point_of_interest', 'establishment']",台北巿大同區承德路三段208巷17號
+252,巨林美而美,ChIJhWBJ8kmpQjQRdJs5csE5Xgc,25.07452,121.515338,2,2,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+254,麥味登早午餐,ChIJU6Ol3LCuQjQRr31NqdSknCs,25.087633,121.5209462,3.9,102,"['restaurant', 'food', 'point_of_interest', 'establishment']",士林區後港街166號
+255,拉亞漢堡-北市後港,ChIJh_oSFSKvQjQRTlSPHBDWoBA,25.0865684,121.521848,4.3,60,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 125號, Hougang Street, Shilin District"
+259,龍鳳美而美早餐店,ChIJAw8w6rquQjQR_iyZSjb8QJw,25.0905228,121.5240183,4.3,25,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 110, Dabei Road, Shilin District"
+261,美而美早餐 石牌榮華店,ChIJDUL0g46uQjQRtQDOeJdB0Wc,25.1140777,121.5202119,4.4,20,"['restaurant', 'food', 'point_of_interest', 'establishment']","No, No. 51, Ronghua 3rd Road, Beitou District"
+262,瑞麟美而美早餐店,ChIJAURHmJOuQjQRd2O4ostPyJQ,25.1075401,121.5176329,3.9,33,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區致遠一路一段1號1 樓
+265,弘爺漢堡 美堡寶店,ChIJWTn-jZKuQjQR9yi-gze4rbs,25.110944,121.516318,4.2,63,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區自強街146號
+269,拉亞漢堡 北市石牌,ChIJrQoTn_ivQjQRTFCKcoHZAyw,25.1169757,121.5182623,3.9,32,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 32號, Lane 90, Section 2, Shipai Road, Beitou District"
+273,JSP呷尚寶,ChIJuawRTYyuQjQRA9LIDHbJ_kM,25.1143483,121.5178547,3.4,39,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 14, Lane 114, Yuminliu Road, Beitou District"
+280,美而美早餐店,ChIJvWk8oViuQjQRvXTfd_UZKek,25.1248946,121.5073064,4.1,34,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區公舘路281號
+281,瑞麟美而美,ChIJqyLBT_GuQjQR9TwiqwzZDkY,25.1187223,121.5076619,3.9,7,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+283,巨林美而美,ChIJw3JnR_SuQjQR-UkOnkAXHHM,25.1205029,121.5099099,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 208, Section 2, Donghua Street, Beitou District"
+285,巨林美而美尊賢店,ChIJ9dHGnfGuQjQR1VsQq0L-RN8,25.116657,121.507535,4.6,41,"['restaurant', 'food', 'point_of_interest', 'establishment']","Lane 242, Zunxian Street, Beitou District"
+287,瑞麟美而美,ChIJeyHygPeuQjQRkrNzFBpKygI,25.1232549,121.5028007,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+293,瑞麟美而美,ChIJObEocFeuQjQRMrCRZKNNwKU,25.1292488,121.5018888,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區清江路122號
+302,瑞麟美而美,ChIJ93EycVCuQjQRQ92SpV3zing,25.1346694,121.5023682,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 135, Guangming Road, Beitou District"
+306,巨林美而美早餐店,ChIJAeR4OFeuQjQRfa4SWtxdL-s,25.1305936,121.501303,3.3,22,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 72, 大興街, 北投區"
+308,瑞麟美而美,ChIJUyvI41auQjQRq9Df9qOUAnM,25.1300397,121.499673,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+310,JSP呷尚寶,ChIJ752bDE-uQjQRYQMAaJiMP6Y,25.1356591,121.4977912,4,70,"['restaurant', 'food', 'point_of_interest', 'establishment']",北投區中央北路一段183號
+316,瑞麟美而美北投永興店,ChIJQ2xGI36vQjQR0qMPcoMIvXs,25.139794,121.501323,4.2,9,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 4號, Section 2, Yongxing Road, Beitou District"
+320,瑞麟美而美 北投大同店,ChIJAYqp5k6uQjQRAbvVLq87Nyc,25.1407774,121.4995057,4.4,34,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 288, Datong Street, Beitou District"
+323,瑞麟美而美(自強店),ChIJlZ67ooyvQjQRkPkyShDkvSg,25.1277548,121.4628455,4.4,5,"['restaurant', 'food', 'point_of_interest', 'establishment']",淡水區自強路259號
+326,麥味登-竹圍米路店,ChIJW-R6VyivQjQRsZXbeuwvIvk,25.1355589,121.4627643,4.5,33,"['restaurant', 'food', 'point_of_interest', 'establishment']",淡水區民族路43號
+327,麥味登早餐店-淡水竹圍店,ChIJX8QQJXavQjQRgxkcMCnGNjs,25.1350837,121.4607416,3.7,36,"['restaurant', 'food', 'point_of_interest', 'establishment']","號 1 樓, No. 13, 民權路177巷, 淡水區"
+328,麥味登,ChIJv6SRmPevQjQROX-OBdY221U,25.1692801,121.4478933,4,95,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 45號, Xuefu Road, Tamsui District"
+331,嚇嚇叫美而美,ChIJYfT4CYcBaDQRPoPgMObNFCc,24.9554519,121.5386604,4.6,5,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區北宜路一段92號
+332,碧潭美而美早餐店,ChIJOcvTVCgCaDQR7HgjIK37OxU,24.9564949,121.5343357,4.8,48,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區碧潭路36號
+334,Hong Ya Hamburger,ChIJgyCTdPMBaDQRErJK_VTyzEw,24.9698967,121.5440139,3.6,79,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 1, Lane 65, Zhongzheng Road, Xindian District"
+335,巨林美而美,ChIJHW6CnvMBaDQRaDt5SImTg_8,24.9703973,121.5437825,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+338,瑞麟美而美,ChIJtRPfU_EBaDQR2uJeKPcCczE,24.9690893,121.5393146,4.1,66,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區中華路64號
+344,拉亞漢堡,ChIJ_bfWivoBaDQRyFGaPQw3lew,24.9789577,121.5457777,4.3,3,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區中興路三段88號9樓
+345,瑞麟美而美,ChIJ6yKxVvEBaDQRoV1EcQDnKjY,24.9733132,121.5431278,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+347,Laya Burger,ChIJI9KtK_QBaDQRwsXAmufM42Q,24.9735706,121.5400752,3.7,173,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 10, Jianguo Road, Xindian District"
+348,美而美 華中店,ChIJU81PXfQBaDQRMEGvQ2Xfjeo,24.9716446,121.5413966,4.1,27,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 145號, Zhongzheng Road, Xindian District"
+349,巨林美而美,ChIJ63o4D_cBaDQRrSi6dP42zAQ,24.977102,121.540279,4.8,4,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 1-1, Lane 99, Jianguo Road, Xindian District"
+351,麥味登新店七張店,ChIJGYeochQBaDQRqFVt4h7ocT4,24.9788688,121.5415405,4.1,26,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 12號, Minzu Road, Xindian District"
+357,亞東美而美,ChIJY6-IhP4BaDQRDOSknZVsxQg,24.985949,121.5423061,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區中興路三段322號
+358,瑞麟美而美(中興路),ChIJByD7j_4BaDQRJ56fh6dym4A,24.9860358,121.5418674,3.6,17,"['restaurant', 'food', 'point_of_interest', 'establishment']",新店區中興路三段311號
+360,南方美而美早餐,ChIJsfMyDfgBaDQRy2-S_M_m56U,24.9810247,121.5374574,4.3,4,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 42, Ershizhang Road, Xindian District"
+361,麥味登順聯早餐店,ChIJRewx_v4BaDQRjGhjZ8b4tsw,24.986963,121.5396685,4.1,42,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 16號, Fuxing Road, Xindian District"
+365,瑞麟美而美,ChIJnSmX-gOqQjQRwItQUprK1qI,24.9950832,121.5421056,4.5,17,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 19號, Jinghua Street, Wenshan District"
+367,麥味登 (文山滬江店),ChIJOUdohQCqQjQRnGiuox0zowo,24.9901229,121.5405102,3.7,105,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區羅斯福路六段455巷21號1樓
+368,弘爺漢堡 樂活景美店,ChIJjaGLNwGrQjQRuahNNh1wqp4,24.9947979,121.539814,3.2,60,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區溪口街51號
+371,美而美早餐,ChIJc1BpFByqQjQRPIEdkHFqpeI,25.0041044,121.5415291,4.3,12,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區興隆路一段55巷18號
+374,JSP 呷尚寶 (景隆店),ChIJtwiDKQOqQjQRX9QegKBucgc,24.999903,121.540019,3.7,82,"['restaurant', 'food', 'point_of_interest', 'establishment']",文山區羅斯福路六段27號
+376,瑞麟美而美早餐店,ChIJURwcM9GrQjQR-ZS0kbDSd50,25.000997,121.542678,3,8,"['restaurant', 'food', 'point_of_interest', 'establishment']","一樓, No. 182號, Section 1, Xinglong Road, Wenshan District"
+383,Hong Ya Hamburger,ChIJObxVCIapQjQRJtRS36iiCpw,25.0241578,121.5314937,4.4,107,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 33號, Taishun Street, Da’an District"
+384,早安美而美,ChIJ88m1ZY-pQjQRY1an7blamPA,25.0234716,121.5294027,4.4,5,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 55號, Longquan Street, Da’an District"
+385,Laya Burger Tingzhou TSGH Store,ChIJRVDIb4ypQjQR__6cWzEbD6Q,25.0165649,121.5304279,3.5,177,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 25, Lane 244, Section 3, Roosevelt Road, Zhongzheng District"
+386,早安美而美,ChIJaTVcMJCpQjQRWADl-NW7mEo,25.0229955,121.5246995,4.1,39,"['restaurant', 'food', 'point_of_interest', 'establishment']","25°01'22. 121°31'29., No. 0""E, Lane 8, Section 2, Luosifu Road, Zhongzheng District"
+390,瑞麟美而美,ChIJS1aSSpepQjQRuIQYpuzrulU,25.0249994,121.5197469,4,16,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 137, Section 2, Tingzhou Road, Zhongzheng District"
+394,Laya Burger,ChIJNQnBtqapQjQR9GDcBtD6k4w,25.0353712,121.5079855,4,178,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區延平南路157巷3號
+395,弘爺漢堡 - 和平店,ChIJe6uxmKapQjQRlhKVOZ45nfw,25.0349562,121.5069764,3.6,113,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區中華路二段39巷2號1樓
+396,麥味登早餐店,ChIJP59vGKSpQjQREDMJF3SIVSY,25.0339934,121.5070781,3.8,22,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 5, 延平南路230巷, 中正區"
+407,JSP 呷尚寶,ChIJoSieog6pQjQRVbhpDTYCOKM,25.0462916,121.5079639,3.7,138,"['restaurant', 'food', 'point_of_interest', 'establishment']",中正區開封街二段36號
+409,瑞麟美而美,ChIJ2wIeeGCpQjQRQgmc3Fmwi-0,25.054486,121.5348992,4.4,24,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 131, Yitong Street, Zhongshan District"
+411,巨林美而美,ChIJq0vAcGCpQjQRsA4zef3IcYE,25.0541126,121.5348973,4.5,91,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 127之1號, Yitong Street, Zhongshan District"
+413,巨林美而美,ChIJcbjWdWepQjQRoqGBY8bLzIk,25.0549931,121.528587,4.2,68,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 89-6, Changchun Road, Zhongshan District"
+415,麥味登 MWD ALL DAY CAFE&BRUNCH 國王2號店,ChIJvZ0tp2CpQjQRD09jnSBV6x4,25.054992,121.53235,3.8,332,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 147-2, Changchun Road, Zhongshan District"
+417,麥味登奧斯比奧店,ChIJR_T_hF2pQjQRu-HbU5KxBBc,25.0564184,121.5289565,3.7,248,"['restaurant', 'food', 'point_of_interest', 'establishment']","1/F, No, No. 27, 中原街, 中山區"
+418,呷尚寶,ChIJkSKEs2CpQjQRnt7t-2Towqk,25.0539826,121.5314547,3.9,80,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 44, Yijiang Street, Zhongshan District"
+423,麥味登北市健康店,ChIJx2zScemrQjQRk-KMh2lBBBQ,25.0546159,121.5528061,4,486,"['restaurant', 'food', 'point_of_interest', 'store', 'establishment']",松山區健康路15巷13號
+424,麥味登,ChIJx9ZU-cGrQjQRRqi7lgVUnao,25.0495776,121.5544709,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']","Ningan Street, Songshan District"
+425,麥味登北市台視店,ChIJs43qnIGrQjQRJPiNOdiwwXg,25.0475663,121.5509175,3.9,47,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區八德路三段12巷5弄6號
+428,Hong Ya Hamburger,ChIJQy42fZarQjQRYwSqRvW60Gk,25.0497084,121.5662242,3.8,87,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區南京東路五段250巷36弄1號
+429,生活美而美,ChIJA86yZJarQjQRIeyqeTfC1vQ,25.049405,121.5662574,4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+430,呷尚寶,ChIJSTJceparQjQRse6Td8jZshE,25.0491328,121.5660851,3.1,27,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 289號, Section 4, Bade Road, Songshan District"
+432,Laya Burger,ChIJndcORZWrQjQRM2WRV7JxtrM,25.049256,121.56067,3.5,71,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區八德路四段91巷7號
+433,弘爺漢堡(如意店),ChIJjWOqpZSrQjQRjtnsbdTgFQo,25.0533282,121.5607627,4,120,"['restaurant', 'food', 'point_of_interest', 'establishment']",松山區南京東路五段123巷41之1號
+437,巨林美而美,ChIJMY-7O5mrQjQRGWlrPnAzw6Q,25.0483674,121.5760319,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",信義區松隆路288號
+439,呷尚寶 中和店,ChIJl4QlaHQCaDQR8YoYbQS33ss,24.9926062,121.510682,3.5,32,"['restaurant', 'food', 'point_of_interest', 'establishment']",中和區景平路215號
+440,呷尚宝JSP 台績店,ChIJDeD_GHICaDQRZxy9fHI3ud0,24.9875745,121.5089316,4.5,160,"['restaurant', 'food', 'point_of_interest', 'establishment']","號 No, No. 137, 興南路一段, 中和區"
+441,拉亞漢堡 中和興南,ChIJy7lIp9EDaDQRB6UvVfo68Hk,24.9856535,121.5066167,3.8,46,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 11號, Lane 34, Section 2, Xingnan Road, Zhonghe District"
+442,呷尚寶（景安店）,ChIJP8bGxXACaDQRr_54SLbay7A,24.9917997,121.5045878,3.8,39,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 209-1號, Jingan Road, Zhonghe District"
+444,中和呷尚寶安平店,ChIJRbehNXYCaDQR-1O9nNRB3fY,24.9974853,121.5066996,4.1,83,"['restaurant', 'food', 'point_of_interest', 'establishment']",中和區景安路77號
+445,第二代美而美,ChIJt_BNs9ipQjQRBTL3aDHBVAM,24.9980283,121.5084319,4.2,61,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 25, Baojian Road, Zhonghe District"
+449,拉亞漢堡 中和多倫多,ChIJBwr1YXACaDQRRvKXvFW5dt8,24.9900431,121.5038223,3.4,131,"['restaurant', 'food', 'point_of_interest', 'establishment']",中和區復興路71號
+450,美而美 中和復興店,ChIJZfyliHoCaDQRq_HO_XAje_o,24.9904257,121.5019381,4.3,20,"['restaurant', 'food', 'point_of_interest', 'establishment']",中和區復興路286號
+452,麥味登中和復興店,ChIJrWg6i3ACaDQR7_55yOCQLYE,24.9903492,121.5041193,3.5,167,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 50, Fuxing Road, Zhonghe District"
+453,巨林美而美,ChIJdySF4HkCaDQRQaLyjDxuRB0,24.9944509,121.5025215,4.8,9,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 395, Jingping Road, Zhonghe District"
+455,瑞麟美而美,ChIJ58YEEHgCaDQRfRYpyVy0EEM,24.9978994,121.5019857,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",Taiwan
+459,Amy媽早餐店(呷尚寶),ChIJN0FJSd2pQjQROmaTWdIYM9E,25.006203,121.513064,3.2,24,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 70, Section 1, Yonghe Road, Yonghe District"
+460,瑞麟美而美,ChIJrz8wH96pQjQR-1aHfVz9Ga8,24.999905,121.5138431,4.8,6,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 214, Anping Road, Zhonghe District"
+462,美而美,ChIJJWWDxN2pQjQRKGO2WgLCTHs,25.002256,121.512357,3.7,15,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 68號, Zhong'an Street, Zhonghe District"
+463,美而美,ChIJC8ARJNmpQjQRs3X8mV5RIU8,25.0003528,121.5074305,4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","Alley 4, Lane 305, Zhonghe Road, Yonghe District"
+464,美而美(雙和街),ChIJCeQ3ot6pQjQRtM084Oc9v0Q,25.0016619,121.5097409,4.4,32,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 5號, Shuanghe Street, Yonghe District"
+465,麥味登中和景安店,ChIJEcepBBepQjQRJULkVJi6Dys,24.9992265,121.508198,3.5,49,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 13號, Jingan Road, Zhonghe District"
+466,三姊妹（美而美）早餐店,ChIJUZ0ZM9-pQjQRnDy1DwpDRdM,24.998839,121.5085597,4.5,75,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 29, Lane 19, Baojian Road, Zhonghe District"
+467,新廈美而美早餐,ChIJC4cQZdupQjQRcAxDDgW3GSc,25.0059447,121.5078691,3.8,26,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",永和區保平路268巷51弄
+469,博愛美而美(樓梯早餐店),ChIJi5OXNOupQjQRPAuKJaWbzc4,25.0158858,121.5181333,4.7,3,"['restaurant', 'food', 'point_of_interest', 'establishment']",永和區博愛街27巷2號1樓
+470,美而美早餐店,ChIJZ5-wGuupQjQRixeY66gw_GM,25.0141815,121.5176692,4.4,33,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 48, 竹林路, 永和區"
+471,呷尚寶,ChIJpWg_ZeupQjQR_6D207TuxMg,25.0117202,121.5166936,4.5,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 63號, Zhongxing Street, Yonghe District"
+472,Laya Burger,ChIJBz_dieupQjQRnhGed1OK30M,25.0120653,121.5197318,4.2,137,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 97, Zhulin Road, Yonghe District"
+473,麥味登永和仁愛店,ChIJgQVke8GpQjQRhspno7jz04k,25.012857,121.511356,3.5,171,"['restaurant', 'food', 'point_of_interest', 'establishment']",永和區仁愛路145號
+474,美而美,ChIJlWxURMCpQjQR_O3oik9qLlw,25.0154106,121.5123518,4.5,19,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 158號, Wenhua Road, Yonghe District"
+475,(一加一)美而美,ChIJ8zp_bHWpQjQR-CrlMvsFek4,25.0177295,121.5132177,3.9,19,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 3號, Alley 24, Lane 75, Section 1, Huanhe West Road, Yonghe District"
+498,JSP呷尚寶,ChIJaWpZ5VipQjQRxngmuTbTVV8,25.0617122,121.5347548,4.2,10,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 22, Lane 313, Songjiang Road, Zhongshan District"
+503,巨林美而美,ChIJv71O91qpQjQR9b7nze8jsyc,25.0647965,121.5281055,4.1,47,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 48, Nong'an Street, Zhongshan District"
+505,瑞鄰美而美,ChIJVwSJMUOpQjQRUIvn3ltZ3ho,25.0602086,121.5252106,3.3,52,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 38號, Jinzhou Street, Zhongshan District"
+514,巨林美而美,ChIJ-3ULDEepQjQRh3r1nVFA4LI,25.0666081,121.5158678,4.3,20,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 100, 大龍街, 大同區"
+516,巨林美而美,ChIJBdAmdECpQjQR77eaisI7hfA,25.0609879,121.5144042,4.3,119,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 141號, Ningxia Road, Datong District"
+519,呷尚寶早餐店,ChIJn2eI8UCpQjQRW1VGVTRoZHU,25.0621426,121.515974,4.3,114,"['restaurant', 'food', 'point_of_interest', 'establishment']","號, No. 2, 民權西路144巷5弄, 大同區"
+520,巨林美而美,ChIJr-fgKj6pQjQRBkPQmKxfqZw,25.0602456,121.5112081,3.5,8,"['restaurant', 'food', 'point_of_interest', 'establishment']","1 樓, No. 252號, Section 2, Yanping North Road, Datong District"
+522,瑞麟美而美,ChIJv5opzj-pQjQRYH20QJbe7jc,25.0606229,121.5118163,3.7,3,"['restaurant', 'food', 'point_of_interest', 'establishment']","Lane 49, Bao'an Street, Datong District"
+530,瑞麟美而美,ChIJ69IXMyOpQjQRk-jE--zac28,25.0656412,121.5026488,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區三和路一段63號
+532,弘爺漢堡(福德店),ChIJkXgJ1yKpQjQRWLk0WlGXVMI,25.0647227,121.5021161,3.8,52,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區福德北路22號
+533,Hong Ya Hamburger,ChIJU3iTPBmpQjQRwpAE6q-89pc,25.0598004,121.4983885,4,69,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區正義南路83號
+534,拉亞漢堡 三重正義南,ChIJKfvmxIOpQjQRz3TxWSkcYQE,25.0612938,121.4981497,5,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 26號, Zhengyi South Road, Sanchong District"
+535,麥味登三重正義店,ChIJyQm1PBmpQjQRdqu6SZUBHTE,25.0598319,121.498182,3.8,66,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 79, Zhengyi South Road, Sanchong District"
+536,美而美漢堡店,ChIJ72O_yx6pQjQRrG4lr-6LLqY,25.059747,121.4967629,2.8,14,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 62, Guangxing Street, Sanchong District"
+537,巨林美而美,ChIJs_10yR6pQjQRSPRwUBM22NU,25.0597292,121.4965925,4.5,6,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 70號, Guangxing Street, Sanchong District"
+539,美而美(漢堡/三明治/咖啡/奶茶),ChIJH83dQCKpQjQRaflHaSA5_JM,25.0646155,121.498509,4.7,22,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 28號, Xinyi West Street, Sanchong District"
+546,巨林 美而美,ChIJo1Lyl5WpQjQRaz8bSYsTbk4,25.056231,121.492749,-,-,"['restaurant', 'food', 'point_of_interest', 'establishment']","一樓, No. 112號, Guangming Road, Sanchong District"
+547,美而美早餐光明店,ChIJkUU1Cx2pQjQRNMchZWAr7dI,25.0561874,121.4927441,4,3,"['restaurant', 'food', 'point_of_interest', 'establishment']","No. 112, Guangming Road, Sanchong District"
+549,呷尚寶,ChIJXbV7JeOoQjQR919wV0WuAMc,25.055657,121.487899,3.2,79,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區集美街35號
+552,麥味登精緻早餐,ChIJx7stAOGoQjQRac1_Myv8aNI,25.062794,121.488299,3.5,26,"['restaurant', 'food', 'point_of_interest', 'establishment']",三重區中正北路20巷2號
